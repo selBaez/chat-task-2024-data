@@ -1,0 +1,5 @@
+nltk==3.8.1
+torch==2.1.1
+transformers==4.35.0
+evaluate==0.4.0
+wandb==0.17.0
