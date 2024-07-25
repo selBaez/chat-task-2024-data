@@ -152,7 +152,7 @@ def get_mind_chart(mc_context, annotate_result, max_nodes):
             adj_temp[node2id[u[2]]][node2id[u[1]]] = 1
 
         action_input.append(temp_text)
-        coref =[[el.string for el in cluster.mentions] for cluster in coref]
+        coref = [[el.string for el in cluster.mentions] for cluster in coref]
         coref_clusters.append(coref)
     # action_adj.append(adj_temp)
 
@@ -188,8 +188,8 @@ def save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, ou
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_root', type=str, default='./../graphs')
-    parser.add_argument('--splits', nargs="+", default=["mini-valid"])  # "train", "valid", "test"])
-    parser.add_argument('--languages', nargs="+", default=["en-de_short"])
+    parser.add_argument('--splits', nargs="+", default=["train", "valid"])  # "mini-valid"])
+    parser.add_argument('--languages', nargs="+", default=["en-de", "en-fr", "en-nl", "en-pt"])
     parser.add_argument('--output_dir', type=str, default='./../preprocessed/')
     parser.add_argument('--input_text_file', type=str, default='mc_input_text.pkl')
     parser.add_argument('--adj_matrix_file', type=str, default='mc_adj_matrix.pkl')
@@ -209,10 +209,11 @@ def main(args):
         data_per_language = load_data(args, split)
 
         # Loop through languages
-        for dialogues in data_per_language:
+        for dialogues, language in zip(data_per_language, args.languages):
 
             # Analyze
             mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list = [], [], []
+            print(f"Processing split: {split}, language: {language}")
             for dialogue in tqdm(dialogues):
                 dialogue_history = "\n".join([f'{utt["sender"]}: {utt["text"]}' for utt in dialogue["dialogue"]])
                 to_translate = dialogue["dialogue"][-1]["text"]

@@ -21,12 +21,12 @@ pip install -r requirements.txt --no-cache
 
 ## Tasks
 
-- [ ] Script to extract graphs (first discuss which models)
-  - [ ] Content graphs 
-  - [ ] Perspective values
-- [ ] Run dataset preprocessing to create graphs
-  - [ ] Create ```action_input(list):["I</s><s>love</s><s>NLP</s><s>NLP</s><s>is</s><s>fun"]```
-  - [ ] Create ```action_adj(list): [adjecency matrix] ```
+- [x] Script to extract graphs (first discuss which models)
+  - [x] Content graphs 
+  - [x] Perspective values
+- [x] Run dataset preprocessing to create graphs
+  - [x] Create ```action_input(list):["I</s><s>love</s><s>NLP</s><s>NLP</s><s>is</s><s>fun"]```
+  - [x] Create ```action_adj(list): [adjecency matrix] ```
 - [ ] Adapt dataset class 
 - [ ] Adapt model to take in several graphs
   - [ ] Dialogue history
@@ -37,3 +37,6 @@ pip install -r requirements.txt --no-cache
   - [ ] ablation only some graphs
   - [ ] ablation with text 
 - [ ] Make submissions 
+
+[//]: # (Notes)
+[//]: # (- perspective triples into graph adjecency representation?)
