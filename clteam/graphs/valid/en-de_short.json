@@ -1,0 +1,1191 @@
+[
+  {
+    "Conversation ID": "60250de4b498283c735e2df6",
+    "dialogue": [
+      {
+        "sender": "customer",
+        "text": "Well it's like that.",
+        "triples": [
+          {
+            "subject": "It",
+            "predicate": "is_like",
+            "object": "that",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "I have an annoying incident yesterday.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "have",
+            "object": "an_annoying_incident",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "I had almost 335000 PRS-ORG Coins on my ACC and I only had 776.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "had",
+            "object": "335000_PRS-ORG_Coins",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          },
+          {
+            "subject": "I",
+            "predicate": "only_had",
+            "object": "776_Coins",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "So you're missing your coins.",
+        "triples": [
+          {
+            "subject": "You",
+            "predicate": "are_missing",
+            "object": "your_coins",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "That's indeed concerning.",
+        "triples": [
+          {
+            "subject": "That",
+            "predicate": "is_concerning",
+            "object": null,
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "And I'll surely look into this.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "will_look_into",
+            "object": "this",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Please provide me the email of the account.",
+        "triples": [
+          {
+            "subject": "You",
+            "predicate": "provide",
+            "object": "the_email_of_the_account",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Thank you.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "thank",
+            "object": null,
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Let me check if there were any transaction for coins that were not done by you.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "will_check",
+            "object": "transactions_for_coins",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Thank you.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "thank",
+            "object": null,
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I can see there are no suspicious activity on your account in past 7 days.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_see",
+            "object": "no_suspicious_activity_on_your_account",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I can see all the coins were used by your web app and PRS-ORG.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_see",
+            "object": "all_the_coins_were_used_by_your_web_app_and_PRS-ORG",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Let me tell you where it was used.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "will_tell",
+            "object": "where_it_was_used",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Ok.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "agree",
+            "object": null,
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Yes I signed up yesterday via PRS-ORG App.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "signed_up",
+            "object": "yesterday_via_PRS-ORG_App",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Was then thrown out and when re-registration the coins were gone.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "was_thrown_out",
+            "object": null,
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          },
+          {
+            "subject": "The_coins",
+            "predicate": "were_gone",
+            "object": null,
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I can see you purchased multiple 45000 and 25000 packs yesterday.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_see",
+            "object": "you_purchased_multiple_45000_and_25000_packs_yesterday",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "You purchased a total of 7 packs of 45000 coins and 2 for a 25000 coins.",
+        "triples": [
+          {
+            "subject": "You",
+            "predicate": "purchased",
+            "object": "7_packs_of_45000_coins_and_2_for_25000_coins",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "So I myself did not buy anything.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "did_not_buy",
+            "object": "anything",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Since I was online, as I said, via PRS-ORG App to do SBC.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "was_online",
+            "object": "via_PRS-ORG_App_to_do_SBC",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "There I was then bounced out and when re-registering the coins were gone.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "was_bounced_out",
+            "object": null,
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          },
+          {
+            "subject": "The_coins",
+            "predicate": "were_gone",
+            "object": null,
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Can it be that these were bought differently?",
+        "triples": [
+          {
+            "subject": "These",
+            "predicate": "were_bought",
+            "object": "differently",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Since I was where the whole thing happened in the work.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "was_where",
+            "object": "the_whole_thing_happened_in_the_work",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "That's not possible.",
+        "triples": [
+          {
+            "subject": "That",
+            "predicate": "is_not_possible",
+            "object": null,
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I can see there's no suspicious activity on the account.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_see",
+            "object": "no_suspicious_activity_on_the_account",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "All the packs were opened by your device only.",
+        "triples": [
+          {
+            "subject": "All the packs",
+            "predicate": "were_opened_by",
+            "object": "your_device",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I can see there were a few more 7500 coins packs opened.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_see",
+            "object": "a_few_more_7500_coins_packs_opened",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "If you still want, I can help you re-securing your account.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_help",
+            "object": "you_re-securing_your_account",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "So it must have happened on my PRS-ORG.",
+        "triples": [
+          {
+            "subject": "it",
+            "predicate": "must_have_happened_on",
+            "object": "my_PRS-ORG",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 0.8,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "As I said, I was at work at the time and only got angry where my coins are now going.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "was_at",
+            "object": "work_at_the_time",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          },
+          {
+            "subject": "I",
+            "predicate": "got_angry_where",
+            "object": "my_coins_are_now_going",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Is there a way to undo this?",
+        "triples": [
+          {
+            "subject": "there",
+            "predicate": "is_a_way_to",
+            "object": "undo_this",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Unfortunately that's not possible since you've used your coins.",
+        "triples": [
+          {
+            "subject": "that",
+            "predicate": "is_not_possible",
+            "object": "since_you've_used_your_coins",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "If somebody used your console then I'd advise you to lock your console before leaving to avoid such issues in future.",
+        "triples": [
+          {
+            "subject": "somebody",
+            "predicate": "used",
+            "object": "your_console",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 0.7,
+            "dialogue_act": 6
+          },
+          {
+            "subject": "I",
+            "predicate": "advise_you_to",
+            "object": "lock_your_console_before_leaving",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Do let me know if you've any other queries for me?",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "have_any_other_queries_for",
+            "object": "me",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Thank you for the information.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "thank",
+            "object": "you_for_the_information",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Too bad PRS-ORG can't do anything about such problems.",
+        "triples": [
+          {
+            "subject": "PRS-ORG",
+            "predicate": "can't_do_anything_about",
+            "object": "such_problems",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "But every player should spend as much money as possible for IN Game purchases.",
+        "triples": [
+          {
+            "subject": "every_player",
+            "predicate": "should_spend",
+            "object": "as_much_money_as_possible_for_IN_Game_purchases",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "This is really still expandable.",
+        "triples": [
+          {
+            "subject": "this",
+            "predicate": "is_expandable",
+            "object": "really_still",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 0.8,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Looking more at customers than at profit.",
+        "triples": [
+          {
+            "subject": "looking",
+            "predicate": "more_at",
+            "object": "customers_than_profit",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 0.7,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I'd definitely take your feedback over this to let our teams know.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "would_take",
+            "object": "your_feedback_over_this",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Conversation ID": "61968304b0d4189224c68a50",
+    "dialogue": [
+      {
+        "sender": "customer",
+        "text": "Thank you for contacting PRS-ORG Help.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "thank",
+            "object": "for_contacting_PRS-ORG_Help",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 0
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "My name is NAME-M.",
+        "triples": [
+          {
+            "subject": "My_name",
+            "predicate": "is",
+            "object": "NAME-M",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Do you tell me your first name?",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "tell",
+            "object": "me_your_first_name",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.8,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Hi Here is NAME-M",
+        "triples": [
+          {
+            "subject": "Here",
+            "predicate": "is",
+            "object": "NAME-M",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 0
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "There is a problem with PRS-ORG goals.",
+        "triples": [
+          {
+            "subject": "There",
+            "predicate": "is_problem_with",
+            "object": "PRS-ORG_goals",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Hey NAME-M!",
+        "triples": [
+          {
+            "subject": "Hey",
+            "predicate": "greet",
+            "object": "NAME-M",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 0
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I hope you are doing well, its great to meet you virtually.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "hope",
+            "object": "you_are_doing_well",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          },
+          {
+            "subject": "it",
+            "predicate": "is_great_to_meet",
+            "object": "you_virtual",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "How may I assist you today?",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "assist",
+            "object": "you_today",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "If you're too good (Season 1 Elite \u20ac",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "are_too_good",
+            "object": "Season_1_Elite",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "you can not reach the goals as on the. Photo",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "cannot_reach",
+            "object": "the_goals",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "That's why experience for the season progress is lacking",
+        "triples": [
+          {
+            "subject": "experience_for_season_progress",
+            "predicate": "is_lacking",
+            "object": "",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 4
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I see, you didn't received the PRS-ORG rewards, right?",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "did_not_receive",
+            "object": "PRS-ORG_rewards",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Please evaluate the targets automatically as completed a 'better' target aka Div 2 should be met",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "evaluate",
+            "object": "the_targets_automatically",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 0.8,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "No It's about the season experience",
+        "triples": [
+          {
+            "subject": "It",
+            "predicate": "is_about",
+            "object": "the_season_experience",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "I also take rewards so Isses not \ud83d\ude02",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "take",
+            "object": "rewards",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I see, well when the Season renews the level falls.",
+        "triples": [
+          {
+            "subject": "the_Season",
+            "predicate": "renews",
+            "object": "the_level_falls",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 6
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "That is, the goals are unlocked?",
+        "triples": [
+          {
+            "subject": "the_goals",
+            "predicate": "are_unlocked",
+            "object": "",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Or do we get compensation because they are unattainable?",
+        "triples": [
+          {
+            "subject": "we",
+            "predicate": "get_compensation",
+            "object": "because_they_are_unattainable",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 0.5,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Well, for now there is no updates that players will receive any compensation however I request you to please keep an eye on official PRS-ORG social media handles for updates if there will be anything for the compensation we'll be more than happy to provide you that.",
+        "triples": [
+          {
+            "subject": "there",
+            "predicate": "is_no_updates",
+            "object": "that_players_will_receive_compensation",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 4
+          },
+          {
+            "subject": "I",
+            "predicate": "request",
+            "object": "you_to_keep_an_eye_on_official_PRS-ORG_social_media_handles",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Is there anything else I can help you with?",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "can_help",
+            "object": "you_with_anything_else",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I do not want to rush you, but I hope we are still connected.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "do_not_want_to_rush",
+            "object": "you",
+            "sentiment": 0,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 4
+          },
+          {
+            "subject": "I",
+            "predicate": "hope",
+            "object": "we_are_still_connected",
+            "sentiment": 0,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Because you can't help me with the current problem.Apparently unfortunately no",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "cannot_help",
+            "object": "me_with_current_problem",
+            "sentiment": -1,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "customer",
+        "text": "Nevertheless nice evening for you",
+        "triples": [
+          {
+            "subject": "nice_evening",
+            "predicate": "for",
+            "object": "you",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 1
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "To you too.",
+        "triples": [
+          {
+            "subject": "to_you",
+            "predicate": "wish",
+            "object": "",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 1
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I wish I could help you.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "wish",
+            "object": "I_could_help_you",
+            "sentiment": -1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 2
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "However I hope you get your issue resolved and I really appreciate that!",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "hope",
+            "object": "you_get_your_issue_resolved",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          },
+          {
+            "subject": "I",
+            "predicate": "appreciate",
+            "object": "that",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "I hope to get a chance to assist you in future.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "hope_to_get_a_chance",
+            "object": "to_assist_you_in_future",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Thank you for letting me help you.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "thank_you",
+            "object": "for_letting_me_help_you",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "It was a pleasure assisting you.",
+        "triples": [
+          {
+            "subject": "It",
+            "predicate": "was_a_pleasure",
+            "object": "assisting_you",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Please do not hesitate to reach us back if you have any issues with PRS-ORG.",
+        "triples": [
+          {
+            "subject": "you",
+            "predicate": "do_not_hesitate",
+            "object": "to_reach_us_back",
+            "sentiment": 0,
+            "polarity": -1,
+            "certainty": 1,
+            "dialogue_act": 4
+          },
+          {
+            "subject": "you",
+            "predicate": "have",
+            "object": "any_issues_with_PRS-ORG",
+            "sentiment": 0,
+            "polarity": 0,
+            "certainty": 1,
+            "dialogue_act": 5
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "We will be delighted to have you with us PRS-ORG URL.",
+        "triples": [
+          {
+            "subject": "We",
+            "predicate": "will_be_delighted",
+            "object": "to_have_you_with_us_PRS-ORG_URL",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      },
+      {
+        "sender": "agent",
+        "text": "Thanks for reaching out to us, enjoy the rest of your day.",
+        "triples": [
+          {
+            "subject": "I",
+            "predicate": "thank_you",
+            "object": "for_reaching_out_to_us",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          },
+          {
+            "subject": "you",
+            "predicate": "enjoy",
+            "object": "the_rest_of_your_day",
+            "sentiment": 1,
+            "polarity": 1,
+            "certainty": 1,
+            "dialogue_act": 3
+          }
+        ]
+      }
+    ]
+  }
+]
