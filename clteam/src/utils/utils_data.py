@@ -21,11 +21,15 @@ def mk_dir(dir):
 
 
 def load_data(args, split):
-    datapath = Path(args.data_root) / Path(args.dataset) / f"{split}.json"
-    with open(datapath, 'r', encoding='utf-8') as file:
-        dialogues = json.load(file)
+    data_per_language = []
 
-    return dialogues
+    for language in args.languages:
+        datapath = Path(args.data_root) / f"{split}" /f"{language}.json"
+        with open(datapath, 'r', encoding='utf-8') as file:
+            dialogues = json.load(file)
+        data_per_language.append(dialogues)
+
+    return data_per_language
 
 
 def load_data_std_dialoconan(args, console):

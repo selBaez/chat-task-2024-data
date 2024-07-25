@@ -11,10 +11,10 @@ from rich.console import Console
 from rich.table import Column, Table
 from transformers import AutoTokenizer, DataCollatorForSeq2Seq, Seq2SeqTrainingArguments, Seq2SeqTrainer
 
-from train_utils.dataset import DialoconanDatasetNoGraph
-from train_utils.model import T5GenerationNoGraph
-from train_utils.utils_data import load_data_std_dialoconan, mk_dir, make_save_directory
-from train_utils.utils_prompt import postprocess_text
+from utils.dataset import DialoconanDatasetNoGraph
+from utils.model import T5GenerationNoGraph
+from utils.utils_data import load_data_std_dialoconan, mk_dir, make_save_directory
+from utils.utils_prompt import postprocess_text
 
 console = Console(record=True)
 os.environ["WANDB_PROJECT"] = "GoT_reproduction"

@@ -1,4 +1,5 @@
 import argparse
+import itertools
 import pickle
 import string
 from pathlib import Path
@@ -6,13 +7,11 @@ from pathlib import Path
 import neuralcoref
 import numpy as np
 import spacy
-import stanza
-from stanza.server import CoreNLPClient
 from tqdm import tqdm
 
-from train_utils.utils_data import load_data
+from utils.utils_data import load_data
 
-stanza.install_corenlp()
+# stanza.install_corenlp()
 nlp = spacy.load('en_core_web_sm')
 neuralcoref.add_to_pipe(nlp)  # Add neural coref to SpaCy's pipe
 punc = string.punctuation
@@ -30,27 +29,15 @@ def coreference(s):
     return doc._.coref_clusters
 
 
-def extract_triples(document):
-    triples = []
-    for sent in document.sentence:
-        for triple in sent.openieTriple:
-            subject = getattr(triple, 'subject')
-            relation = getattr(triple, 'relation')
-            object = getattr(triple, 'object')
-
-            triples.append({'subject': subject, 'relation': relation, 'object': object})
-    return triples
-
-
-def compress_triple(annotate_result, coref):
-    triples = extract_triples(annotate_result)
+def compress_triple(dialogue, coref):
+    triples = [utt["triples"] for utt in dialogue["dialogue"]]
+    triples = list(itertools.chain.from_iterable(triples))
 
     temp_set = []
-    for i in range(0, len(triples)):
-        cur = triples[i]
-        cur_subject = cur['subject'].lower()
-        cur_relation = cur['relation'].lower()
-        cur_object = cur['object'].lower()
+    for cur in triples:
+        cur_subject = cur['subject'].lower() if cur['subject'] else ""
+        cur_relation = cur['predicate'].lower() if cur['predicate'] else ""
+        cur_object = cur['object'].lower() if cur['object'] else ""
 
         for cluster in coref:
             span = [w.text.lower() for w in cluster.mentions]
@@ -89,7 +76,7 @@ def compress_triple(annotate_result, coref):
     return temp_set
 
 
-def get_mind_chart(mc_context, max_nodes, client):
+def get_mind_chart(mc_context, annotate_result, max_nodes):
     """get mind chart
 
     Args:
@@ -102,12 +89,10 @@ def get_mind_chart(mc_context, max_nodes, client):
     """
     mc_context = mc_context.replace("\n", " ")
     coref = coreference(mc_context)
-
-    mc_context = mc_context.replace("\n", " ")
-    annotate_result = client.annotate(mc_context)
     triples = compress_triple(annotate_result, coref)
 
     action_input = []
+    coref_clusters = []
 
     id2node = {}
     node2id = {}
@@ -167,9 +152,11 @@ def get_mind_chart(mc_context, max_nodes, client):
             adj_temp[node2id[u[2]]][node2id[u[1]]] = 1
 
         action_input.append(temp_text)
+        coref =[[el.string for el in cluster.mentions] for cluster in coref]
+        coref_clusters.append(coref)
     # action_adj.append(adj_temp)
 
-    return action_input, adj_temp
+    return action_input, adj_temp, coref_clusters
 
 
 def make_output_directory(args, split):
@@ -184,7 +171,7 @@ def make_output_directory(args, split):
     return outpath
 
 
-def save_data(mc_input_text_list, mc_adj_matrix_list, outpath, args):
+def save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, outpath, args):
     mc_input_text_path = outpath / args.input_text_file
     with open(mc_input_text_path, 'wb') as f:
         pickle.dump(mc_input_text_list, f)
@@ -193,15 +180,20 @@ def save_data(mc_input_text_list, mc_adj_matrix_list, outpath, args):
     with open(mc_adj_matrix_path, 'wb') as f:
         pickle.dump(mc_adj_matrix_list, f)
 
+    mc_coref_clusters_path = outpath / args.coref_clusters_file
+    with open(mc_coref_clusters_path, 'wb') as f:
+        pickle.dump(mc_coref_clusters_list, f)
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_root', type=str, default='./../data')
-    parser.add_argument('--dataset', type=str, default='DIALOCONAN')
-    parser.add_argument('--splits', nargs="+", default=["train", "dev", "test"])  # "mini-test"])
-    parser.add_argument('--output_dir', type=str, default='./../data/DIALOCONAN/got/')
+    parser.add_argument('--data_root', type=str, default='./../graphs')
+    parser.add_argument('--splits', nargs="+", default=["mini-valid"])  # "train", "valid", "test"])
+    parser.add_argument('--languages', nargs="+", default=["en-de_short"])
+    parser.add_argument('--output_dir', type=str, default='./../preprocessed/')
     parser.add_argument('--input_text_file', type=str, default='mc_input_text.pkl')
     parser.add_argument('--adj_matrix_file', type=str, default='mc_adj_matrix.pkl')
+    parser.add_argument('--coref_clusters_file', type=str, default='mc_coref_clusters.pkl')
     parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
 
     args = parser.parse_args()
@@ -214,30 +206,30 @@ def main(args):
         outpath = make_output_directory(args, split)
 
         # Read data
-        dialogues = load_data(args, split)
+        data_per_language = load_data(args, split)
 
-        # Analyze
-        mc_input_text_list, mc_adj_matrix_list = [], []
-        with CoreNLPClient(annotators=["ner", "openie", "coref"], memory='4G',
-                           endpoint='http://localhost:2727', be_quiet=True) as client:
+        # Loop through languages
+        for dialogues in data_per_language:
 
+            # Analyze
+            mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list = [], [], []
             for dialogue in tqdm(dialogues):
-                dialogue_history = dialogue["dialogue_history"]
-                hs = dialogue["hate_speech"]
+                dialogue_history = "\n".join([f'{utt["sender"]}: {utt["text"]}' for utt in dialogue["dialogue"]])
+                to_translate = dialogue["dialogue"][-1]["text"]
 
                 if args.exclude_context:
-                    mc_context_text = f"{hs}"
+                    mc_context_text = f"{to_translate}"
+                    dialogue = dialogue["dialogue"][-1]
                 else:
-                    mc_context_text = f"{dialogue_history}\n{hs}"
+                    mc_context_text = f"{dialogue_history}\n{to_translate}"
 
-                mc_input_text, mc_adj_matrix = get_mind_chart(mc_context_text, max_nodes, client)
+                mc_input_text, mc_adj_matrix, mc_coref_clusters = get_mind_chart(mc_context_text, dialogue, max_nodes)
                 mc_input_text_list.append(mc_input_text)
                 mc_adj_matrix_list.append(mc_adj_matrix)
+                mc_coref_clusters_list.append(mc_coref_clusters)
 
-            client.stop()
-
-        # Save data
-        save_data(mc_input_text_list, mc_adj_matrix_list, outpath, args)
+            # Save data
+            save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, outpath, args)
 
 
 if __name__ == '__main__':
