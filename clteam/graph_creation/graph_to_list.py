@@ -2,6 +2,15 @@ import json
 import os
 
 def format_triple(triple):
+    if 'translated_triple' in triple:
+        translated_triple = triple['translated_triple']
+        parts = translated_triple.split(' ', 2)
+        if len(parts) == 3:
+            formatted_triple = f"{parts[0]}</s><s>{parts[1]}</s><s>{parts[2].replace(' ', '_')}"
+        else:
+            formatted_triple = '</s><s>'.join(parts)
+        return formatted_triple
+    
     subject = triple.get('subject', '')
     predicate = triple.get('predicate', '')
     obj = triple.get('object', '')
@@ -34,12 +43,12 @@ def write_to_file(output_path, formatted_dialogues):
 
 # Define languages and datasets
 languages = ['en-de', 'en-fr', 'en-nl', 'en-pt']
-datasets = ['train', 'valid']
+datasets = ['train', 'valid', 'test']
 
 # Process each file and write the output
 for lang in languages:
     for dataset in datasets:
-        file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/graphs/{dataset}/{lang}.json'
+        file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/graphs/{dataset}/{lang}_merged.json'
         output_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/graphs/{dataset}/{lang}.txt'
         
         if os.path.exists(file_path):
