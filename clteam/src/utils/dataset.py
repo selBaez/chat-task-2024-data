@@ -23,9 +23,9 @@ class DialoconanDatasetWithGraph(Dataset):
         self.target_text = []
         self.source_text = []
 
-        with open(os.path.join(args.data_root, args.dataset, args.got_root, split, 'mc_input_text.pkl'), 'rb') as f:
+        with open(os.path.join(args.data_root, split, args.dataset, 'mc_input_text.pkl'), 'rb') as f:
             self.got_input_text_list = pickle.load(f)
-        with open(os.path.join(args.data_root, args.dataset, args.got_root, split, 'mc_adj_matrix.pkl'), 'rb') as f:
+        with open(os.path.join(args.data_root, split, args.dataset, 'mc_adj_matrix.pkl'), 'rb') as f:
             self.got_adj_matrix_list = pickle.load(f)
 
         for qid, prob in enumerate(self.data):

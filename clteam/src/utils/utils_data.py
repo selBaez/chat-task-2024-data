@@ -24,7 +24,7 @@ def load_data(args, split):
     data_per_language = []
 
     for language in args.languages:
-        datapath = Path(args.data_root) / f"{split}" /f"{language}.json"
+        datapath = Path(args.data_root) / f"{split}" /f"{language}" / "mc_coref_clusters.json"
         with open(datapath, 'r', encoding='utf-8') as file:
             dialogues = json.load(file)
         data_per_language.append(dialogues)
@@ -32,16 +32,26 @@ def load_data(args, split):
     return data_per_language
 
 
-def load_data_std_dialoconan(args, console):
-    console.log(f"""[Model]: Loading {args.model}...\n""")
-    console.log(f"[Data]: Reading data...\n")
+def load_data_std_dialoconan(args):
+    print(f"""[Model]: Loading {args.model}...\n""")
+    print(f"[Data]: Reading data...\n")
 
     problems_train = load_data(args, 'train')
-    problems_dev = load_data(args, 'dev')
-    problems_test = load_data(args, 'test')  # TODO change for real
+    problems_dev = load_data(args, 'valid')
+    # problems_test = load_data(args, 'test')  # TODO change for real
 
-    console.log(f"number of train problems: {len(problems_train)}\n")
-    console.log(f"number of val problems: {len(problems_dev)}\n")
-    console.log(f"number of test problems: {len(problems_test)}\n")
+    print(f"number of train problems: {len(problems_train)}\n")
+    print(f"number of val problems: {len(problems_dev)}\n")
+    # print(f"number of test problems: {len(problems_test)}\n")
 
-    return problems_train, problems_dev, problems_test
+    # if not problems_test:
+    #     problems_test = None
+
+    # print(f"number of train problems: {len(problems_train)}\n")
+    # print(f"number of val problems: {len(problems_dev)}\n")
+    # if problems_test is not None:
+    #     print(f"number of test problems: {len(problems_test)}\n")
+    # else:
+    #     print("No test problems found.\n")
+
+    return problems_train, problems_dev  # , problems_test

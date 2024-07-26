@@ -12,12 +12,12 @@ def build_train_pair_dialoconan(problems, exclude_context=False):
     examples = []
     # create the prompt input
     if exclude_context:
-        text_example = f"Hate Speech:\n{problems['hate_speech']}\n\n" \
-                       f"Counter-narrative:\n"
+        text_example = f"Source segment:\n{problems['hate_speech']}\n\n" \
+                       f"Translation:\n"
     else:
-        text_example = f"Hate Speech:\n{problems['hate_speech']}\n\n" \
+        text_example = f"Source segment:\n{problems['hate_speech']}\n\n" \
                        f"Dialogue History:\n{problems['dialogue_history']}\n\n" \
-                       f"Counter-narrative:\n"
+                       f"Translation:\n"
 
     target = problems['counter_narrative']
 
