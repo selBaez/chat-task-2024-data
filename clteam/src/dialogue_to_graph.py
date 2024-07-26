@@ -1,5 +1,6 @@
 import argparse
 import itertools
+import json
 import pickle
 import string
 from pathlib import Path
@@ -152,16 +153,15 @@ def get_mind_chart(mc_context, annotate_result, max_nodes):
             adj_temp[node2id[u[2]]][node2id[u[1]]] = 1
 
         action_input.append(temp_text)
-        coref = [[el.string for el in cluster.mentions] for cluster in coref]
-        coref_clusters.append(coref)
+        coref_clusters = [[el.string for el in cluster.mentions] for cluster in coref]
     # action_adj.append(adj_temp)
 
     return action_input, adj_temp, coref_clusters
 
 
-def make_output_directory(args, split):
+def make_output_directory(args, split, language):
     # Make path for output
-    outpath = Path(args.output_dir) / f"{split}/"
+    outpath = Path(args.output_dir) / f"{split}/" / f"{language}/"
     outpath.mkdir(parents=True, exist_ok=True)
 
     # Check if the files exist already?
@@ -181,8 +181,8 @@ def save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, ou
         pickle.dump(mc_adj_matrix_list, f)
 
     mc_coref_clusters_path = outpath / args.coref_clusters_file
-    with open(mc_coref_clusters_path, 'wb') as f:
-        pickle.dump(mc_coref_clusters_list, f)
+    with open(mc_coref_clusters_path, 'w') as f:
+        json.dump(mc_coref_clusters_list, f)
 
 
 def parse_args():
@@ -193,7 +193,7 @@ def parse_args():
     parser.add_argument('--output_dir', type=str, default='./../preprocessed/')
     parser.add_argument('--input_text_file', type=str, default='mc_input_text.pkl')
     parser.add_argument('--adj_matrix_file', type=str, default='mc_adj_matrix.pkl')
-    parser.add_argument('--coref_clusters_file', type=str, default='mc_coref_clusters.pkl')
+    parser.add_argument('--coref_clusters_file', type=str, default='mc_coref_clusters.json')
     parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
 
     args = parser.parse_args()
@@ -202,14 +202,13 @@ def parse_args():
 
 def main(args):
     for split in args.splits:
-        # Create directories
-        outpath = make_output_directory(args, split)
-
         # Read data
         data_per_language = load_data(args, split)
 
         # Loop through languages
         for dialogues, language in zip(data_per_language, args.languages):
+            # Create directories
+            outpath = make_output_directory(args, split, language)
 
             # Analyze
             mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list = [], [], []
