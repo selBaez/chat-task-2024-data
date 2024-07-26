@@ -13,6 +13,10 @@ from utils.model import T5GenerationWithGraph
 from utils.utils_data import load_data_std_dialoconan, mk_dir, make_save_directory
 from utils.utils_prompt import postprocess_text
 
+from rich.console import Console
+from rich.table import Table, Column
+from rich import box
+
 os.environ["WANDB_PROJECT"] = "WMT_24"
 
 
@@ -34,7 +38,7 @@ def T5Trainer(args):
 
     # Load data as dataset
     print('====Load dataset====')
-    train_problems, dev_problems, test_problems = load_data_std_dialoconan(args, console=console)
+    train_problems, dev_problems = load_data_std_dialoconan(args) # deleted test_problems
     train_set = DialoconanDatasetWithGraph(train_problems, "train", tokenizer, args.input_len, args.output_len, args)
     eval_set = DialoconanDatasetWithGraph(dev_problems, "dev", tokenizer, args.input_len, args.output_len, args)
 
@@ -45,7 +49,7 @@ def T5Trainer(args):
     print("model parameters: ", model.num_parameters())
 
     # rougel for cn generation
-    metric = evaluate.load("rouge")
+    metric = evaluate.load("chrF")
 
     def compute_metrics_rougel(eval_preds):
         preds, targets = eval_preds
@@ -81,7 +85,7 @@ def T5Trainer(args):
                                              per_device_eval_batch_size=args.eval_bs,
                                              weight_decay=args.weight_decay,
                                              num_train_epochs=args.epoch,
-                                             metric_for_best_model="rougeL",
+                                             metric_for_best_model="chrF",
                                              predict_with_generate=True,
                                              generation_max_length=args.output_len,
                                              load_best_model_at_end=True,
@@ -143,11 +147,11 @@ def set_random_seeds(args):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_root', type=str, default='./../data')
-    parser.add_argument('--dataset', type=str, default='DIALOCONAN')
+    parser.add_argument('--data_root', type=str, default='./../preprocessed')
+    parser.add_argument('--dataset', type=str, default='en-de')
     parser.add_argument('--got_root', type=str, default='got/')
     parser.add_argument('--output_dir', type=str, default='./../experiments')
-    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')  # TODO or large?
+    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-large')  # TODO or large?
     parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
     parser.add_argument('--epoch', type=int, default=2)  # TODO change
     parser.add_argument('--lr', type=float, default=5e-5)
@@ -162,6 +166,7 @@ def parse_args():
                         choices=['steps', 'epoch'])
     parser.add_argument('--weight_decay', type=float, default=0.05, help='weight decay')
     parser.add_argument('--bf16', action='store_true', help='use bf16 dtype')
+    parser.add_argument('--languages', default=['en-de'], help='language pair for data loader') # TODO check with sel
     args = parser.parse_args()
 
     print("args", args)
