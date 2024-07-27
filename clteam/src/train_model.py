@@ -34,12 +34,12 @@ def T5Trainer(args):
 
     # Load data as dataset
     print('====Load dataset====')
-    # train_set = ChatDatasetWithGraph("train", tokenizer, args.input_len, args.output_len, args)
-    # eval_set = ChatDatasetWithGraph("valid", tokenizer, args.input_len, args.output_len, args)
+    train_set = ChatDatasetWithGraph("train", tokenizer, args.input_len, args.output_len, args)
+    eval_set = ChatDatasetWithGraph("valid", tokenizer, args.input_len, args.output_len, args)
 
     # TODO uncomment for testing script
-    train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
-    eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+    # train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+    # eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
 
     # Load model
     print(f'====Load model: {args.model} ====')
@@ -127,9 +127,7 @@ def T5Trainer(args):
     # Generate predictions for eval set
     print('====Generate predictions====')
     torch.cuda.empty_cache()
-    print("emptied cache")
     if trainer.is_world_process_zero():
-        print("in if")
         preds, targets = generate_predictions(eval_set)
         output_data = {"preds": preds,
                        "labels": targets}
@@ -162,18 +160,18 @@ def parse_args():
     parser.add_argument('--weight_decay', type=float, default=0.05, help='weight decay')
     parser.add_argument('--bf16', action='store_true', help='use bf16 dtype')
 
-    # parser.add_argument('--language', default='en-de', help='language pair for data loader')
-    # parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-large')
-    # parser.add_argument('--epoch', type=int, default=50)
-    # parser.add_argument('--bs', type=int, default=8)
-    # parser.add_argument('--eval_bs', type=int, default=16)
+    parser.add_argument('--language', default='en-de', help='language pair for data loader')
+    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-large')
+    parser.add_argument('--epoch', type=int, default=50)
+    parser.add_argument('--bs', type=int, default=8)
+    parser.add_argument('--eval_bs', type=int, default=16)
 
     # TODO uncomment for testing script
-    parser.add_argument('--language', default='en-de_short', help='language pair for data loader')
-    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
-    parser.add_argument('--epoch', type=int, default=2)
-    parser.add_argument('--bs', type=int, default=4)
-    parser.add_argument('--eval_bs', type=int, default=4)
+    # parser.add_argument('--language', default='en-de_short', help='language pair for data loader')
+    # parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
+    # parser.add_argument('--epoch', type=int, default=2)
+    # parser.add_argument('--bs', type=int, default=4)
+    # parser.add_argument('--eval_bs', type=int, default=4)
 
     args = parser.parse_args()
 
