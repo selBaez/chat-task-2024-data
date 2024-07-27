@@ -8,18 +8,22 @@ from typing import List, Optional
 import nltk
 
 
-def build_train_pair_dialoconan(problems, exclude_context=False):
+def build_train_pair(problems, exclude_context=False):
     examples = []
     # create the prompt input
+    dialogue_history = "\n".join(
+        [f'{utt["sender"]}: {utt["reference"] if utt["target_language"] == "en" else utt["source"]}'
+         for utt in problems[:-1]])
+    to_translate = problems[-1]["reference"]
     if exclude_context:
-        text_example = f"Source segment:\n{problems['hate_speech']}\n\n" \
+        text_example = f"Source segment:\n{to_translate}\n\n" \
                        f"Translation:\n"
     else:
-        text_example = f"Source segment:\n{problems['hate_speech']}\n\n" \
-                       f"Dialogue History:\n{problems['dialogue_history']}\n\n" \
+        text_example = f"Source segment:\n{to_translate}\n\n" \
+                       f"Dialogue History:\n{dialogue_history}\n\n" \
                        f"Translation:\n"
 
-    target = problems['counter_narrative']
+    target = problems[-1]['reference']
 
     examples.append(text_example)
     prompt_input = '\n\n'.join(examples)

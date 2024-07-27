@@ -10,7 +10,7 @@ import numpy as np
 import spacy
 from tqdm import tqdm
 
-from utils.utils_data import load_data
+from utils.utils_data import load_all_data
 
 # stanza.install_corenlp()
 nlp = spacy.load('en_core_web_sm')
@@ -188,9 +188,9 @@ def save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, ou
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_root', type=str, default='./../graphs')
-    parser.add_argument('--splits', nargs="+", default=["train", "valid"])  # "mini-valid"])
+    parser.add_argument('--splits', nargs="+", default=["train", "valid", "test"])  # "mini-valid"])
     parser.add_argument('--languages', nargs="+", default=["en-de", "en-fr", "en-nl", "en-pt"])
-    parser.add_argument('--output_dir', type=str, default='./../preprocessed/')
+    parser.add_argument('--output_dir', type=str, default='./../preprocessed/with_dialogue_history/')
     parser.add_argument('--input_text_file', type=str, default='mc_input_text.pkl')
     parser.add_argument('--adj_matrix_file', type=str, default='mc_adj_matrix.pkl')
     parser.add_argument('--coref_clusters_file', type=str, default='mc_coref_clusters.json')
@@ -203,7 +203,7 @@ def parse_args():
 def main(args):
     for split in args.splits:
         # Read data
-        data_per_language = load_data(args, split)
+        data_per_language = load_all_data(args, split)
 
         # Loop through languages
         for dialogues, language in zip(data_per_language, args.languages):
@@ -214,7 +214,7 @@ def main(args):
             mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list = [], [], []
             print(f"Processing split: {split}, language: {language}")
             for dialogue in tqdm(dialogues):
-                dialogue_history = "\n".join([f'{utt["sender"]}: {utt["text"]}' for utt in dialogue["dialogue"]])
+                dialogue_history = "\n".join([f'{utt["sender"]}: {utt["text"]}' for utt in dialogue["dialogue"][:-1]])
                 to_translate = dialogue["dialogue"][-1]["text"]
 
                 if args.exclude_context:

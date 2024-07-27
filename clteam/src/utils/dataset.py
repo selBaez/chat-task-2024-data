@@ -4,10 +4,11 @@ import pickle
 import torch
 from torch.utils.data import Dataset
 
-from utils.utils_prompt import build_train_pair_dialoconan
+from utils.utils_data import load_raw_data
+from utils.utils_prompt import build_train_pair
 
 
-class DialoconanDatasetWithGraph(Dataset):
+class ChatDatasetWithGraph(Dataset):
     """
     Creating a custom dataset for reading the dataset and
     loading it into the dataloader to pass it to the
@@ -15,21 +16,21 @@ class DialoconanDatasetWithGraph(Dataset):
 
     """
 
-    def __init__(self, problems, split, tokenizer, source_len, target_len, args):
+    def __init__(self, split, tokenizer, source_len, target_len, args):
         self.tokenizer = tokenizer
-        self.data = problems  # {qid : problems[qid] for qid in qids}
+        self.data = load_raw_data(args, split, dry_run=True)  # {qid : problems[qid] for qid in qids}
         self.source_len = source_len
         self.summ_len = target_len
         self.target_text = []
         self.source_text = []
 
-        with open(os.path.join(args.data_root, split, args.dataset, 'mc_input_text.pkl'), 'rb') as f:
+        with open(os.path.join(args.data_root, split, args.language, 'mc_input_text.pkl'), 'rb') as f:
             self.got_input_text_list = pickle.load(f)
-        with open(os.path.join(args.data_root, split, args.dataset, 'mc_adj_matrix.pkl'), 'rb') as f:
+        with open(os.path.join(args.data_root, split, args.language, 'mc_adj_matrix.pkl'), 'rb') as f:
             self.got_adj_matrix_list = pickle.load(f)
 
         for qid, prob in enumerate(self.data):
-            prompt, target = build_train_pair_dialoconan(prob, args.exclude_context)
+            prompt, target = build_train_pair(prob, args.exclude_context)
             self.target_text.append(target)
             self.source_text.append(prompt)
 
@@ -104,7 +105,7 @@ class DialoconanDatasetNoGraph(Dataset):
         self.source_text = []
 
         for qid, prob in enumerate(self.data):
-            prompt, target = build_train_pair_dialoconan(prob, exclude_context)
+            prompt, target = build_train_pair(prob, exclude_context)
             self.target_text.append(target)
             self.source_text.append(prompt)
 

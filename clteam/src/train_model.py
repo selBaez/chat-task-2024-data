@@ -8,14 +8,10 @@ import numpy as np
 import torch
 from transformers import AutoTokenizer, DataCollatorForSeq2Seq, Seq2SeqTrainingArguments, Seq2SeqTrainer
 
-from utils.dataset import DialoconanDatasetWithGraph
+from utils.dataset import ChatDatasetWithGraph
 from utils.model import T5GenerationWithGraph
-from utils.utils_data import load_data_std_dialoconan, mk_dir, make_save_directory
+from utils.utils_data import mk_dir, make_save_directory
 from utils.utils_prompt import postprocess_text
-
-from rich.console import Console
-from rich.table import Table, Column
-from rich import box
 
 os.environ["WANDB_PROJECT"] = "WMT_24"
 
@@ -38,9 +34,12 @@ def T5Trainer(args):
 
     # Load data as dataset
     print('====Load dataset====')
-    train_problems, dev_problems = load_data_std_dialoconan(args) # deleted test_problems
-    train_set = DialoconanDatasetWithGraph(train_problems, "train", tokenizer, args.input_len, args.output_len, args)
-    eval_set = DialoconanDatasetWithGraph(dev_problems, "dev", tokenizer, args.input_len, args.output_len, args)
+    # train_set = ChatDatasetWithGraph("train", tokenizer, args.input_len, args.output_len, args)
+    # eval_set = ChatDatasetWithGraph("valid", tokenizer, args.input_len, args.output_len, args)
+
+    # TODO uncomment for testing script
+    train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+    eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
 
     # Load model
     print(f'====Load model: {args.model} ====')
@@ -48,8 +47,8 @@ def T5Trainer(args):
     model.resize_token_embeddings(len(tokenizer))
     print("model parameters: ", model.num_parameters())
 
-    # rougel for cn generation
-    metric = evaluate.load("chrF")
+    # chrf for cn generation
+    metric = evaluate.load("chrf")
 
     def compute_metrics_rougel(eval_preds):
         preds, targets = eval_preds
@@ -61,7 +60,7 @@ def T5Trainer(args):
         targets = tokenizer.batch_decode(targets, skip_special_tokens=True, clean_up_tokenization_spaces=True)
         decoded_preds, decoded_labels = postprocess_text(preds, targets)
 
-        result = metric.compute(predictions=decoded_preds, references=decoded_labels, use_stemmer=True)
+        result = metric.compute(predictions=decoded_preds, references=decoded_labels)
         result = {k: round(v * 100, 4) for k, v in result.items()}
         prediction_lens = [np.count_nonzero(pred != tokenizer.pad_token_id) for pred in preds]
         result["gen_len"] = np.mean(prediction_lens)
@@ -110,10 +109,10 @@ def T5Trainer(args):
     trainer.save_model(save_dir)
 
     # Evaluate
-    print('====Evaluate with HF====')
-    metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
-    trainer.log_metrics("eval", metrics)
-    trainer.save_metrics("eval", metrics)
+    # print('====Evaluate with HF====')
+    # metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
+    # trainer.log_metrics("eval", metrics)
+    # trainer.save_metrics("eval", metrics)
 
     def generate_predictions(dataset):
         predict_results = trainer.predict(test_dataset=dataset, max_length=args.output_len)
@@ -128,7 +127,9 @@ def T5Trainer(args):
     # Generate predictions for eval set
     print('====Generate predictions====')
     torch.cuda.empty_cache()
+    print("emptied cache")
     if trainer.is_world_process_zero():
+        print("in if")
         preds, targets = generate_predictions(eval_set)
         output_data = {"preds": preds,
                        "labels": targets}
@@ -147,26 +148,33 @@ def set_random_seeds(args):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--data_root', type=str, default='./../preprocessed')
-    parser.add_argument('--dataset', type=str, default='en-de')
-    parser.add_argument('--got_root', type=str, default='got/')
+    parser.add_argument('--raw_root', type=str, default='./../..')
+    parser.add_argument('--data_root', type=str, default='./../preprocessed/with_dialogue_history')
     parser.add_argument('--output_dir', type=str, default='./../experiments')
-    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-large')  # TODO or large?
     parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
-    parser.add_argument('--epoch', type=int, default=2)  # TODO change
     parser.add_argument('--lr', type=float, default=5e-5)
-    parser.add_argument('--bs', type=int, default=4)  # TODO change
-    parser.add_argument('--eval_bs', type=int, default=4)  # TODO change
     parser.add_argument('--eval_acc', type=int, default=None, help='evaluate accumulation step')
     parser.add_argument('--input_len', type=int, default=512)
     parser.add_argument('--output_len', type=int, default=256)
     parser.add_argument('--seed', type=int, default=42, help='random seed')
     parser.add_argument('--resume_from_checkpoint', type=str, default=None, help='resume from checkpoint')
-    parser.add_argument('--eval_strategy', type=str, default="steps", help='evaluation strategy',
-                        choices=['steps', 'epoch'])
+    parser.add_argument('--eval_strategy', type=str, default="steps", help='evaluation strategy')
     parser.add_argument('--weight_decay', type=float, default=0.05, help='weight decay')
     parser.add_argument('--bf16', action='store_true', help='use bf16 dtype')
-    parser.add_argument('--languages', default=['en-de'], help='language pair for data loader') # TODO check with sel
+
+    # parser.add_argument('--language', default='en-de', help='language pair for data loader')
+    # parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-large')
+    # parser.add_argument('--epoch', type=int, default=50)
+    # parser.add_argument('--bs', type=int, default=8)
+    # parser.add_argument('--eval_bs', type=int, default=16)
+
+    # TODO uncomment for testing script
+    parser.add_argument('--language', default='en-de_short', help='language pair for data loader')
+    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
+    parser.add_argument('--epoch', type=int, default=2)
+    parser.add_argument('--bs', type=int, default=4)
+    parser.add_argument('--eval_bs', type=int, default=4)
+
     args = parser.parse_args()
 
     print("args", args)
@@ -180,14 +188,6 @@ def parse_args():
 
 def main():
     print(f"\n\n\nCUDA AVAILABLE? {torch.cuda.is_available()}\n\n\n")
-
-    # training logger to log training progress
-    training_logger = Table(Column("Epoch", justify="center"),
-                            Column("Steps", justify="center"),
-                            Column("Loss", justify="center"),
-                            title="Training Status",
-                            pad_edge=False,
-                            box=box.ASCII)
 
     args = parse_args()
 
