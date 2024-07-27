@@ -6,17 +6,13 @@ import random
 import evaluate
 import numpy as np
 import torch
-from rich import box
-from rich.console import Console
-from rich.table import Column, Table
 from transformers import AutoTokenizer, DataCollatorForSeq2Seq, Seq2SeqTrainingArguments, Seq2SeqTrainer
 
 from utils.dataset import DialoconanDatasetNoGraph
 from utils.model import T5GenerationNoGraph
-from utils.utils_data import load_data_std_dialoconan, mk_dir, make_save_directory
+from utils.utils_data import load_raw_data, mk_dir, make_save_directory
 from utils.utils_prompt import postprocess_text
 
-console = Console(record=True)
 os.environ["WANDB_PROJECT"] = "GoT_reproduction"
 
 
@@ -38,7 +34,7 @@ def T5Trainer(args):
 
     # Load data as dataset
     print('====Load dataset====')
-    train_problems, dev_problems, test_problems = load_data_std_dialoconan(args, console=console)
+    train_problems, dev_problems, test_problems = load_raw_data(args)
     train_set = DialoconanDatasetNoGraph(train_problems, tokenizer, args.input_len, args.output_len,
                                          args.exclude_context)
     eval_set = DialoconanDatasetNoGraph(dev_problems, tokenizer, args.input_len, args.output_len,
@@ -180,14 +176,6 @@ def parse_args():
 
 def main():
     print(f"\n\n\nCUDA AVAILABLE? {torch.cuda.is_available()}\n\n\n")
-
-    # training logger to log training progress
-    training_logger = Table(Column("Epoch", justify="center"),
-                            Column("Steps", justify="center"),
-                            Column("Loss", justify="center"),
-                            title="Training Status",
-                            pad_edge=False,
-                            box=box.ASCII)
 
     args = parse_args()
 
