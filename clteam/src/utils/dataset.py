@@ -18,7 +18,7 @@ class ChatDatasetWithGraph(Dataset):
 
     def __init__(self, split, tokenizer, source_len, target_len, args):
         self.tokenizer = tokenizer
-        self.data = load_raw_data(args, split, dry_run=True)  # {qid : problems[qid] for qid in qids}
+        self.data = load_raw_data(args, split, dry_run=False)  # {qid : problems[qid] for qid in qids}
         self.source_len = source_len
         self.summ_len = target_len
         self.target_text = []

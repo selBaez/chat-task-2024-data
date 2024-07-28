@@ -84,7 +84,7 @@ def T5Trainer(args):
                                              per_device_eval_batch_size=args.eval_bs,
                                              weight_decay=args.weight_decay,
                                              num_train_epochs=args.epoch,
-                                             metric_for_best_model="chrF",
+                                             metric_for_best_model="score",
                                              predict_with_generate=True,
                                              generation_max_length=args.output_len,
                                              load_best_model_at_end=True,
@@ -109,10 +109,11 @@ def T5Trainer(args):
     trainer.save_model(save_dir)
 
     # Evaluate
-    # print('====Evaluate with HF====')
-    # metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
-    # trainer.log_metrics("eval", metrics)
-    # trainer.save_metrics("eval", metrics)
+    print('====Evaluate with HF====')
+    metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
+    print("Evaluation metrics:", metrics)
+    trainer.log_metrics("eval", metrics)
+    trainer.save_metrics("eval", metrics)
 
     def generate_predictions(dataset):
         predict_results = trainer.predict(test_dataset=dataset, max_length=args.output_len)
@@ -161,10 +162,10 @@ def parse_args():
     parser.add_argument('--bf16', action='store_true', help='use bf16 dtype')
 
     parser.add_argument('--language', default='en-de', help='language pair for data loader')
-    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-large')
+    parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
     parser.add_argument('--epoch', type=int, default=50)
-    parser.add_argument('--bs', type=int, default=8)
-    parser.add_argument('--eval_bs', type=int, default=16)
+    parser.add_argument('--bs', type=int, default=4)
+    parser.add_argument('--eval_bs', type=int, default=8)
 
     # TODO uncomment for testing script
     # parser.add_argument('--language', default='en-de_short', help='language pair for data loader')

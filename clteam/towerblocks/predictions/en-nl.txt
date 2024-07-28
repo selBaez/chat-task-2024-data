@@ -1,0 +1,6041 @@
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Hoe gaat het met je vandaag?
+<|im_end|>
+<|im_start|>assistant
+ It's going well and with you
+<|im_end|>
+<|im_start|>assistant
+ Goed om te horen dat het je vandaag goed gaat.
+<|im_end|>
+<|im_start|>assistant
+ Ik geniet van mijn dag tot nu toe, bedankt voor het vragen.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Nice to hear, I have a problem with ultimate team I was playing my fut draft and had just won my 2nd game.
+<|im_end|>
+<|im_start|>assistant
+ I was happy and at the end of the game I got a PRS-ORG error which sent me out of the game.
+<|im_end|>
+<|im_start|>assistant
+ Now I click on ultimate team again and see that I have automatically lost where I am very upset about.
+<|im_end|>
+<|im_start|>assistant
+ Now I can't do it anymore
+<|im_end|>
+<|im_start|>assistant
+ On the ultimate team which I do not understand
+<|im_end|>
+<|im_start|>assistant
+ Sorry for being a nuisance but
+<|im_end|>
+<|im_start|>assistant
+ This was the only thing that came up for me
+<|im_end|>
+<|im_start|>assistant
+ Ik zal zeker de details voor je controleren en proberen je te helpen met het PRS-ORG-verbindingsprobleem.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw PRS-ORG account e-mail en uw PSN ID te delen.
+<|im_end|>
+<|im_start|>assistant
+ The email is EMAIL and my PSN ID is faycal-brahim.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help
+<|im_end|>
+<|im_start|>assistant
+ Ik zie dat er een probleem is met de PRS-ORG servers en ons team werkt eraan om dit op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Onze social media-team heeft ook een update hierover gegeven:
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Op dit moment hebben we geen verdere details over het probleem, omdat het probleem al onderzocht wordt door ons team.
+<|im_end|>
+<|im_start|>assistant
+ Ik kan geen tijdsbestek beloven namens mijn hogere autoriteiten, want dat zou een valse belofte zijn.
+<|im_end|>
+<|im_start|>assistant
+ Alle nieuwe updates over dit probleem zullen door ons sociale media team worden gedeeld op de bovenvermelde link.
+<|im_end|>
+<|im_start|>assistant
+ Okey thank you for this information I knew nothing about it.
+<|im_end|>
+<|im_start|>assistant
+ But what about
+<|im_end|>
+<|im_start|>assistant
+ Me
+<|im_end|>
+<|im_start|>assistant
+ Het beste wat ik voor je kan doen is je een Draft Token tool geven die je kan proberen nadat je een uur bent uitgelogd.
+<|im_end|>
+<|im_start|>assistant
+ Als uw account in aanmerking komt voor een token, wordt deze automatisch toegekend aan uw account.
+<|im_end|>
+<|im_start|>assistant
+ Hier is de link: URL
+<|im_end|>
+<|im_start|>assistant
+ Ik waardeer uw geduld terwijl we werken aan een oplossing voor dit probleem voor al onze getroffen spelers.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben blij dat ik beschikbare informatie kon delen.
+<|im_end|>
+<|im_start|>assistant
+ Is er iets waarmee ik u kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Compensation for my lost draft
+<|im_end|>
+<|im_start|>assistant
+ EN: NAME-M is good, thank you for all your efforts
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact met ons opneemt.
+<|im_end|>
+<|im_start|>assistant
+ Blijf veilig en heb een geweldige week vooruit NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ I wish you much success with work and much luck further
+<|im_end|>
+<|im_start|>assistant
+ Same 👍🏼
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je het goed doet daar.
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat u geen toegang heeft tot het e-mailadres?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je het goed doet daar.
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat u geen toegang heeft tot het e-mailadres?
+<|im_end|>
+<|im_start|>assistant
+ I have a PRS-ORG account with an email address that I no longer have access to.
+<|im_end|>
+<|im_start|>assistant
+ I used the account to play PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ This means that it is now impossible for me to log in to my PRS-ORG account.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik zal zeker de details over je probleem nagaan en je alle mogelijke hulp bieden.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik uw PRS-ORG Account e-mail weten zodat ik uw account kan vinden en de details voor u kan controleren?
+<|im_end|>
+<|im_start|>assistant
+ I do not remember how that email address was spelled exactly.
+<|im_end|>
+<|im_start|>assistant
+ If I'm not mistaken it was EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Again I don't remember exactly
+<|im_end|>
+<|im_start|>assistant
+ The account is linked to my playstation account, I still have access to it.
+<|im_end|>
+<|im_start|>assistant
+ That account is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Ik heb de details van je account gecontroleerd en ik heb ontdekt dat je account is gedeactiveerd.
+<|im_end|>
+<|im_start|>assistant
+ U k kunt proberen het wachtwoord van uw account te resetten om er weer toegang toe te krijgen als u nog geen nieuw account hebt aangemaakt met dezelfde e-mail, zie dit artikel van de PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Als u geen toegang hebt tot het e-mailadres, is er geen mogelijkheid om het account terug te krijgen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M, my name is NAME-N
+<|im_end|>
+<|im_start|>assistant
+ Can you help me further?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, fijn je te ontmoeten NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I have a problem with my transfer market on the web app since yesterday evening
+<|im_end|>
+<|im_start|>assistant
+ I can't buy any players anymore...
+<|im_end|>
+<|im_start|>assistant
+ Yes, I can still do it on the game itself but not on the web app...
+<|im_end|>
+<|im_start|>assistant
+ Kloot, het lijkt er dus op dat je de Transfermarkt niet kunt openen via de webapp, niet waar?
+<|im_end|>
+<|im_start|>assistant
+ Exactly, I can still access it and search for players.
+<|im_end|>
+<|im_start|>assistant
+ But from the moment I want to buy one, it gives this message again
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Goed, maak je geen zorgen, wij zijn hier om je te helpen met het oplossen van je probleem.
+<|im_end|>
+<|im_start|>assistant
+ Om te beginnen, kan ik de e-mail weten die gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ Sure and definitely, EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de e-mail.
+<|im_end|>
+<|im_start|>assistant
+ I vraag uw geduld voor een minuutje.
+<|im_end|>
+<|im_start|>assistant
+ Dank u wel voor uw geduld hier, ik heb dit geval onderzocht door het betrokken team en ik ben blij om u te vertellen dat u zich geen zorgen hoeft te maken, het ziet ernaar uit dat een paar andere spelers dit probleem ook hebben gemeld, maar goed nieuws hier is dat de studio het al weet en aan het werk is aan een oplossing, het wordt momenteel rechtgezet, bedankt voor uw geduld hierover en nogmaals, maak u geen zorgen, we hebben uw ruggensteun hierin.
+<|im_end|>
+<|im_start|>assistant
+ Oh okay!
+<|im_end|>
+<|im_start|>assistant
+ Nice to hear
+<|im_end|>
+<|im_start|>assistant
+ Do you have any idea how long it would take before I can buy players again?
+<|im_end|>
+<|im_start|>assistant
+ I: What I have left is a few SBCs that I would like to complete :D
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, dit is een probleem van de studio en het zal zo snel mogelijk worden opgelost.
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp je punt volledig maar ik wil nu geen valse beloften doen omdat dit met het betrokken team te maken heeft.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ I understand that for sure, I will try again later!
+<|im_end|>
+<|im_start|>assistant
+ That was it for the rest :)
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw medewerking tijdens de chat!
+<|im_end|>
+<|im_start|>assistant
+ Het was een plezier om u te helpen, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opnam met de helpdesk van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Voor toekomstig gebruik kunt u contact met ons opnemen door URL te bezoeken.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van de dag die voor u ligt en pas op!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten, ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I updated my PRS-ORG today and since then I can't start the game
+<|im_end|>
+<|im_start|>assistant
+ I had this problem before
+<|im_end|>
+<|im_start|>assistant
+ But then I fixed it with uninstalling PRS-ORG anticheat
+<|im_end|>
+<|im_start|>assistant
+ And then reinstall it
+<|im_end|>
+<|im_start|>assistant
+ But I have been trying to fix it since this morning, it is not working.
+<|im_end|>
+<|im_start|>assistant
+ Als ik u goed begrepen heb, ondervindt u problemen met de PRS-ORG anticheat, heb ik dat goed begrepen?
+<|im_end|>
+<|im_start|>assistant
+ Yes
+<|im_end|>
+<|im_start|>assistant
+ Game won’t start
+<|im_end|>
+<|im_start|>assistant
+ Other games still work like bf and etc
+<|im_end|>
+<|im_start|>assistant
+ But only with PRS-ORG do I get this error
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het delen van het probleem met mij.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik zal mijn best doen om je te helpen met de beschikbare opties met betrekking tot het anticheatprobleem.
+<|im_end|>
+<|im_start|>assistant
+ Ok, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Probeer de stappen die in dit artikel worden beschreven uit te voeren om dit probleem op te lossen:--- URL
+<|im_end|>
+<|im_start|>assistant
+ Gelieve de stappen voor probleemoplossing uit te voeren en laat ons weten of u nog steeds hetzelfde probleem ondervindt, zodat we u kunnen helpen.
+<|im_end|>
+<|im_start|>assistant
+ U heeft gedurende de sessie heel aardig en beleefd geweest.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten of er nog iets anders is waar ik u vandaag bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Ok I will try it and let me know if it doesn't work
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u zo begripvol was.
+<|im_end|>
+<|im_start|>assistant
+ Het is een eer om een leuke en gepassioneerde speler als jij te helpen.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat ik u vandaag kon helpen.
+<|im_end|>
+<|im_start|>assistant
+ Voor het afsluiten van de sessie wens ik u veel gezondheid en welvaart toe.
+<|im_end|>
+<|im_start|>assistant
+ Als u verdere hulp nodig hebt met PRS-ORG producten, neem dan gerust contact met ons op via URL.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Tot ziens, neem voorzorgsmaatregelen en blijf veilig.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Ah, ik begrijp het. Ik zal het account controleren om te zien waarom het niet toestaat dat je een nieuwe PSN-account koppelt aan het PRS-ORG-account en je helpen om dit op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik uw PSN ID en het e-mailadres dat geregistreerd is op de PRS-ORG Account kennen?
+<|im_end|>
+<|im_start|>assistant
+ Psn- NAME-N
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG email address - EMAIL
+<|im_end|>
+<|im_start|>assistant
+ No idea what that email address is
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Ik controleer het.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik weten wat de originele gegevens zijn die op de account zijn geregistreerd?
+<|im_end|>
+<|im_start|>assistant
+ The original?
+<|im_end|>
+<|im_start|>assistant
+ De oorspronkelijke e-mail die op de account is geregistreerd.
+<|im_end|>
+<|im_start|>assistant
+ I'm not sure
+<|im_end|>
+<|im_start|>assistant
+ So I say multiple
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Oké.
+<|im_end|>
+<|im_start|>assistant
+ Ik zie dat u ons eerder ook al over dit probleem hebt gecontacteerd. Onze adviseur heeft toen om enkele details gevraagd, maar de door u verstrekte gegevens konden niet met de account worden vergeleken.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik weten of u nieuwe gegevens heeft om het account te verifiëren?
+<|im_end|>
+<|im_start|>assistant
+ Now look
+<|im_end|>
+<|im_start|>assistant
+ I just want to play PRS-ORG on this account
+<|im_end|>
+<|im_start|>assistant
+ I am sure that the details were correct
+<|im_end|>
+<|im_start|>assistant
+ But I have now almost bought PRS-ORG for nothing
+<|im_end|>
+<|im_start|>assistant
+ So how can I solve this?
+<|im_end|>
+<|im_start|>assistant
+ Als u meer informatie hebt om ons te helpen uw account te verifiëren, kunt u contact met ons opnemen.
+<|im_end|>
+<|im_start|>assistant
+ zodat we het account opnieuw kunnen verifiëren.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben verontwaardigd, maar met die gegevens konden we de account niet verifiëren en aangezien je geen nieuwe informatie hebt om de account te verifiëren kunnen we verder niet gaan.
+<|im_end|>
+<|im_start|>assistant
+ Voor toekomstige vragen over PRS-ORG kunt u altijd contact met ons opnemen.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het contact opnemen.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van de dag die voor u ligt!
+<|im_end|>
+<|im_start|>assistant
+ Zorg voor jezelf en blijf veilig!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-N
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten en ik hoop dat het goed met je gaat!
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u helpen?
+<|im_end|>
+<|im_start|>assistant
+ I unfortunately have not received my order
+<|im_end|>
+<|im_start|>assistant
+ Dus heb je je bestelling niet ontvangen?
+<|im_end|>
+<|im_start|>assistant
+ I bought PRS-ORG points online via my phone.
+<|im_end|>
+<|im_start|>assistant
+ But unfortunately not credited.
+<|im_end|>
+<|im_start|>assistant
+ Correct
+<|im_end|>
+<|im_start|>assistant
+ Geen nood, ik zal je zeker helpen met alle mogelijke manieren en al mijn inspanningen.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik weten wanneer u het hebt gekocht?
+<|im_end|>
+<|im_start|>assistant
+ Not very long ago
+<|im_end|>
+<|im_start|>assistant
+ I think about 10 to 15.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Ik wil je graag informeren dat het soms 24 uur duurt voordat het wordt verwerkt, dus maak je geen zorgen, het wordt binnen 24 uur verwerkt als het probleem zich nog steeds voordoet, neem dan gerust contact met ons op, we helpen je graag met munten.
+<|im_end|>
+<|im_start|>assistant
+ Okay, great!
+<|im_end|>
+<|im_start|>assistant
+ Dan wacht ik het even af....I am also not used to it taking longer😄
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen als je niet binnen 24 uur bent geleverd. Neem gerust contact met ons op, we helpen je graag.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw medewerking!
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je tevreden bent met mijn hulp.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik u nog meer helpen?
+<|im_end|>
+<|im_start|>assistant
+ Great!
+<|im_end|>
+<|im_start|>assistant
+ I know that.
+<|im_end|>
+<|im_start|>assistant
+ Sorry for wasting your time for now.
+<|im_end|>
+<|im_start|>assistant
+ I wish you a good evening!
+<|im_end|>
+<|im_start|>assistant
+ And hopefully not until next time😜
+<|im_end|>
+<|im_start|>assistant
+ U bent een ongelooflijk persoon en ik moet zeggen dat je een goed hart hebt.
+<|im_end|>
+<|im_start|>assistant
+ Neem goed zorg voor jezelf.
+<|im_end|>
+<|im_start|>assistant
+ Het was een groot voorrecht om met u te kunnen praten.
+<|im_end|>
+<|im_start|>assistant
+ Voordat ik deze chatgesprek beëindig, zal ik je vragen om goed voor jezelf te zorgen.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve contact met ons op te nemen op URL voor verdere hulp.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hulp hebt gezocht bij PRS-ORG help.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van de dag!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Het is een plezier om u te ontmoeten, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Yes not good with me.
+<|im_end|>
+<|im_start|>assistant
+ I have been waiting for almost 1 week from you!!!!
+<|im_end|>
+<|im_start|>assistant
+ When will I get my top players and 1 million coins back?
+<|im_end|>
+<|im_start|>assistant
+ Back accessible for transfers.
+<|im_end|>
+<|im_start|>assistant
+ I benauwd dat je je coins en spelers mist.
+<|im_end|>
+<|im_start|>assistant
+ En: I zal zeker de updates van je zaak bekijken.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve even een momentje te wachten terwijl ik de details van uw laatste casus controleer.
+<|im_end|>
+<|im_start|>assistant
+ I am not going to wait days again now!
+<|im_end|>
+<|im_start|>assistant
+ Do it now
+<|im_end|>
+<|im_start|>assistant
+ Ready?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hebt gewacht.
+<|im_end|>
+<|im_start|>assistant
+ Ik kan zien dat uw transfermarkt werd geblokkeerd toen onze teams 4 dagen geleden overtredingen op uw account ontdekten.
+<|im_end|>
+<|im_start|>assistant
+ Dus onze adviseur heeft je geholpen je account opnieuw te beveiligen en je zaak doorgestuurd naar onze dienst voor naleving voor verder onderzoek naar je sanctie.
+<|im_end|>
+<|im_start|>assistant
+ Vanaf daar werd uw zaak doorgestuurd naar de studio's en die kunnen een week nodig hebben om te reageren, afhankelijk van de wachtrij.
+<|im_end|>
+<|im_start|>assistant
+ Dus je krijgt een antwoord van onze teams binnen 4 werkdagen.
+<|im_end|>
+<|im_start|>assistant
+ Wacht alstublieft en houd uw e-mail in de gaten.
+<|im_end|>
+<|im_start|>assistant
+ I wens u alle goeds toe.
+<|im_end|>
+<|im_start|>assistant
+ Always the same stories pfff
+<|im_end|>
+<|im_start|>assistant
+ I am deaf and bored at home because of PRS-ORG and I want to enjoy playing PRS-ORG!
+<|im_end|>
+<|im_start|>assistant
+ Ik spijt me daarvoor.
+<|im_end|>
+<|im_start|>assistant
+ Maar het onderzoek duurt tijd.
+<|im_end|>
+<|im_start|>assistant
+ Afhankelijk van de wachtrij en het onderzoek dat vereist is voor uw zaak kan het enkele dagen duren.
+<|im_end|>
+<|im_start|>assistant
+ Wacht alstublieft en houd uw e-mail in de gaten.
+<|im_end|>
+<|im_start|>assistant
+ I zal mijn best doen om de dingen een beetje te versnellen voor u.
+<|im_end|>
+<|im_start|>assistant
+ Ok
+<|im_end|>
+<|im_start|>assistant
+ Bye
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor al uw geduld en medewerking.
+<|im_end|>
+<|im_start|>assistant
+ Als u nog andere hulp nodig hebt, kunt u altijd contact met ons opnemen en we helpen u graag verder.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met de helpdesk van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Heb een mooie dag voor u.
+<|im_end|>
+<|im_start|>assistant
+ Tot ziens en pas op!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M
+<|im_end|>
+<|im_start|>assistant
+, het is leuk om je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je je vandaag goed voelt.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I have 2 problems and 1 question.
+<|im_end|>
+<|im_start|>assistant
+ Firstly, there seems to be a glitch on the transfer market.
+<|im_end|>
+<|im_start|>assistant
+ Items that should normally 'expire' remain on 'processing' and thus do not expire and I cannot put them up for sale again.
+<|im_end|>
+<|im_start|>assistant
+ Also, the problem has been dragging on for 3 weeks that I can only offer 30 items at a time on the transfer market on the web app and on the PRS_ORG app
+<|im_end|>
+<|im_start|>assistant
+ I also wondered if compensation would be available for people who could not buy the Hero pack for 25,000 coins since this was a mistake and everyone who could buy it got a lot of coins for free.
+<|im_end|>
+<|im_start|>assistant
+ The first problem has been solved.
+<|im_end|>
+<|im_start|>assistant
+ It seemed like a glitch for a quarter of an hour!
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik begrijp hebt u hulp nodig met de transfermarkt.
+<|im_end|>
+<|im_start|>assistant
+ Laat me u verzekeren dat ik hier ben om u te helpen!
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ My email address is EMAIL and my username is ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ Goed!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u ons dit hebt laten weten.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld hier, ik heb dit geval al onderzocht door het betrokken team en ik ben blij om u te vertellen dat u zich geen zorgen hoeft te maken, het lijkt erop dat een paar andere spelers dit probleem ook hebben gemeld, maar het goede nieuws is dat de studio hier al van op de hoogte is en dat ze al aan een oplossing werken, het wordt nu rechtgezet terwijl we spreken, bedankt voor uw geduld hierover en nogmaals, maak u geen zorgen, we hebben uw rug hierbij.
+<|im_end|>
+<|im_start|>assistant
+ Het is een goed teken dat dit in het kennisnet van het betrokken team is gebracht en dat ze er hard aan werken om het zo snel mogelijk op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ U moet gewoon even wachten, dit is een bekend probleem voor ons en ons betrokken team werkt hard aan een oplossing.
+<|im_end|>
+<|im_start|>assistant
+ Dus maak je geen zorgen, wacht even en controleer het opnieuw.
+<|im_end|>
+<|im_start|>assistant
+ I zou u willen verzoeken om onze officiële website en onze sociale mediapagina in de gaten te houden voor verdere updates en informatie.
+<|im_end|>
+<|im_start|>assistant
+ U k kunt PRS-ORG Help op PRS-ORG volgen voor meer updates.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Thank you
+<|im_end|>
+<|im_start|>assistant
+ Another question
+<|im_end|>
+<|im_start|>assistant
+ Will there be compensation for people who were not able to buy the Hero pack for 25,000 coins?
+<|im_end|>
+<|im_start|>assistant
+ As this was a mistake and everyone who could buy it, actually got a lot of coins for free.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik kan nagaan is er momenteel geen update over dit probleem. De discussie is echter nog gaande en het team is bezig om dit op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Zodra er nieuwe updates zijn, zullen ze de informatie zeker op sociale media platformen plaatsen.
+<|im_end|>
+<|im_start|>assistant
+ I advise om de updates in de gaten te houden.
+<|im_end|>
+<|im_start|>assistant
+ OK, thank you for the help!
+<|im_end|>
+<|im_start|>assistant
+ Ik ben blij dat ik je kon helpen met je probleem.
+<|im_end|>
+<|im_start|>assistant
+ Dit was niet mogelijk geweest zonder uw medewerking.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ M is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Hoe gaat het met je vandaag?
+<|im_end|>
+<|im_start|>assistant
+ Good but I have a problem
+<|im_end|>
+<|im_start|>assistant
+ 15 January someone probably hacked into my account and sold my cards, I didn't even know it was happening.
+<|im_end|>
+<|im_start|>assistant
+ In PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Is it possible to get my cards back
+<|im_end|>
+<|im_start|>assistant
+ Goed om te weten dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Om het probleem hier goed te begrijpen, werd uw PRS-ORG account gecompromitteerd en mist u nu PRS-ORG content.
+<|im_end|>
+<|im_start|>assistant
+ Kloot?
+<|im_end|>
+<|im_start|>assistant
+ Is that possible?
+<|im_end|>
+<|im_start|>assistant
+ Yes I someone sold my PRS-ORG cards a hacker
+<|im_end|>
+<|im_start|>assistant
+ Someone went into my account and sold my players
+<|im_end|>
+<|im_start|>assistant
+ I can get my players back on January 15?
+<|im_end|>
+<|im_start|>assistant
+ Ah!
+<|im_end|>
+<|im_start|>assistant
+ Dat is niet de ervaring die we onze spelers willen geven.
+<|im_end|>
+<|im_start|>assistant
+ I zal zeker de details voor je controleren en proberen je te helpen met de beveiliging van je account en het probleem met het ontbreken van PRS-ORG-content.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw PRS-ORG account e-mailadres en uw PSN ID te delen.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL is ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Ik heb een verificatie-e-mail gestuurd, kijk even.
+<|im_end|>
+<|im_start|>assistant
+ De e-mail heeft als onderwerpregel 'Verifieer de eigenaar van uw PRS-ORG-account' en u hebt hem misschien in uw inbox of spambox ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Controleer uw e-mail en deel de zescijferige verificatiecode met mij.
+<|im_end|>
+<|im_start|>assistant
+ ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ I can get my cards back
+<|im_end|>
+<|im_start|>assistant
+ A HACKER HAS REMOVED MY CARDS, I WANT MY CARDS BACK!
+<|im_end|>
+<|im_start|>assistant
+ Er is een goed nieuws voor u.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb uw account gecontroleerd en ik kan u verzekeren dat het account volledig beveiligd is.
+<|im_end|>
+<|im_start|>assistant
+ De spelen op deze account werden alleen bezocht vanuit vertrouwde apparaten en u hebt ook inlogverificatie ingeschakeld om een extra laag van bescherming te bieden.
+<|im_end|>
+<|im_start|>assistant
+ Dit betekent dat iedereen die toegang had tot de account of de console de wijzigingen aan uw PRS-ORG kon doorvoeren.
+<|im_end|>
+<|im_start|>assistant
+ We vonden deze bewering niet waar en we kunnen geen verloren inhoud op deze account herstellen, maar ik zou u willen voorstellen om uw PRS-ORG en PRS-ORG accountwachtwoorden te updaten en uw console uit te schakelen wanneer u deze niet gebruikt om dergelijke ongemakken in de toekomst te vermijden.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben blij dat ik beschikbare informatie kon delen.
+<|im_end|>
+<|im_start|>assistant
+ Is er iets waarmee ik u kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ It is not incorrect
+<|im_end|>
+<|im_start|>assistant
+ The person also hacked my email
+<|im_end|>
+<|im_start|>assistant
+ I want my cards back
+<|im_end|>
+<|im_start|>assistant
+ I can send photos
+<|im_end|>
+<|im_start|>assistant
+ I WANT MY CARDS BACK
+<|im_end|>
+<|im_start|>assistant
+ I had 87 carlos alberto 88 maldini 91 kroos stoickov
+<|im_end|>
+<|im_start|>assistant
+ And more
+<|im_end|>
+<|im_start|>assistant
+ We hebben geen foto's nodig, we kunnen de beveiliging van uw account op onze kant controleren en ik kan u verzekeren dat uw account niet gecompromitteerd is.
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp de overlast maar ik heb de account al gecontroleerd en je hebt beschikbare informatie gekregen die nog steeds hetzelfde is, namelijk dat het account niet gecompromitteerd is en dat alle inhoud die op het account stond, op dit account zelf is gebruikt.
+<|im_end|>
+<|im_start|>assistant
+ De game werd vanaf je vertrouwde apparaat gespeeld, wat betekent dat iedereen die toegang had tot het apparaat deze veranderingen kon doorvoeren.
+<|im_end|>
+<|im_start|>assistant
+ Ik raad je opnieuw aan om je PRS-ORG account en PRS-ORG wachtwoorden te updaten om ervoor te zorgen dat je niet opnieuw met dergelijke problemen geconfronteerd wordt.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders wat ik voor u kan doen?
+<|im_end|>
+<|im_start|>assistant
+ Your cancer mother
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u helpen?
+<|im_end|>
+<|im_start|>assistant
+ Zijn we nog steeds verbonden?
+<|im_end|>
+<|im_start|>assistant
+ I have a problem with my account
+<|im_end|>
+<|im_start|>assistant
+ Kunt u uw probleem alstublieft wat verder toelichten?
+<|im_end|>
+<|im_start|>assistant
+ Yes of course
+<|im_end|>
+<|im_start|>assistant
+ I played PRS-ORG on PC last year, now I am playing PRS-ORG again on PlayStation but both accounts are on 1 email.
+<|im_end|>
+<|im_start|>assistant
+ Now I am trying to log in on the web app, and I can't switch accounts, from PC to PS4
+<|im_end|>
+<|im_start|>assistant
+ The option is there to switch from PC PRS-ORG to PlayStation PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ But he doesn't
+<|im_end|>
+<|im_start|>assistant
+ And if I want to do that, it keeps freezing and logs me out
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie, ik ga dit voor u controleren.
+<|im_end|>
+<|im_start|>assistant
+ Ondertussen kan je me vertellen hoe je dag tot nu toe is verlopen?
+<|im_end|>
+<|im_start|>assistant
+ Translation in English: Um, yes, hi, and how about you?
+<|im_end|>
+<|im_start|>assistant
+ Ik ben blij dat te weten en het gaat goed met mij tot nu toe, bedankt voor je vraag.
+<|im_end|>
+<|im_start|>assistant
+ Do I need to answer anything else or?
+<|im_end|>
+<|im_start|>assistant
+ Wat betreft uw zorg, u kunt het PRS-ORG-account niet overzetten van PC naar PRS-ORG omdat het spel nog niet is uitgebracht.
+<|im_end|>
+<|im_start|>assistant
+ Voor meer informatie kunt u onze website bezoeken - URL
+<|im_end|>
+<|im_start|>assistant
+ /help/PRS-ORG/Start van de vroege web- en bijbehorende app van PRS-ORG/
+<|im_end|>
+<|im_start|>assistant
+ So I can only access the web app tonight?
+<|im_end|>
+<|im_start|>assistant
+ NL: Do you want to know if the web app is out tonight or if I can only do that on the 27th?
+<|im_end|>
+<|im_start|>assistant
+ Of October 1st?
+<|im_end|>
+<|im_start|>assistant
+ I mean that I can log in on the web app with my PlayStation account tonight instead of the PRS-ORG account
+<|im_end|>
+<|im_start|>assistant
+ Zoals je zei dat je van PC naar console hebt geschakeld en je hebt PRS-ORG op PC gespeeld, dus je zal alleen de PRS-ORG-app vanaf je PC kunnen gebruiken.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou u dan ook willen aanraden om te wachten tot het spel wordt uitgebracht.
+<|im_end|>
+<|im_start|>assistant
+ Adw
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat u begrijpt.
+<|im_end|>
+<|im_start|>assistant
+ ebook
+<|im_end|>
+<|im_start|>assistant
+ The PRS-ORG is on Thursday August 5
+<|im_end|>
+<|im_start|>assistant
+ This ebook is now missing from my account
+<|im_end|>
+<|im_start|>assistant
+ Hallo, ik zal u graag helpen vandaag.
+<|im_end|>
+<|im_start|>assistant
+ I vraag u even geduld terwijl ik uw accountgegevens opvraag.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld, het lijkt erop dat uw boek is gearchiveerd, ik zal het naar uw account terugbrengen.
+<|im_end|>
+<|im_start|>assistant
+ U kunt het opnieuw doen op URL, dan mijn boeken en dan de archiefsectie.
+<|im_end|>
+<|im_start|>assistant
+ Boek is nu weer op uw account, gelieve te synchroniseren om het te zien.
+<|im_end|>
+<|im_start|>assistant
+ Ok, thank you.
+<|im_end|>
+<|im_start|>assistant
+ I can only see no archive section in my books.
+<|im_end|>
+<|im_start|>assistant
+ Er is alleen op URL die je niet op je e-reader ziet
+<|im_end|>
+<|im_start|>assistant
+ Kun je nu het ontbrekende boek zien?
+<|im_end|>
+<|im_start|>assistant
+ Yes I can see the book now, but I can't find that archive myself.
+<|im_end|>
+<|im_start|>assistant
+ For if it happens again
+<|im_end|>
+<|im_start|>assistant
+ Ok, laten we eens kijken.
+<|im_end|>
+<|im_start|>assistant
+ Bent u op een mobiele browser of een computerbrowser?
+<|im_end|>
+<|im_start|>assistant
+ I found it!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help.
+<|im_end|>
+<|im_start|>assistant
+ Klinkt goed, kunnen we u nog helpen met iets anders?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact hebt opgenomen met PRS-ORG, het was mijn genoegen u vandaag te helpen.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je een goede dag hebt.
+<|im_end|>
+<|im_start|>assistant
+ Thank you, have a great day too.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi, my name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ I have a new phone number
+<|im_end|>
+<|im_start|>assistant
+ Het is leuk om u te ontmoeten PRS-ORG, ik hoop dat het goed met u gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I can't confirm the verification code
+<|im_end|>
+<|im_start|>assistant
+ To log in to the PRS-ORG web app
+<|im_end|>
+<|im_start|>assistant
+ I zal je zeker helpen met het registreren van een nieuw telefoonnummer op de inlogverificatiefunctie.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik het e-mailadres van uw PRS-ORG-account weten?
+<|im_end|>
+<|im_start|>assistant
+ Top
+<|im_end|>
+<|im_start|>assistant
+ Yes that is EMAIL but because I am no longer a student for a while I can not access that email address...
+<|im_end|>
+<|im_start|>assistant
+ Oké.
+<|im_end|>
+<|im_start|>assistant
+ Dus dit is de eerste keer dat u contact met ons opneemt om dit probleem te melden of heeft u ons al eerder gecontacteerd?
+<|im_end|>
+<|im_start|>assistant
+ I tried earlier last week but then the chat crashed
+<|im_end|>
+<|im_start|>assistant
+ It was quite a long queue
+<|im_end|>
+<|im_start|>assistant
+ That's why I'm trying it one more time now
+<|im_end|>
+<|im_start|>assistant
+ I would especially like to change my mobile number
+<|im_end|>
+<|im_start|>assistant
+ But I don't know how easy that can be
+<|im_end|>
+<|im_start|>assistant
+ Volgens de beveiligings- en privacyrichtlijnen is het belangrijk om de eigenaar van de account te verifiëren voordat wijzigingen worden doorgevoerd.
+<|im_end|>
+<|im_start|>assistant
+ Aangezien u geen toegang heeft tot het e-mailadres, hebben we enkele details nodig van het PRS-ORG-account waar we mee werken.
+<|im_end|>
+<|im_start|>assistant
+ Let op dat we maar één kans krijgen om deze informatie in te vullen tijdens een live chat en dat eventuele spelfouten van invloed kunnen zijn op de correctheid van het antwoord.
+<|im_end|>
+<|im_start|>assistant
+ IP-adres (netwerk waarop je speelt):
+<|im_end|>
+<|im_start|>assistant
+ Geboortedatum (vermeld bij het aanmaken van het account):
+<|im_end|>
+<|im_start|>assistant
+ Een aankoop op rekening en aankoopdatum (maand/jaar):
+<|im_end|>
+<|im_start|>assistant
+ Laatste 4 cijfers van de creditcard:
+<|im_end|>
+<|im_start|>assistant
+ Factuuradres:
+<|im_end|>
+<|im_start|>assistant
+ Telefoonnummer:
+<|im_end|>
+<|im_start|>assistant
+ U kunt hier uw IPv4-adres vinden: URL
+<|im_end|>
+<|im_start|>assistant
+ Voor PRS-ORG-spellen die u op PRS-ORG hebt besteld, kunt u de bestelgeschiedenis op internet bekijken: URL
+<|im_end|>
+<|im_start|>assistant
+ Voor PRS-ORG-spellen die u op PRS-ORG hebt besteld, kunt u de bestelgeschiedenis op internet bekijken:
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Yes I understand that.
+<|im_end|>
+<|im_start|>assistant
+ Date of birth 29
+<|im_end|>
+<|im_start|>assistant
+ Invoice address: ADDRESS
+<|im_end|>
+<|im_start|>assistant
+ Phone number: PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Kun je het IP-adres vinden en delen?
+<|im_end|>
+<|im_start|>assistant
+ Ik heb een link naar u gestuurd om te zoeken.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Good evening, NAME-M here
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Goedemiddag
+<|im_end|>
+<|im_start|>assistant
+, het is leuk om je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Sure!
+<|im_end|>
+<|im_start|>assistant
+ I have a question about the PRS-ORG, as far as I know I still have it to do every day, soon sbc nr 6 is coming and then I still need 1 more, the goal ends tomorrow, I would come up one short, my son has the same problem on his account, there is enough time to do the last one tomorrow, I hope this helps.
+<|im_end|>
+<|im_start|>assistant
+ However, the goal ends tomorrow so I would come up one short.
+<|im_end|>
+<|im_start|>assistant
+ My son has the same problem on his account.
+<|im_end|>
+<|im_start|>assistant
+ Is there still just enough time to do the last one tomorrow?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het delen van uw zorg, ik begrijp dat u contact met ons opneemt over het PRS-ORG SBC-voortgangsprobleem.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik zal dit SBC-probleem zeker onderzoeken.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u mij alstublieft uw PRS-ORG account e-mailadres geven?
+<|im_end|>
+<|im_start|>assistant
+ Yes, that's correct, with the corresponding shapeshifters challenge
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ She uses my son
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u het me hebt laten weten, ik zal dit direct moeten controleren met het speciale game team.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve even een paar momenten te wachten.
+<|im_end|>
+<|im_start|>assistant
+ Yes of course, I'll wait calmly!
+<|im_end|>
+<|im_start|>assistant
+ I looked on answers.PRS-ORG, they gave the tip to report here indeed, then we could check if we missed an sbc or if there is indeed a content error
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw medewerking en aangezien ik de bronnen heb gecontroleerd wil ik u informeren dat we soortgelijke contacten ontvangen en dat veel klanten hetzelfde probleem ondervinden.
+<|im_end|>
+<|im_start|>assistant
+ Het goede nieuws is echter dat dit in het kenniscentrum van de game-ontwikkelaars is gebracht en dat ze hard aan het werk zijn om dit zo snel mogelijk op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Dus, ik zou u willen vragen om een tijdje te wachten tot dit probleem is opgelost. Ik weet dat niemand graag moet wachten, maar wees gerust, het team is er actief mee bezig en het probleem wordt opgelost.
+<|im_end|>
+<|im_start|>assistant
+ Behandeld met prioriteit.
+<|im_end|>
+<|im_start|>assistant
+ Zodra het probleem is opgelost zal het team dit melden op onze officiële PRS-ORG-pagina.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou u dan ook willen verzoeken om onze PRS-ORG pagina in de gaten te houden voor verdere updates.
+<|im_end|>
+<|im_start|>assistant
+ Oh great!
+<|im_end|>
+<|im_start|>assistant
+ Yes I had read that more people have this, but I thought I would report for safety.
+<|im_end|>
+<|im_start|>assistant
+ A free PRS-ORG and a shapeshifter are nice rewards!
+<|im_end|>
+<|im_start|>assistant
+ Als PRS-ORG-speler begrijp ik dat natuurlijk, maak je geen zorgen, het wordt snel opgelost.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten of ik u nog verder kan helpen of als u nog vragen hebt.
+<|im_end|>
+<|im_start|>assistant
+ Hebt u nog andere vragen voor mij?
+<|im_end|>
+<|im_start|>assistant
+ No this was it, thank you for your time and your explanation!
+<|im_end|>
+<|im_start|>assistant
+ I will wait calmly and keep an eye on answers.PRS-ORG and your Twitter account.
+<|im_end|>
+<|im_start|>assistant
+ Thank you and have a nice evening!
+<|im_end|>
+<|im_start|>assistant
+ Het is een genoegen om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Voor toekomstig gebruik kunt u contact met ons opnemen door te bezoeken op URL.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hulp hebt gezocht bij PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ U heeft ongelooflijk kalm en meewerkend gereageerd, dat wordt zeer op prijs gesteld.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van de dag die voor u ligt en blijf veilig.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, fijn dat je mee doet.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I unlinked my PRS-ORG account from PRS-ORG a while ago.
+<|im_end|>
+<|im_start|>assistant
+ On my account it says that it is unlinked from PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I want to link another account to my PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I followed the steps I found.
+<|im_end|>
+<|im_start|>assistant
+ I only can't get the possibility to link a new account.
+<|im_end|>
+<|im_start|>assistant
+ I contacted PRS-ORG, but they sent me here
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de uitleg over het probleem dat u hebt ondervonden.
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp uw probleem en ik zal mijn best doen om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u mij alstublieft uw e-mailadres geven dat gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ The account that is linked has the email address EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Hallo, hier kan ik zien dat u uw PRS-ORG-account op 27 oktober 2021 heeft losgekoppeld.
+<|im_end|>
+<|im_start|>assistant
+ 14:36 u.
+<|im_end|>
+<|im_start|>assistant
+ Dus, volgens het beleid kun je het alleen opnieuw koppelen aan een PRS-ORG-account na 6 maanden in hetzelfde PRS-ORG-account. Dat is de reden waarom je het niet kunt koppelen.
+<|im_end|>
+<|im_start|>assistant
+ Dus, je wilt je PRS-ORG account koppelen aan dit PRS-ORG account, toch?
+<|im_end|>
+<|im_start|>assistant
+ E-mail
+<|im_end|>
+<|im_start|>assistant
+ No, that is the account that PRS-ORG says is linked.
+<|im_end|>
+<|im_start|>assistant
+ I want to link it to EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Ok, dan zal je je PRS-ORG account kunnen koppelen aan dit PRS-ORG account EMAIL.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal je de link delen, gelieve het nog eens te controleren.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Probeer een PRS-ORG-spel te starten, zoals PRS-ORG vanuit uw PRS-ORG en u zou een melding moeten krijgen om uw PRS-ORG-account te koppelen aan uw PRS-ORG-account. Vervolgens kunt u de details toevoegen en uw PRS-ORG-account koppelen aan uw PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ Probeer het en laat het me weten als het werkt.
+<|im_end|>
+<|im_start|>assistant
+ I am unfortunately not at home right now, so I can't start a game, but I will definitely try it when I am home.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the help!
+<|im_end|>
+<|im_start|>assistant
+ Neen, geen probleem. Ik hoop dat het op deze manier werkt, aangezien andere spelers hierbij geholpen hebben.
+<|im_end|>
+<|im_start|>assistant
+ U kunt ons ook op elk gewenst moment contacteren!
+<|im_end|>
+<|im_start|>assistant
+ "Voordat ik deze chatgespreksonderbreking beëindig, zal ik u vragen om goed voor uzelf te zorgen.
+<|im_end|>
+<|im_start|>assistant
+ Het was een plezier en een genoegen om met u te praten hier.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hulp hebt gevraagd bij PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van je dag!"
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je je vandaag goed voelt.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Yes, sure.
+<|im_end|>
+<|im_start|>assistant
+ I just made 2 purchases for PRS-ORG packages.
+<|im_end|>
+<|im_start|>assistant
+ It has gone from the bank account, but I am not receiving a confirmation
+<|im_end|>
+<|im_start|>assistant
+ Ik zie het!
+<|im_end|>
+<|im_start|>assistant
+ U bent dus de aankoop die u deed voor PRS-ORG misgelopen, ben ik gelijk?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ I want to buy more, but I am not daring to do so now
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik ben hier om je te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal snel uw accountgegevens controleren en zal verheugd zijn om uw PRS-ORG-packkopenprobleem te verhelpen na verificatie.
+<|im_end|>
+<|im_start|>assistant
+ Daarvoor heb ik een paar details van je nodig.
+<|im_end|>
+<|im_start|>assistant
+ Is dat in orde?
+<|im_end|>
+<|im_start|>assistant
+ Kan ik uw e-mailadres kennen dat gekoppeld is aan uw PRS-ORG Account?
+<|im_end|>
+<|im_start|>assistant
+ En: Kan je de naam van de pack die je hebt gekocht en die je mist, delen alsjeblieft?
+<|im_end|>
+<|im_start|>assistant
+ That is EMAIL (it is my game email)
+<|im_end|>
+<|im_start|>assistant
+ I just made the pre order for samen groeien and the kit of first fits
+<|im_end|>
+<|im_start|>assistant
+ Bedankt, ik kijk even snel.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb een verificatie-e-mail gestuurd, kijk deze even na.
+<|im_end|>
+<|im_start|>assistant
+ De e-mail heeft als onderwerpregel 'Verifieer de eigenaar van uw PRS-ORG-account' en u hebt hem mogelijk in uw inbox of spam ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Deel de code alstublieft.
+<|im_end|>
+<|im_start|>assistant
+ Zijn we verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Good evening,
+<|im_end|>
+<|im_start|>assistant
+ Last month I closed the trial subscription PRS-ORG (both books and audiobooks) and this was also extended by 31.
+<|im_end|>
+<|im_start|>assistant
+ Now I realized that I did not purchase any audiobooks and I only wanted the subscription to purchase books.
+<|im_end|>
+<|im_start|>assistant
+ I have therefore just cancelled my previous subscription per 30 June and purchased a new subscription.
+<|im_end|>
+<|im_start|>assistant
+ The problem is that I have now paid 2x.
+<|im_end|>
+<|im_start|>assistant
+ How can this be solved?
+<|im_end|>
+<|im_start|>assistant
+ Greetings,
+<|im_end|>
+<|im_start|>assistant
+ NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ I wil u heel hartelijk verontschuldigen als u dit probleem ondervindt.
+<|im_end|>
+<|im_start|>assistant
+ Wees gerust dat ik u zal helpen met dit probleem.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik even je account openen en verifiëren?
+<|im_end|>
+<|im_start|>assistant
+ Om dat te doen, kunt u alstublieft het e-mailadres van uw PRS-ORG-account en de laatste boek dat u hebt gekocht, verstrekken?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt en sorry voor dit ongemak.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the message.
+<|im_end|>
+<|im_start|>assistant
+ My email address is EMAIL.
+<|im_end|>
+<|im_start|>assistant
+ The last book I bought is PRS-ORG by NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor het verifiëren van uw account.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben het opnieuw zo verschrikkelijk spijt dat ik u hiermee heb gehinderd.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal u graag dit aankoopbedrag terugbetalen.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik vragen welke vorm van terugbetaling u verkiest?
+<|im_end|>
+<|im_start|>assistant
+ Is het terug naar je creditcard die 3-5 dagen nodig heeft om te verwerken of wordt het teruggestort op je winkelkrediet dat realtime verschijnt?
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt.
+<|im_end|>
+<|im_start|>assistant
+ On my credit card is fine.
+<|im_end|>
+<|im_start|>assistant
+ Nl: Do I need to change my subscription after June 30 or has that already happened?
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor te bevestigen.
+<|im_end|>
+<|im_start|>assistant
+ I heb je deze teruggeboekte kosten terugbetaald op je creditcard.
+<|im_end|>
+<|im_start|>assistant
+ Uw abonnement is al enkel voor PRS-ORG e-books en wordt opnieuw geactiveerd op 06/07/20233.
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik u iets anders bieden naast dit?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi, I am NAME-M
+<|im_end|>
+<|im_start|>assistant
+ I spoke with someone from PRS-ORG earlier because I lost my account.
+<|im_end|>
+<|im_start|>assistant
+ He said that nothing more could be done but I saw someone on the internet who said that it might be possible to try to disconnect your account, could you do this?
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat!
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp dat u uw account bent verloren en dat u hulp nodig hebt om het te vinden. Ben ik gelijk?
+<|im_end|>
+<|im_start|>assistant
+ Yes I would appreciate it if you could still try to find it
+<|im_end|>
+<|im_start|>assistant
+ But I wouldn't know since someone else also said that it is gone (my account)
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de bevestiging.
+<|im_end|>
+<|im_start|>assistant
+ En: Maak je geen zorgen, je bent aan het juiste adres, ik ben hier om je te helpen en ik verzeker je dat ik mijn best zal doen om je probleem zo snel mogelijk op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u alstublieft uw geregistreerde e-mailadres delen met PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ It is also still useful to know that I lost my account because I wanted to link my account with PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ But my email is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen maar we zullen het een keer proberen.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u het e-mailadres met ons deelt.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve even een minuutje geduld te hebben, zodat ik de details van de account die is gekoppeld aan uw e-mailadres kan opvragen.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hebt gewacht.
+<|im_end|>
+<|im_start|>assistant
+ Klopt, om te bevestigen, heb je toegang tot je geregistreerde e-mailadres?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, leuk je te ontmoeten en ik hoop dat het goed met je gaat!
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u helpen?
+<|im_end|>
+<|im_start|>assistant
+ Well, I was hacked some time ago, someone logged into my PRS-ORG web app and sold all my items.
+I was not it, I am banned for something he has done, it is not fair right, I greet you, your account has been compromised and is missing the players, I am correct in this assessment, I confirm your assessment, I could live with that, I was banned suddenly, I do not know what I have done, it is not good to hear, I will figure out this for you, I may know the email linked with your PRS-ORG account, that is EMAIL, I thank you for your effort, I thank you for the email, I will escalate your case to the Terms and Service team, our team will look into this and fix this issue for you, we cannot guarantee your sanction will be overturned, it may take up to ALPHANUMERICID for our team to revert you, you may check the status of your appeal using the link below, URL is the link, the team will contact you via email, you may receive the response from our team soon, there is anything else I can help you with, the objective is that you will be able to access PRS-ORG, I will do my best to help you resol
+<|im_end|>
+<|im_start|>assistant
+ But I wasn't it anyway.
+<|im_end|>
+<|im_start|>assistant
+ But now I am banned for something he has done.
+<|im_end|>
+<|im_start|>assistant
+ It's not really fair, is it?
+<|im_end|>
+<|im_start|>assistant
+ Hallo.
+<|im_end|>
+<|im_start|>assistant
+ Goed, ik zie dat je account gecompromitteerd is en dat de spelers er niet meer zijn, ben ik gelijk?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ But I could live with that...
+<|im_end|>
+<|im_start|>assistant
+ Until I was suddenly banned, even though I don’t know what I did
+<|im_end|>
+<|im_start|>assistant
+ Dat is niet goed nieuws!
+<|im_end|>
+<|im_start|>assistant
+ Geen reden om je zorgen te maken, ik ga het voor je uitzoeken.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik weten welk e-mailadres gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ That is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your effort!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de e-mail.
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik zal uw zaak onmiddellijk doorgeven aan ons team voor Algemene Voorwaarden en Diensten, zodat ons team dit zal bekijken en dit probleem voor u zal verhelpen.
+<|im_end|>
+<|im_start|>assistant
+ Ook kunnen we niet garanderen dat het indienen van het geschil ervoor zal zorgen dat uw sanctie zeker wordt teruggedraaid.
+<|im_end|>
+<|im_start|>assistant
+ Ook kan het tot ALPHANUMERICID duren voordat ons team u een reactie geeft.
+<|im_end|>
+<|im_start|>assistant
+ U kunt ook de status van uw verzoek controleren via de link hieronder:
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Zodra het team het probleem heeft opgelost, wordt u per e-mail gecontacteerd die is gekoppeld aan uw PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ Houd uw e-mail inbox in de gaten, want u kunt binnenkort een antwoord van ons team ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Het doel van een beroep voor u indienen is dat u toegang krijgt tot de PRS-ORG en ik zal mijn best doen om u te helpen uw probleem op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ I ben ik ervan overtuigd dat de ban dit keer zal worden opgeheven.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ That would be really nice, thank you for your effort!
+<|im_end|>
+<|im_start|>assistant
+ I understand that my account is my responsibility.
+<|im_end|>
+<|im_start|>assistant
+ But a ban for 1000 days is a bit excessive.
+<|im_end|>
+<|im_start|>assistant
+ I will wait for the answer.
+<|im_end|>
+<|im_start|>assistant
+ Thank you and have a great weekend!
+<|im_end|>
+<|im_start|>assistant
+ Het zal worden verwijderd en ik zal er hard voor gaan.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met de helpdesk van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Als u nog verdere vragen heeft, aarzel dan niet om contact met ons op te nemen!
+<|im_end|>
+<|im_start|>assistant
+ Geniet van de dag die voor u ligt.
+<|im_end|>
+<|im_start|>assistant
+ Tot ziens en veel liefs uit India.
+<|im_end|>
+<|im_start|>assistant
+ M is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ I have been playing command and conquer on my pc for years, however, PRS-ORG is now saying that I don't have it anymore.
+<|im_end|>
+<|im_start|>assistant
+ He does not start because of this
+<|im_end|>
+<|im_start|>assistant
+ I can't find the code anywhere
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, fijn je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u ons hiervan op de hoogte hebt gebracht.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik begrepen heb, kunt u uw spel Command and Conquer niet vinden op uw PRS-ORG-account, ben ik gelijk?
+<|im_end|>
+<|im_start|>assistant
+ Yes, since last week it is no longer correct
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het bevestigen.
+<|im_end|>
+<|im_start|>assistant
+ Wees gerust, ik zal kijken wat ik het beste kan doen om uw zorg te verhelpen.
+<|im_end|>
+<|im_start|>assistant
+ Om te beginnen, mag ik weten welke e-mail gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het e-mailadres.
+<|im_end|>
+<|im_start|>assistant
+ I heb een zescijferige numerieke code naar het e-mailadres gestuurd dat is geregistreerd bij uw PRS-ORG account.
+<|im_end|>
+<|im_start|>assistant
+ Post het in de chat zodra je het hebt ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u niet haasten, laat het me alsjeblieft weten als u problemen ondervindt, ik ben hier voor u
+<|im_end|>
+<|im_start|>assistant
+ ALPHANUMERICID I am now only beginning to doubt if it was not linked to my other email
+<|im_end|>
+<|im_start|>assistant
+ I'm trying that right now.
+<|im_end|>
+<|im_start|>assistant
+ This is really mega stupid, it was linked to my other email address....
+<|im_end|>
+<|im_start|>assistant
+ He's doing it again :)
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de code, maar zoals ik al heb gecontroleerd is deze niet correct.
+<|im_end|>
+<|im_start|>assistant
+ Ik vraag u om de recente code te controleren en me te helpen met de codes.
+<|im_end|>
+<|im_start|>assistant
+ My credit card is not stored correctly again.
+<|im_end|>
+<|im_start|>assistant
+ This problem I had last month too and I already chatted about it.
+<|im_end|>
+<|im_start|>assistant
+ Can this be solved, I have no interest in having to report this every month...
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG is the most recent ebook
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik veronderstelde dat de vorige medewerker u in de vorige interactie had verteld om uw factureringsinformatie opnieuw in te voeren, niet?
+<|im_end|>
+<|im_start|>assistant
+ My problem is in the first message...
+<|im_end|>
+<|im_start|>assistant
+ The credit card is expired and I have already registered the new one many times, but every time the old one is reset.
+<|im_end|>
+<|im_start|>assistant
+ I don't want to receive the notification every month that my account is not renewed and every month to add my credit card again
+<|im_end|>
+<|im_start|>assistant
+ Yes, I did that at the time.
+<|im_end|>
+<|im_start|>assistant
+ Payment for April succeeded.
+<|im_end|>
+<|im_start|>assistant
+ Now payment for May has failed again
+<|im_end|>
+<|im_start|>assistant
+ Dit is vreemd.
+<|im_end|>
+<|im_start|>assistant
+ Laat me uw account nagaan.
+<|im_end|>
+<|im_start|>assistant
+ Even geduld alstublieft.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u alstublieft de laatste 4 cijfers van uw oude creditcard geven?
+<|im_end|>
+<|im_start|>assistant
+ ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ That number has stayed the same
+<|im_end|>
+<|im_start|>assistant
+ so that's the number that appeared on the new card
+<|im_end|>
+<|im_start|>assistant
+ Ik heb met mijn supervisor gesproken over dit probleem.
+<|im_end|>
+<|im_start|>assistant
+ Hij vertelde me om de factureringsinformatie te verwijderen zodat je deze opnieuw kunt invullen.
+<|im_end|>
+<|im_start|>assistant
+ Als het probleem blijft bestaan moeten we dit probleem aanpakken.
+<|im_end|>
+<|im_start|>assistant
+ Het is vreemd omdat er in ons systeem niets is dat de vorige factureringsinformatie bewaart nadat deze op onze kant is verwijderd.
+<|im_end|>
+<|im_start|>assistant
+ Yes please.
+<|im_end|>
+<|im_start|>assistant
+ I will do it one more time.
+<|im_end|>
+<|im_start|>assistant
+ How can I escalate if it happens again next month?
+<|im_end|>
+<|im_start|>assistant
+ Neem contact met ons op opnieuw.
+<|im_end|>
+<|im_start|>assistant
+ En: en vertel de medewerker dat we uw factureringsgegevens 2 keer hebben verwijderd en dat het probleem aanhoudt.
+<|im_end|>
+<|im_start|>assistant
+ En ook.
+<|im_end|>
+<|im_start|>assistant
+ Iets vertelt me dat het misschien een probleem is met de cache en cookies van je webbrowser.
+<|im_end|>
+<|im_start|>assistant
+ Cookies zijn informatie die de webbrowser gebruikt om je te identificeren op een website.
+<|im_end|>
+<|im_start|>assistant
+ Zo hoeft u uw gegevens niet opnieuw in te vullen telkens wanneer u een site bezoekt.
+<|im_end|>
+<|im_start|>assistant
+ Zoals de onze of PRS-ORG per voorbeeld
+<|im_end|>
+<|im_start|>assistant
+ I will do it on another pc
+<|im_end|>
+<|im_start|>assistant
+ Als je wilt kan ik je helpen om je cookies van je webbrowser te verwijderen.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben het met u eens, maar om redenen van kwaliteit zal ik deze chat moeten sluiten als ik binnen 2 minuten geen antwoord krijg.
+<|im_end|>
+<|im_start|>assistant
+ I'm going to get started myself.
+<|im_end|>
+<|im_start|>assistant
+ Thank you and hopefully it will work.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van je dag en zorg goed voor jezelf!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ I am blocked from the transfer market.
+<|im_end|>
+<|im_start|>assistant
+ But I haven't done anything wrong
+<|im_end|>
+<|im_start|>assistant
+ I have already contacted 3 times but it has been rejected 3 times.
+<|im_end|>
+<|im_start|>assistant
+ If you tell me how I can prove it, I will do that.
+<|im_end|>
+<|im_start|>assistant
+ Zo begrijp ik het, u wordt geweerd uit uw transfermarkt.
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik zal mijn best doen om je te helpen bij het oplossen van je probleem.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik het e-mailadres kennen dat bij uw PRS-ORG-account is geregistreerd?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Na de beoordeling van uw account kan ik zien dat er een ban op uw account staat vanwege een schending van de servicevoorwaarden.
+<|im_end|>
+<|im_start|>assistant
+ Weet u waarom dit kan zijn gebeurd?
+<|im_end|>
+<|im_start|>assistant
+ I think because I put players on it.
+<|im_end|>
+<|im_start|>assistant
+ And suddenly they have been sold for more than they are worth.
+<|im_end|>
+<|im_start|>assistant
+ But I can't do anything about people using this headache
+<|im_end|>
+<|im_start|>assistant
+ Buy
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u erop wijzen dat dit onder de overtreding van PRS-ORG-beleidsregels valt.
+<|im_end|>
+<|im_start|>assistant
+ Wat ik kan doen is je helpen een geschil in te dienen.
+<|im_end|>
+<|im_start|>assistant
+ De geschil is echter geen garantie dat de ban wordt teruggedraaid. Ons team voor de Dienstvoorwaarden zal de zaak opnieuw evalueren op basis van de door u verstrekte informatie en contact met u opnemen via e-mail zodra ze klaar zijn.
+<|im_end|>
+<|im_start|>assistant
+ Wilt u een geschil indienen?
+<|im_end|>
+<|im_start|>assistant
+ I know this is against PRS-ORG rules.
+<|im_end|>
+<|im_start|>assistant
+ I would never do this.
+<|im_end|>
+<|im_start|>assistant
+ As you can see in my account, I have had an account for a long time and have never done anything wrong
+<|im_end|>
+<|im_start|>assistant
+ Therefore, I would like to open a dispute for the 4th time
+<|im_end|>
+<|im_start|>assistant
+ I really hope this will be solved
+<|im_end|>
+<|im_start|>assistant
+ Geen probleem, gelieve even geduld te hebben terwijl ik een geschil indien.
+<|im_end|>
+<|im_start|>assistant
+ Geweldig!
+<|im_end|>
+<|im_start|>assistant
+ Dus ik heb met succes een geschil aangespannen bij ons team voor de Algemene Voorwaarden en heb alle door u verstrekte informatie vermeld om het team te helpen de zaak opnieuw te beoordelen.
+<|im_end|>
+<|im_start|>assistant
+ Ook zullen ze binnen 10 werkdagen contact met je opnemen via e-mail.
+<|im_end|>
+<|im_start|>assistant
+ U kunt echter altijd de update van het geval bekijken via de onderstaande link en door het gevalnummer te controleren - TELEFOONNUMMER
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you, that was it.
+<|im_end|>
+<|im_start|>assistant
+ Could you please let me know that it is being looked at very carefully
+<|im_end|>
+<|im_start|>assistant
+ Uiteraard heb ik een notitie gemaakt.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Zijn we nog verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Aangezien er geen reactie van uw kant komt, zetten we de chat van onze kant uit.
+<|im_end|>
+<|im_start|>assistant
+ U kunt ons echter contacteren via URL en wij zullen u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Het is leuk om je vandaag te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I get an error message every time I try to install it.
+<|im_end|>
+<|im_start|>assistant
+ The anticheat is stuck
+<|im_end|>
+<|im_start|>assistant
+ I can send you a photo of the error message if you want.
+<|im_end|>
+<|im_start|>assistant
+ Als ik u goed begrijp, ondervindt u problemen met de foutmelding. Ik begrijp dat dit frustrerend voor u kan zijn, maar wees niet bang.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben hier om je te helpen dit op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Laten we samenwerken en ervoor zorgen dat dit probleem zo snel mogelijk wordt opgelost.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u mij alstublieft het e-mailadres sturen dat gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ NAME-M, are you still there?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het delen van de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Om u te helpen, verzoek ik u om de volgende details te delen: Datum waarop het probleem zich voordeed.
+<|im_end|>
+<|im_start|>assistant
+ Gebruikersnaam en platform waarop je het spel speelt, Foutmelding die je krijgt.
+<|im_end|>
+<|im_start|>assistant
+ Wanneer was de laatste keer dat je je game soepel kon spelen met dezelfde gebruikersnaam?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG id: PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Play on PC
+<|im_end|>
+<|im_start|>assistant
+ Error message: An error occurred in PRS-ORG Service.
+<|im_end|>
+<|im_start|>assistant
+ Start the game again URL
+<|im_end|>
+<|im_start|>assistant
+ The game ALPHANUMERICID has not been played
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat u weg bent van het toetsenbord, gelieve me te laten weten of we nog verbonden zijn.
+<|im_end|>
+<|im_start|>assistant
+ Aangezien we geen reactie van u hebben ontvangen, moet ik deze chatgesprekken beëindigen.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve contact met ons op te nemen via URL voor verdere hulp.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hulp hebt gevraagd bij PRS-ORG help!
+<|im_end|>
+<|im_start|>assistant
+ Heb nog een goede dag en denk eraan om veilig te blijven!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M, hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik weten wat het probleem is dat u ondervindt?
+<|im_end|>
+<|im_start|>assistant
+ I am playing all episodes.
+<|im_end|>
+<|im_start|>assistant
+ Nl: Afterwards, I watched a video of someone else playing.
+<|im_end|>
+<|im_start|>assistant
+ And I noticed that they could change their hand weapon.
+<|im_end|>
+<|im_start|>assistant
+ For example, from the police baton to a foldable version.
+<|im_end|>
+<|im_start|>assistant
+ But for me that option has completely disappeared.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik begrijp, ondervindt u een probleem bij het wapen veranderen.
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik zal mijn best doen om u te helpen bij het oplossen van uw probleem.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik het e-mailadres kennen dat is geregistreerd bij uw PRS-ORG account?
+<|im_end|>
+<|im_start|>assistant
+ As far as I can remember it is EMAIL.
+<|im_end|>
+<|im_start|>assistant
+ It has been a while since I created this.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de e-mail.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik weten of u al enige oplossingen hebt geprobeerd om dit probleem op te lossen?
+<|im_end|>
+<|im_start|>assistant
+ Ok, ik verzoek u om de game te herinstalleren en als het probleem blijft bestaan, verzoek ik u om ons te contacteren. We zullen u graag helpen. '
+<|im_end|>
+<|im_start|>assistant
+ Zijn we nog steeds verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Aangezien we geen reactie van uw kant hebben ontvangen de afgelopen 5 minuten, raad ik u ten sterkste aan om terug te keren naar het chatvenster zodat we verder kunnen gaan met de oplossing van problemen en u verder kunnen helpen. Als we echter geen reactie van uw kant ontvangen, zal het chatvenster automatisch worden gesloten vanwege inactiviteit van uw kant.
+<|im_end|>
+<|im_start|>assistant
+ In dat geval zou ik u willen voorstellen om contact met ons op te nemen en we zullen meer dan blij zijn om u te helpen met uw probleem.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my first name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo, leuk je te ontmoeten, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I have a question about the packages with PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I understand that you need to be lucky.
+<|im_end|>
+<|im_start|>assistant
+ And that with all packages of bv, for example, I get an 84 plus standard, I understand that I have bad luck getting an 86 Ballack, I find this very excessive, I understand that it is just bad luck, I find this very excessive, I can understand that you are not happy with the pack probability, I will help you with information, I am not happy with the probability, I understand it, I find this very excessive, I know that packing the same player twice is unexpected, there is a probability of getting the same player card again, PRS-ORG Ultimate Team is a live service, this means being open to player feedback, we know the effort you put into building up your squad, we want that time to be rewarding and fun, I know enough that this was the last cent, I find this ridiculous, I do not complain about the extremely bad packages I get, I complain about getting exactly the same twice with hero SBC, it is a shame that nothing is done, it is clear how PRS-ORG treats customers, I will share the feedback with our team, I hope you see positive changes, you can go through this link for information
+<|im_end|>
+<|im_start|>assistant
+ 84+ also really get an 84 plus standard, I understand.
+<|im_end|>
+<|im_start|>assistant
+ Also with the icon that I have bad luck getting 86 Ballack.
+<|im_end|>
+<|im_start|>assistant
+ But if I then do the hero SBC 2 times in a row and then also get Campos 2 times in a row, I think this goes too far.
+<|im_end|>
+<|im_start|>assistant
+ Just like I mentioned earlier, I understand that it's just bad luck that I get exactly those ratings with the 81+, 83+ and 85+ packages.
+<|im_end|>
+<|im_start|>assistant
+ But 2x a hero SBC in a row and then also 2x the same player NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp heel goed dat je niet blij bent met de kans om een pakket te krijgen.
+<|im_end|>
+<|im_start|>assistant
+ I zal je zeker helpen met informatie over hoe het eigenlijk werkt.
+<|im_end|>
+<|im_start|>assistant
+ I am not happy with the probability but I do understand it.
+<|im_end|>
+<|im_start|>assistant
+ But as I just mentioned, doing the hero SBC twice in a row and getting the exact same player twice and then campos.
+<|im_end|>
+<|im_start|>assistant
+ I think that's going a bit too far
+<|im_end|>
+<|im_start|>assistant
+ Ik weet dat het niet de bedoeling is dat je dezelfde speler twee keer uit een pak krijgt, aangezien het niet de verwachting is van de gebruikers van PRS-ORG, maar er is een kans dat je dezelfde kaart uit een pak krijgt.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG Ultimate Team is een live service waar we voortdurend naar streven om te verbeteren.
+<|im_end|>
+<|im_start|>assistant
+ Dit betekent dat we te allen tijde openstaan voor feedback van spelers.
+<|im_end|>
+<|im_start|>assistant
+ We weten alle moeite die je stopt in het opbouwen van je ploeg en we willen dat die tijd zo lonend en leuk mogelijk is.
+<|im_end|>
+<|im_start|>assistant
+ e.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG is een live service waar we voortdurend naar streven om te verbeteren.
+<|im_end|>
+<|im_start|>assistant
+ Dit betekent dat we te allen tijde openstaan voor feedback van spelers.
+<|im_end|>
+<|im_start|>assistant
+ We weten alle moeite die je stopt in het opbouwen van je ploeg en we willen dat die tijd zo lonend en leuk mogelijk is.
+<|im_end|>
+<|im_start|>assistant
+ I know enough and also that this was the last penny that went into it.
+<|im_end|>
+<|im_start|>assistant
+ I think this is too ridiculous for words.
+<|im_end|>
+<|im_start|>assistant
+ I don't complain about the extremely bad packages that I get.
+<|im_end|>
+<|im_start|>assistant
+ But only if you get exactly the same twice with a hero SBC.
+<|im_end|>
+<|im_start|>assistant
+ Sorry that nothing is done but it is clear how PRS-ORG treats its customers
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Ik zal de feedback zeker verder delen met ons team over de kans op het krijgen van pakketten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je in de toekomst positieve veranderingen kunt zien.
+<|im_end|>
+<|im_start|>assistant
+ Ook kunt u ondertussen deze link gebruiken voor informatie over de kans op het ontvangen van pakketten:
+<|im_end|>
+<|im_start|>assistant
+ As I already mentioned, the probabilities are known, but what I just mentioned is just too far in my opinion, given what you have to give up for it.
+<|im_end|>
+<|im_start|>assistant
+ But I know enough thank you.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal uw feedback zeker verder delen met ons team.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw begrip!
+<|im_end|>
+<|im_start|>assistant
+ Dat vind ik echt geweldig.
+<|im_end|>
+<|im_start|>assistant
+ Neem gerust contact met ons op als u problemen ondervindt.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u mij de kans hebt gegeven om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je een geweldige dag hebt!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi!
+<|im_end|>
+<|im_start|>assistant
+ NAME-N is my name
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, hoop dat het goed met je gaat!
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw probleem te beschrijven, ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Yesterday I tried to play PRS-ORG for the first time on my new mac, and it didn’t work.
+<|im_end|>
+<|im_start|>assistant
+ I had removed all the expansion packs, and all the custom content, and he still didn’t work.
+<|im_end|>
+<|im_start|>assistant
+ Today he is doing it again.
+<|im_end|>
+<|im_start|>assistant
+ Is there a problem with Macbooks with OS Ventura?
+<|im_end|>
+<|im_start|>assistant
+ At PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ I begrijp uw zorg omdat u hebt gezegd dat u niet in staat bent om PRS-ORG voor de eerste keer te spelen op uw nieuwe PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Wees echter gerust, laat me controleren wat ik hier kan doen om uw vraag met betrekking tot dit probleem op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Om te bevestigen, start je PRS-ORG op je PRS-ORG, via de PRS-ORG-app of PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Laat het me alstublieft weten.
+<|im_end|>
+<|im_start|>assistant
+ Today it is working for the first time.
+<|im_end|>
+<|im_start|>assistant
+ I am however concerned if it will continue working
+<|im_end|>
+<|im_start|>assistant
+ Via PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de bevestiging.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal dit voor u controleren.
+<|im_end|>
+<|im_start|>assistant
+ En: Om uw probleem beter te begrijpen, kunt u alstublieft bevestigen of u een foutmelding ziet wanneer u PRS-ORG op uw PRS-ORG start.
+<|im_end|>
+<|im_start|>assistant
+ Yes, an unknown error is displayed
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat je het me hebt laten weten.
+<|im_end|>
+<|im_start|>assistant
+ Even geduld, even geduld.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u misschien de PRS-ORG een keer verwijderen en vervolgens opnieuw installeren of als u dit al gedaan hebt, kunt u de PRS-ORG opnieuw installeren op uw PRS-ORG, omdat veel spelers die dit probleem ondervinden bij het starten van PRS-ORG via PRS-ORG op hun PRS-ORG, het probleem hebben opgelost nadat ze dit hadden gevolgd.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal deze chatgesprek openhouden voor u in het geval dat u nog problemen ondervindt. Neem gerust contact met ons op en we zullen u verder helpen met betrekking tot dit probleem.
+<|im_end|>
+<|im_start|>assistant
+ Okay, thanks.
+<|im_end|>
+<|im_start|>assistant
+ I will try that
+<|im_end|>
+<|im_start|>assistant
+ I benijd uw geduld en begrip in deze kwestie.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen, dat zou ik graag doen.
+<|im_end|>
+<|im_start|>assistant
+ I want to increase my credit with PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ When I go to my account/payment settings, I can only enter a credit card.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Oh no… I have no idea
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ I zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Het is leuk om je te ontmoeten!
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je een geweldige dag hebt!
+<|im_end|>
+<|im_start|>assistant
+ Gelieve een paar minuten te wachten terwijl ik uw account zoek.
+<|im_end|>
+<|im_start|>assistant
+ okay
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld!
+<|im_end|>
+<|im_start|>assistant
+ Om je account te verifiëren, kan je me je postcode geven?
+<|im_end|>
+<|im_start|>assistant
+ Kan je me ook meer informatie geven over je verzoek, alstublieft?
+<|im_end|>
+<|im_start|>assistant
+ Wat bedoel je met het verhogen van een krediet bij PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ ADDRESS
+<|im_end|>
+<|im_start|>assistant
+ I have a subscription with PRS-ORG for free PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Sometimes I want to buy a book.
+<|im_end|>
+<|im_start|>assistant
+ I need an amount via PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Oh, ik zie het nu.
+<|im_end|>
+<|im_start|>assistant
+ Ideal is niet te zien als betalingsmethode die je kunt toevoegen en opslaan in je accountinstellingen, maar als je een eBook wilt kopen met behulp van PRS-ORG kun je naar de kassa van je eBook gaan en PRS-ORG moet te zien zijn als een van de laatste betalingsmethodes.
+<|im_end|>
+<|im_start|>assistant
+ Als u het ziet, kunt u PRS-ORG selecteren en uw aankoop voltooien.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG werkt echter niet in PRS-ORG om eBooks te kopen die alleen beschikbaar zijn in pre-order of abonnement.
+<|im_end|>
+<|im_start|>assistant
+ Je kunt ook je eBook kopen op de website van PRS-ORG, en dan kun je PRS-ORG gebruiken als betalingsmethode. Omdat je PRS-ORG-account gekoppeld is aan PRS-ORG, zal het eBook ook gesynchroniseerd worden met je PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ Als u momenteel geen account hebt bij PRS-ORG of als u meer informatie wilt over de PRS-ORG-gelden die u momenteel hebt, moet u rechtstreeks contact opnemen met PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I have done this before, so I know it can be done.
+<|im_end|>
+<|im_start|>assistant
+ But I can't find it now
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ But I put 25 euro on my PRS-ORG account from which I could buy books.
+<|im_end|>
+<|im_start|>assistant
+ This is almost gone, so I want to set it up again with 25 euros
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat je het me hebt laten weten.
+<|im_end|>
+<|im_start|>assistant
+ De 25 EUR waarnaar u verwijst, houden verband met een PRS-ORG die u eerder in uw account hebt gestort?
+<|im_end|>
+<|im_start|>assistant
+ Ik zie dat je 7,33 € op je account hebt staan als winkelkrediet.
+<|im_end|>
+<|im_start|>assistant
+ Yes that is correct.
+<|im_end|>
+<|im_start|>assistant
+ No gift card But I had set it up via PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ I am going to continue searching.
+<|im_end|>
+<|im_start|>assistant
+ I hoped that you knew it.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your effort
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi, my name is NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u helpen?
+<|im_end|>
+<|im_start|>assistant
+ Nl: More than half a year ago I contacted you about the expansion packages.
+<|im_end|>
+<|im_start|>assistant
+ These are not visible in the PRS-ORG. I was then told that there is a bug in my game and they would be working on it.
+<|im_end|>
+<|im_start|>assistant
+ For a long time and I can still do nothing with the expansion packages
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik zal zeker kijken wat we het beste voor je kunnen doen en zal mijn best doen om je te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik uw geregistreerde e-mail weten?
+<|im_end|>
+<|im_start|>assistant
+ Now I am curious how it is going and how long it can take
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Hier is de link voor het wissen van de cache: URL
+<|im_end|>
+<|im_start|>assistant
+ Probeer dit eens en laat het me weten als dit het probleem oplost
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat we verbonden zijn.
+<|im_end|>
+<|im_start|>assistant
+ The clear cache was executed.
+<|im_end|>
+<|im_start|>assistant
+ The app now gives multiple error messages when I want to open it.
+<|im_end|>
+<|im_start|>assistant
+ I am now busy with restarting the app
+<|im_end|>
+<|im_start|>assistant
+ De enige manier om de PRS-ORG app volledig te'sluiten' is door te klikken op Afsluiten via het hamburgermenu in de linkerbovenhoek van de app, of door met de rechtermuisknop te klikken op het PRS-ORG apppictogram in uw'verborgen pictogrammen' in uw taakbalk, gevolgd door te klikken op Afsluiten.
+<|im_end|>
+<|im_start|>assistant
+ Probeer dit ook eens, zoals ik het met mijn interne team heb gecontroleerd. Ik wil u informeren dat er meerdere oplossingen zijn.
+<|im_end|>
+<|im_start|>assistant
+ Maar ik zou u willen aanraden om mijn stappen te volgen, aangezien deze zeker zullen werken.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou u willen verzoeken om een nieuwe PRS-ORG-gebruiker te maken op uw pc en daar de PRS-ORG-app te installeren en vervolgens het spel te downloaden. Ik verzeker u dat het spel dan normaal zal werken. Dit is een tijdelijke oplossing. Zodra het probleem van onze kant is opgelost, zult u in staat zijn om PRS-ORG op uw primaire gebruiker te spelen zoals altijd.
+<|im_end|>
+<|im_start|>assistant
+ Als u problemen ondervindt, neem dan gerust contact met ons op. We helpen u graag op elk gewenst moment.
+<|im_end|>
+<|im_start|>assistant
+ I closed the app via task manager.
+<|im_end|>
+<|im_start|>assistant
+ He has now been restarted
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-F, I bought PRS-ORG via my Playstation 5 and then downloaded PRS-ORG for free via PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Now when I play PRS-ORG, I get the message that the game will end the session in 15 minutes and the game closes?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u uw zorg met mij deelt.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik zal je helpen met dit probleem.
+<|im_end|>
+<|im_start|>assistant
+ Kun je me helpen met je geregistreerde e-mailadres om je account te bekijken?
+<|im_end|>
+<|im_start|>assistant
+ I bought the subscription via my playstation account.
+<|im_end|>
+<|im_start|>assistant
+ The email for that is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor het delen van uw e-mailadres.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u mij een paar minuten gunnen om de accountgegevens voor u te controleren?
+<|im_end|>
+<|im_start|>assistant
+ And of course!
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor uw begrip.
+<|im_end|>
+<|im_start|>assistant
+ I think I misunderstood and is PRS-ORG not included for free with PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ En: Hartelijk bedankt voor uw geduld met mij.
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u erop wijzen dat u de PRS-ORG play pro-lidmaatschap moet kopen om de FIF 23-game te kunnen spelen.
+<|im_end|>
+<|im_start|>assistant
+ U kunt het PRS-ORG-spel niet spelen met een PRS-ORG-lidmaatschap.
+<|im_end|>
+<|im_start|>assistant
+ Oh okay is horrible
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u erop wijzen dat de PRS-ORG game niet beschikbaar is op PRS-ORG play, waardoor u de game niet kunt spelen.
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor uw begrip.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten als er nog iets anders is waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi NAME-M, my name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Het is een plezier om u te ontmoeten, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ On the ball after yesterday it's going well.
+<|im_end|>
+<|im_start|>assistant
+ I found out yesterday that I was hacked on PRS-ORG and lost all my tradeable players and items in Ultimate team.
+<|im_end|>
+<|im_start|>assistant
+ I called about this last night and case #PHONENUMBER was created for this issue.
+<|im_end|>
+<|im_start|>assistant
+ I asked myself if there is any news about it and how long it takes to resolve everything.
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen!
+<|im_end|>
+<|im_start|>assistant
+ I zal de update over uw zaak controleren.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb een verificatie-e-mail gestuurd, kijk of je een e-mail hebt ontvangen met als onderwerpregel "Verifieer de eigenaar van je PRS-ORG-account" in je Inbox of SPAM-map en stuur die code naar mij.
+<|im_end|>
+<|im_start|>assistant
+ 856425
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ I kan zien dat onze adviseur u heeft geholpen uw account opnieuw te beveiligen en uw zaak heeft doorgestuurd naar ons game team om uw ontbrekende inhoud te valideren en te herstellen.
+<|im_end|>
+<|im_start|>assistant
+ Afhankelijk van de wachtrij en het onderzoek dat vereist is voor uw zaak kan het enkele dagen duren.
+<|im_end|>
+<|im_start|>assistant
+ Wacht alstublieft en houd uw e-mail in de gaten.
+<|im_end|>
+<|im_start|>assistant
+ I zal mijn best doen om de dingen een beetje te versnellen voor u.
+<|im_end|>
+<|im_start|>assistant
+ Okay thanks.
+<|im_end|>
+<|im_start|>assistant
+ I know in any case that everything has been transmitted correctly etc.
+<|im_end|>
+<|im_start|>assistant
+ Will it then be checked if something from a backup from 24 hours ago can be made o.i.d.?
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt er ook op dat je hetzelfde probleem opnieuw hebt geopend.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve ervoor te zorgen dat u deze kwestie niet opnieuw opent.
+<|im_end|>
+<|im_start|>assistant
+ U k kunt uw zaakstatus bekijken onder "Mijn Cases" door naar de hulp van PRS-ORG te gaan.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal het opnieuw escaleren.
+<|im_end|>
+<|im_start|>assistant
+ Houd uw e-mail in de gaten.
+<|im_end|>
+<|im_start|>assistant
+ Zodra onze teams alles hebben gevalideerd, zullen ze u de ontbrekende content of de waarde ervan in de vorm van munten teruggeven.
+<|im_end|>
+<|im_start|>assistant
+ Sure, I understand, I will wait for it.
+<|im_end|>
+<|im_start|>assistant
+ Thank you NAME-M and have a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Het was een plezier om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Als u nog andere hulp nodig hebt, kunt u altijd contact met ons opnemen en we helpen u graag verder.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opnam met de hulpdienst van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Hebben jullie een mooie dag vooruit.
+<|im_end|>
+<|im_start|>assistant
+ Tot ziens en pas goed!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Hoe gaat het met jou NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I am doing well.
+<|im_end|>
+<|im_start|>assistant
+ How are you?
+<|im_end|>
+<|im_start|>assistant
+ Mijn dag is tot nu toe redelijk goed geweest.
+<|im_end|>
+<|im_start|>assistant
+ Hoe was je dag?
+<|im_end|>
+<|im_start|>assistant
+ I just spoke to a colleague of yours about the fact that I didn't receive my PRS-ORG points but the amount was deducted from my account.
+<|im_end|>
+<|im_start|>assistant
+ End result had to attach a screenshot via laptop
+<|im_end|>
+<|im_start|>assistant
+ I did that and now I wanted to know if I would get my money back or my PRS-ORG points
+<|im_end|>
+<|im_start|>assistant
+ My day was nice and relaxing and good btw.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ I verontschuldig me voor deze ongemakken en excuseer me voor de lange wachttijd.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, je zaak is in mijn handen en ik zal ervoor zorgen dat ik alles in het werk stel om je te helpen met de ontbrekende PRS-ORG punten.
+<|im_end|>
+<|im_start|>assistant
+ Is het meer dan 24 uur geleden dat u de aankoop deed?
+<|im_end|>
+<|im_start|>assistant
+ I bought it literally one hour ago
+<|im_end|>
+<|im_start|>assistant
+ Ohh!U hoeft u geen zorgen te maken.
+<|im_end|>
+<|im_start|>assistant
+ Het duurt meestal 24 uur voordat de punten op de rekening worden bijgeschreven.
+<|im_end|>
+<|im_start|>assistant
+ Binnen 24 uur worden de ontbrekende punten toegekend.
+<|im_end|>
+<|im_start|>assistant
+ In het geval dat u de punten niet binnen 24 uur na aankoop ontvangt.
+<|im_end|>
+<|im_start|>assistant
+ Zorg ervoor dat u ons terug contacteert na 24 uur, we zullen de aankoop valideren en u helpen met de ontbrekende punten.
+<|im_end|>
+<|im_start|>assistant
+ Sure?
+<|im_end|>
+<|im_start|>assistant
+ It is good, thank you.
+<|im_end|>
+<|im_start|>assistant
+ I'm going to keep playing all night now because I still have to place myself for weekend league haha.
+<|im_end|>
+<|im_start|>assistant
+ Have a nice evening and good night already
+<|im_end|>
+<|im_start|>assistant
+ Ik waardeer echt je liefde en enthousiasme voor het spel dat je hebt.
+<|im_end|>
+<|im_start|>assistant
+ Ik waardeer uw geduld en begrip in dit opzicht en maak u geen zorgen, zodra de 24 uur voorbij zijn zal het probleem worden opgelost. Als u nog steeds hulp nodig hebt kunt u op elk moment contact met ons opnemen, aangezien we 24/7 beschikbaar zijn en ik niet wil dat onze spelers problemen ondervinden.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG is love haha.
+<|im_end|>
+<|im_start|>assistant
+ It is good, then I will wait for it.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the information and a good evening!
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M
+<|im_end|>
+<|im_start|>assistant
+ En: Het is leuk om u hier te zien, hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Hi!
+<|im_end|>
+<|im_start|>assistant
+ Since the new level cap of PRS-ORG, I have not received any loot boxes.
+<|im_end|>
+<|im_start|>assistant
+ I get the notification that I have received a loot box.
+<|im_end|>
+<|im_start|>assistant
+ Only I can't open it because the tab is not there.
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik zal zeker proberen om u te helpen aangezien u de loot niet hebt ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Hebt u geprobeerd om het spel een keer af te sluiten?
+<|im_end|>
+<|im_start|>assistant
+ Yes there are only a few, but yes I would still rather have them hahah
+<|im_end|>
+<|im_start|>assistant
+ Hebt u geprobeerd om het spel een keer af te sluiten?
+<|im_end|>
+<|im_start|>assistant
+ Zijn we verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Gelieve te reageren als we verbonden zijn.
+<|im_end|>
+<|im_start|>assistant
+ Sorry yes
+<|im_end|>
+<|im_start|>assistant
+ Yes that's what I tried.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb je probleem net besproken met ons game team.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve eerst mijn verontschuldigingen aan te nemen voor het veroorzaakte ongemak.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb de details gecontroleerd en het probleem waarmee u te maken hebt is iets waarvan we al op de hoogte zijn.
+<|im_end|>
+<|im_start|>assistant
+ We krijgen soortgelijke meldingen van andere spelers over de hele wereld.
+<|im_end|>
+<|im_start|>assistant
+ Het is een goede zaak dat dit in het oog is gehouden door ons game team en dat ze hard aan het werk zijn om dit zo snel mogelijk op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ ah ok thanks
+<|im_end|>
+<|im_start|>assistant
+ so there is not much to do]
+<|im_end|>
+<|im_start|>assistant
+ Ik ben blij dat ik je kon helpen met je probleem.
+<|im_end|>
+<|im_start|>assistant
+ Dit was niet mogelijk geweest zonder uw medewerking.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik u nog iets anders helpen?
+<|im_end|>
+<|im_start|>assistant
+ U moet gewoon wachten.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ Als u verdere hulp nodig hebt, neem dan contact met ons op, tot ziens en zorg goed voor uzelf.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ M is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Draft lost due to opponent leaving the game
+<|im_end|>
+<|im_start|>assistant
+ I have had this 3 times this week
+<|im_end|>
+<|im_start|>assistant
+ I have also indicated all times via the chat
+<|im_end|>
+<|im_start|>assistant
+ I also acknowledge this problem
+<|im_end|>
+<|im_start|>assistant
+ Klopt, je verloor je draftmatch in PRS-ORG omdat de tegenstander het spel verliet?
+<|im_end|>
+<|im_start|>assistant
+ Yes draft match
+<|im_end|>
+<|im_start|>assistant
+ The third time already
+<|im_end|>
+<|im_start|>assistant
+ Geen probleem, laat me het bekijken en help je dienovereenkomstig.
+<|im_end|>
+<|im_start|>assistant
+ This has already cost me around 10 eur
+<|im_end|>
+<|im_start|>assistant
+ Nl: en?
+<|im_end|>
+<|im_start|>assistant
+ Ok.
+<|im_end|>
+<|im_start|>assistant
+ Dit is iets wat wij als chatteam niet handmatig kunnen veranderen en daarom zal ik dit probleem melden bij mijn game team zodat zij het kunnen oplossen en proberen om een soort compensatie te krijgen voor de getroffen spelers.
+<|im_end|>
+<|im_start|>assistant
+ Ondertussen kunt u proberen uw draft token terug te krijgen via de onderstaande link.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ draft token back cannot be given if the opponent glitches and you know that too!
+<|im_end|>
+<|im_start|>assistant
+ so don't come with that solution
+<|im_end|>
+<|im_start|>assistant
+ I don't understand why you don't just give a draft token
+<|im_end|>
+<|im_start|>assistant
+ Can you see how long I have been logged in today at PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ How long have I been online and when do I log out?
+<|im_end|>
+<|im_start|>assistant
+ Ik ben bang maar deze dingen worden beheerd door de servers.
+<|im_end|>
+<|im_start|>assistant
+ Wij hebben geen optie om ze handmatig te verlenen vanaf onze kant.
+And then you can see that it can never be my fault if I stayed online?
+<|im_end|>
+<|im_start|>assistant
+ If I can prove that I stayed online, will I get my tokens back?
+<|im_end|>
+<|im_start|>assistant
+ I can just prove that
+<|im_end|>
+<|im_start|>assistant
+ Ja.
+<|im_end|>
+<|im_start|>assistant
+ Dit is de reden waarom dit probleem wordt gemeld aan het team en zij kunnen het probleem grondig onderzoeken en u helpen.
+<|im_end|>
+<|im_start|>assistant
+ U zult per e-mail op de hoogte worden gebracht als er iets uitkomt.
+<|im_end|>
+<|im_start|>assistant
+ When do I get an email?
+<|im_end|>
+<|im_start|>assistant
+ I have been waiting for a week
+<|im_end|>
+<|im_start|>assistant
+ This is the third time already
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u geen valse hoop geven over de tijd, maar ik kan u verzekeren dat ons team er zorgvuldig naar zal kijken en contact met u zal opnemen zodra dat mogelijk is.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten of er nog iets anders is waar ik u bij kan helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Zijn we nog steeds verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat u niet meer aan uw toetsenbord zit, dit is niet handig voor ons. Ik moet de chatgesprekken beëindigen en ik verzoek u om ons te contacteren als u hulp nodig hebt. We zullen hier zijn om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I want to cancel my membership of PRS-ORG!
+<|im_end|>
+<|im_start|>assistant
+ Hallo, fijn je te ontmoeten NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Goed, dus zoals ik het begrijp lijkt het erop dat je de PRS-ORG-lidmaatschap moet annuleren vanuit het PRS-ORG-account. Juist?
+<|im_end|>
+<|im_start|>assistant
+ That's completely true
+<|im_end|>
+<|im_start|>assistant
+ But I can't do it via the website.
+<|im_end|>
+<|im_start|>assistant
+ Then it says 'you are not a member of PRS-ORG'
+<|im_end|>
+<|im_start|>assistant
+ But money is being deducted every month!
+<|im_end|>
+<|im_start|>assistant
+ Ok, geen probleem, ik zal zeker proberen te helpen bij het annuleren van de PRS-ORG-lidmaatschap van de PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ Om te beginnen, mag ik weten welke e-mail is gekoppeld aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het delen van je e-mail!
+<|im_end|>
+<|im_start|>assistant
+ Gelieve even een paar minuten geduld te hebben terwijl ik de details controleer en u op de hoogte breng van de laatste stand van zaken.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het wachten!
+<|im_end|>
+<|im_start|>assistant
+ Ik heb het account gecontroleerd en het lijkt erop dat het PRS-ORG lidmaatschap op 29 november 2021 is verlopen
+<|im_end|>
+<|im_start|>assistant
+ En: En omdat ik kan zien dat de facturering van PRS-ORG komt, moet u in dit geval contact opnemen met de ondersteuning van PRS-ORG en zij zullen u kunnen helpen bij het oplossen van het probleem.
+<|im_end|>
+<|im_start|>assistant
+ ok thank you for the help
+<|im_end|>
+<|im_start|>assistant
+ But aren't you responsible for PRS-ORG deductions?
+<|im_end|>
+<|im_start|>assistant
+ Het was een genoegen en bedankt voor jouw medewerking tijdens de chat!
+<|im_end|>
+<|im_start|>assistant
+ Ja, we zijn het erover eens, maar de facturering komt van PRS-ORG, dus de gegevens zijn bij hen, dus zij zullen u helpen met het betalingsgeschil.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u niet voor het voetlicht brengen, maar voor de bevestiging: zijn we nog steeds verbonden via deze chat?
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat u niet bij uw toetsenbord bent, dit zet ons in een slechte positie. Ik zal deze chatgesprekssessie moeten beëindigen en ik verzoek u om ons te contacteren als u hulp nodig hebt en we zullen voor u klaarstaan.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Good afternoon, I am NAME-M, and I have already contacted you about the verification emails that are not coming in.
+<|im_end|>
+<|im_start|>assistant
+ As per your request, I have created an alternative email address.
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M, ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Ik zie dat je een beetje bezorgd bent omdat je de verificatiecode niet krijgt om in te loggen op je PRS-ORG account, ben ik gelijk?
+<|im_end|>
+<|im_start|>assistant
+ ja is going fine
+<|im_end|>
+<|im_start|>assistant
+ That is absolutely correct, and I can't see where the problem is either.
+<|im_end|>
+<|im_start|>assistant
+ It seems like those mails are bouncers and go back immediately
+<|im_end|>
+<|im_start|>assistant
+ That is why you asked me to try with a gmail account.
+<|im_end|>
+<|im_start|>assistant
+ Geen nood, ik zal mijn best doen om u te helpen met uw probleem.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw geregistreerde e-mail te delen die gekoppeld is aan uw PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Ik heb een verificatie-e-mail gestuurd, kijk deze na.
+<|im_end|>
+<|im_start|>assistant
+ De e-mail heeft als onderwerpregel 'Verifieer de eigenaar van uw PRS-ORG-account' en u hebt hem wellicht in uw inbox of spambox ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Vertel me de code alstublieft.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL must be added as test
+<|im_end|>
+<|im_start|>assistant
+ ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ I get it but everything that is automatically generated I don't
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de code.
+<|im_end|>
+<|im_start|>assistant
+ Hebt u een reserve e-mailadres zodat ik het secundaire e-mailadres kan bijwerken?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Een valideringse-mail is naar u verzonden, gelieve de code te delen.
+<|im_end|>
+<|im_start|>assistant
+ Hebt u de code ontvangen?
+<|im_end|>
+<|im_start|>assistant
+ Zijn we verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat we verbonden zijn.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve te reageren zodat ik kan wachten.
+<|im_end|>
+<|im_start|>assistant
+ Het systeem heeft gedetecteerd dat u niet reageert op de chat en heeft de verbinding verbroken.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve contact met ons op te nemen als u hulp nodig hebt.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ My account (PRS-ORG - PRS-ORG) has been hacked
+<|im_end|>
+<|im_start|>assistant
+ I have already run several cases, but nobody can help me.
+<|im_end|>
+<|im_start|>assistant
+ I reset the security on your colleague's advice.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, ik hoop dat je een goede dag hebt.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ My account (PRS-ORG - PRS-ORG) has been hacked.
+<|im_end|>
+<|im_start|>assistant
+ I have already run several cases, but nobody can help me.
+<|im_end|>
+<|im_start|>assistant
+ I reset the security again on the advice of your colleague.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik ben hier om je te helpen!
+<|im_end|>
+<|im_start|>assistant
+ Ik zal dit zeker onderzoeken en mijn best doen om je te helpen met de PRS-ORG hack.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik het e-mailadres kennen dat gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt, ik heb een verificatie-e-mail gestuurd, kijk deze even na.
+<|im_end|>
+<|im_start|>assistant
+ De e-mail heeft als onderwerpregel 'Verifieer de eigenaar van uw PRS-ORG-account' en u hebt hem misschien in uw inbox of spambox ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ I just got this information from your colleague but I am doing it again
+<|im_end|>
+<|im_start|>assistant
+ ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ This is the new code
+<|im_end|>
+<|im_start|>assistant
+ Geen probleem, even geduld aub.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik heb gecontroleerd is uw zaak afgerond met het onderzoek en hebt u 148002 munten in uw account.
+<|im_end|>
+<|im_start|>assistant
+ Zijn we verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Aangezien ik geen reactie van u heb gehad in een paar momenten, moeten we de zaak afsluiten.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, je kan ons opnieuw contacteren vanaf URL, zodat we je verder kunnen helpen.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het contact opnemen met de helpdesk van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat!
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I'm doing fine and hopefully you are too.
+<|im_end|>
+<|im_start|>assistant
+ I have a question about quick sale recovery from PRS_ORG app
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het verstrekken van de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik begrijp heb je misschien hulp nodig met snel verkopen.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw zorg te delen.
+<|im_end|>
+<|im_start|>assistant
+ I zal mijn best doen om u te helpen!
+<|im_end|>
+<|im_start|>assistant
+ I think something is not right?
+<|im_end|>
+<|im_start|>assistant
+ I had 0 repairs a while ago and was waiting for it to be renewed so that I could get 5 extra repairs again, but unfortunately I just saw that only 1 has been added, which I have already used.
+<|im_end|>
+<|im_start|>assistant
+ And now I have to wait for ALPHANUMERICID again for new 5?
+<|im_end|>
+<|im_start|>assistant
+ In principle I only got one which should be 5, I don't understand that..
+<|im_end|>
+<|im_start|>assistant
+ Is it possible to solve that?
+<|im_end|>
+<|im_start|>assistant
+ Kunt u de datum of tijd bevestigen waarop uw abonnement vernieuwd werd?
+<|im_end|>
+<|im_start|>assistant
+ I think today?
+<|im_end|>
+<|im_start|>assistant
+ I do not know the exact time, yesterday there were still 10 hours left, I assume today?
+<|im_end|>
+<|im_start|>assistant
+ Is ALPHANUMERICID now and 22 hours left?
+<|im_end|>
+<|im_start|>assistant
+ Goed!
+<|im_end|>
+<|im_start|>assistant
+ U heeft 1 reparatie ontvangen, maar er zijn nog 4 beschikbaar. In dit geval verzoek ik u vriendelijk om 24 uur te wachten, omdat het soms duurt vanwege een technisch probleem of een serverprobleem.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je het na 24 uur ontvangt.
+<|im_end|>
+<|im_start|>assistant
+ Als het niet werkt, kunt u de chat opnieuw starten door de case ID te delen die PHONENUMBER is
+<|im_end|>
+<|im_start|>assistant
+ Onze PRS-ORG-adviseurs zijn 24 uur beschikbaar om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat dit goed is!
+<|im_end|>
+<|im_start|>assistant
+ OK, I will do it.
+<|im_end|>
+<|im_start|>assistant
+ Afgezien daarvan,
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten als er nog iets anders is, ik kan u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I zal u graag verder helpen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your time
+<|im_end|>
+<|im_start|>assistant
+ Thank you, I don’t have any other problems luckily :)
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw medewerking
+<|im_end|>
+<|im_start|>assistant
+ en: en begripvolle houding!
+<|im_end|>
+<|im_start|>assistant
+ Have a great day!
+<|im_end|>
+<|im_start|>assistant
+ Het was een plezier om u vandaag te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Als u in de toekomst hulp nodig hebt, neem dan gerust contact met ons op.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van een geweldige dag!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M
+<|im_end|>
+<|im_start|>assistant
+! Ik hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, I have a problem with logging in to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My password is incorrect and when I request a new password I get no email
+<|im_end|>
+<|im_start|>assistant
+ checked all folders
+<|im_end|>
+<|im_start|>assistant
+ A few times ago I also tried, then I got nothing either.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, we zijn hier om je te helpen met het probleem dat je niet kunt inloggen op je PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ Kan je me helpen met het e-mailadres van je PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ I just received an email from customer experience, so my address is fine.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Ik stuur een zescijferige code naar je e-mailadres.
+<|im_end|>
+<|im_start|>assistant
+ Controleer of u een e-mail met als onderwerpregel "Verifieer de eigenaar van uw PRS-ORG-account" in uw postvak in of ongewenste e-mail heeft ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Lees het voor me terug zodat we je account kunnen verifiëren en de status kunnen controleren.
+<|im_end|>
+<|im_start|>assistant
+ hebbes: 567364
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de verificatie van uw PRS-ORG account.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb de link om uw wachtwoord te resetten verzonden. Gelieve uw wachtwoord te resetten en te proberen in te loggen en laat het me weten.
+<|im_end|>
+<|im_start|>assistant
+ Yes, password reset successful.
+<|im_end|>
+<|im_start|>assistant
+ I am inside.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the support!
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ No thank you.
+<|im_end|>
+<|im_start|>assistant
+ That was it.
+<|im_end|>
+<|im_start|>assistant
+ Het was leuk om met u te praten, ik wens u een fijne dag.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met de helpdesk van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, I have recently had a problem with my PRS-ORG game
+<|im_end|>
+<|im_start|>assistant
+ Hallo, leuk je te ontmoeten en ik hoop dat het goed met je gaat!
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u helpen?
+<|im_end|>
+<|im_start|>assistant
+ My little brother (14) has misused my account, which is why my account has been banned out of my control
+<|im_end|>
+<|im_start|>assistant
+ From PRS-ORG fut transfermarkt.
+<|im_end|>
+<|im_start|>assistant
+ I recently found out about this and I wonder what we will do about it.
+<|im_end|>
+<|im_start|>assistant
+ Dus je moet de ban betwisten, klopt dat?
+<|im_end|>
+<|im_start|>assistant
+ I want to change my password now too.
+<|im_end|>
+<|im_start|>assistant
+ My PSN password has been changed recently, which allowed him to access my account.
+<|im_end|>
+<|im_start|>assistant
+ You can check this if possible
+<|im_end|>
+<|im_start|>assistant
+ Indeed
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik zal je zeker helpen met alle mogelijke manieren en al mijn inspanningen.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik weten welk e-mailadres gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ I saw that you have a live chat so I wondered if you can help me with this
+<|im_end|>
+<|im_start|>assistant
+ Yes, EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ I heb een verificatie-e-mail gestuurd, kijk deze even na.
+<|im_end|>
+<|im_start|>assistant
+ De e-mail heeft als onderwerpregel 'Verifieer de eigenaar van uw PRS-ORG-account' en u hebt hem misschien in uw inbox of spambox ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ My password I changed a little 3 weeks ago for him, not knowing that he would misuse it of course.
+<|im_end|>
+<|im_start|>assistant
+ I don't want to call it abuse but yes he did do this
+<|im_end|>
+<|im_start|>assistant
+ Moment
+<|im_end|>
+<|im_start|>assistant
+ 527166
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik kan zien is er een transferlock op uw account.
+<|im_end|>
+<|im_start|>assistant
+ Om het geval te valideren moet ik het geval naar de betrokken afdeling sturen. Gelieve even geduld te hebben.
+<|im_end|>
+<|im_start|>assistant
+ That is good.
+<|im_end|>
+<|im_start|>assistant
+ You also give all the details, right?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld!
+<|im_end|>
+<|im_start|>assistant
+ I heb het geval doorgegeven aan het team.
+<|im_end|>
+<|im_start|>assistant
+ Uw oorspronkelijke zaak blijft openstaan terwijl we verder onderzoek doen, en we sluiten deze huidige zaak.
+<|im_end|>
+<|im_start|>assistant
+ Het is omdat ik de zaak heb verhoogd en als je dezelfde zaak opnieuw opstart, wordt deze uit de onderzoekswachtrij gehaald en komt deze aan het einde van de wachtrij te staan en zal het onderzoek vertraging oplopen.
+<|im_end|>
+<|im_start|>assistant
+ Het team zal uw zaak onderzoeken en contact met u opnemen zodra het onderzoek is voltooid.
+<|im_end|>
+<|im_start|>assistant
+ Het team zal uw zaak onderzoeken en binnen 10 dagen via e-mail contact met u opnemen nadat het uw zaak heeft onderzocht.
+<|im_end|>
+<|im_start|>assistant
+ U k kunt de update over uw casestatus bekijken met behulp van dit artikel voor zelfhulp.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw medewerking!
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je tevreden bent met mijn hulp.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Yes, did you put the details I mentioned in it?
+<|im_end|>
+<|im_start|>assistant
+ Want that is leading for this story
+<|im_end|>
+<|im_start|>assistant
+ Ja, ik heb uw verhaal genoemd en er is nu niets om u zorgen over te maken.
+<|im_end|>
+<|im_start|>assistant
+ Ok thanks
+<|im_end|>
+<|im_start|>assistant
+ I bought a book about half an hour ago in your app, but the book is still not in my ebooks.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ I bought that ebook today
+<|im_end|>
+<|im_start|>assistant
+ Tuesday 23 February
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik ga je account bekijken, even geduld a.u.b.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de tijd die u hebt moeten wachten. Ik heb zojuist de informatie in uw account gecontroleerd. Het spijt me dat u problemen hebt met uw laatste aankoop, maar ik wil u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat de transactie niet is gelukt, maar als het geld van je rekening is afgeschreven, zal ik het Description nummer nodig hebben dat in je bankafschrift staat, zodat ik het eBook handmatig kan toevoegen.
+<|im_end|>
+<|im_start|>assistant
+ The money has indeed already been debited
+<|im_end|>
+<|im_start|>assistant
+ PHONENUMBER CREDITCARD PRS-ORG Purchase Reference: 2021 14:36 CREDITCARD
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Laat me even de code controleren, even geduld alstublieft.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor je wachttijd, ik heb net het eBook toegevoegd aan je bibliotheek. Kun je je apparaat alsjeblieft synchroniseren en me laten weten of je het boek nu kunt zien?
+<|im_end|>
+<|im_start|>assistant
+ I can see it.
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much!
+<|im_end|>
+<|im_start|>assistant
+ Het is een groot plezier voor mij!
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je van je boek zult genieten!
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ I receive rather confusing emails, on the one hand the deduction (rightly) of my monthly amount and on the other hand the notification that my payment is not completed.
+<|im_end|>
+<|im_start|>assistant
+ Is this latest email spam or how does it work?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Currently I am reading PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ I zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Het is leuk om je te ontmoeten, NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je een geweldige dag hebt!
+<|im_end|>
+<|im_start|>assistant
+ Ik vraag uw toestemming om een paar minuten te wachten terwijl ik uw account opzoek.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld!
+<|im_end|>
+<|im_start|>assistant
+ Om je account te verifiëren, kan je me je postcode geven?
+<|im_end|>
+<|im_start|>assistant
+ ALPHANUMERICID 91D; For all clarity, you are currently chatting with the husband of PRS-ORG, hope this is no problem.
+<|im_end|>
+<|im_start|>assistant
+ I handle all administration and I was surprised by the following mails.
+<|im_end|>
+<|im_start|>assistant
+ EN: NAME-N reads with much pleasure
+<|im_end|>
+<|im_start|>assistant
+ Geen probleem!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u het me hebt laten weten.
+<|im_end|>
+<|im_start|>assistant
+ Nu hebt u haar account bij mij geverifieerd kunnen we het zonder problemen controleren.
+<|im_end|>
+<|im_start|>assistant
+ Als ik het goed begrijp, werd de abonnement verlengd en werd de betaling geïnd, maar ontving u ook een e-mail van PRS-ORG waarin stond dat er een probleem was met de verlenging?
+<|im_end|>
+<|im_start|>assistant
+ Yes it concerns two mails from last Thursday 28 January at 13.16 hour.
+<|im_end|>
+<|im_start|>assistant
+ The strange thing is that the subscription has been running well for a long time, but in December there was also suddenly a request for payment recovery.
+<|im_end|>
+<|im_start|>assistant
+ By the way, the deduction just took place.
+<|im_end|>
+<|im_start|>assistant
+ My daughter recently started the registration again.
+<|im_end|>
+<|im_start|>assistant
+ We would like to keep the subscription (and preferably undisturbed ☺)
+<|im_end|>
+<|im_start|>assistant
+ The subscription has existed since around May 2020.
+<|im_end|>
+<|im_start|>assistant
+ May 2020
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor de informatie!
+<|im_end|>
+<|im_start|>assistant
+ Als u dit bericht hebt ontvangen, kan het zijn dat er een probleem is geweest met het vernieuwen van de abonnement, maar hoewel ik niet kan zien of dit volledig het geval is, kan het zijn dat het meer aan onze kant lag dan aan de betalingsgegevens, omdat het abonnement is vernieuwd en ik geen mislukte pogingen heb gezien om dit te doen.
+<|im_end|>
+<|im_start|>assistant
+ Op dit moment werkt de abonnement zonder problemen in de PRS-ORG of PRS-ORG App van je vrouw?
+<|im_end|>
+<|im_start|>assistant
+ At the moment it is working well!
+<|im_end|>
+<|im_start|>assistant
+ On January 28th, a €9.99 payment was also made as usual.
+<|im_end|>
+<|im_start|>assistant
+ Perfect!
+<|im_end|>
+<|im_start|>assistant
+ Dat is goed om te weten.
+<|im_end|>
+<|im_start|>assistant
+ Ik kan ook zien dat de volgende verlengingsdatum ook is ingesteld op 28 februari 2021. De abonnementen zouden nu zonder problemen moeten werken!
+<|im_end|>
+<|im_start|>assistant
+ En: En ja, de abonnementskosten zijn op 28 januari 2021 aan u in rekening gebracht.
+<|im_end|>
+<|im_start|>assistant
+ Als uw dochter de informatie opnieuw op de website heeft ingevoerd en het momenteel exact hetzelfde is, zou alles goed moeten zijn met uw abonnement.
+<|im_end|>
+<|im_start|>assistant
+ Wat ik je kan aanraden is om die boodschap te negeren en de abonnementen gewoon te blijven gebruiken, maar als je deze boodschap de volgende maand krijgt wanneer het abonnement opnieuw probeert te vernieuwen, neem dan contact met ons op en we zullen je helpen dit verder te onderzoeken!
+<|im_end|>
+<|im_start|>assistant
+ Hopelijk is het helemaal niet nodig, maar als het toch weer gebeurt, zijn we hier voor u!
+<|im_end|>
+<|im_start|>assistant
+ The important thing is that it continues, so this is a sufficient answer for now.
+<|im_end|>
+<|im_start|>assistant
+ If something happens, we will contact you.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your time and answer!
+<|im_end|>
+<|im_start|>assistant
+ With kind regards, NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Het is een genoegen om u te helpen en ik wil mijn excuses aanbieden voor het ongemak dat dit bericht u heeft kunnen bezorgen.
+<|im_end|>
+<|im_start|>assistant
+ In het geval dat u het ook nodig hebt, is het referentienummer van deze interactie #PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders wat ik voor u kan doen op dit moment, NAME-M?
+<|im_end|>
+<|im_start|>assistant
+ No, it's fine like this!
+<|im_end|>
+<|im_start|>assistant
+ Perfect!
+<|im_end|>
+<|im_start|>assistant
+ I wens u en uw gezin een fijne dag en een leuke week!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw tijd en vriendelijkheid!
+<|im_end|>
+<|im_start|>assistant
+ Blijf veilig en gezond!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ M is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ May I help you in Dutch or English?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Ja!
+<|im_end|>
+<|im_start|>assistant
+ Ik kan ook in het Nederlands chatten
+<|im_end|>
+<|im_start|>assistant
+ Dus, hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ This morning around noon, the trophy Titan Cup reset at 12 o'clock.
+<|im_end|>
+<|im_start|>assistant
+ I still have to play some matches to reach 10.
+<|im_end|>
+<|im_start|>assistant
+ I come home earlier from work today since it needs to be played before 19u.
+<|im_end|>
+<|im_start|>assistant
+ Now it turns out that it has not been reset.. can you change that?
+<|im_end|>
+<|im_start|>assistant
+ Ik zou dit graag voor u doen, omdat ik begrijp dat dit echt belangrijk voor u is.
+<|im_end|>
+<|im_start|>assistant
+ Maar ik weet dat je begrijpt dat dit buiten onze ondersteuningsgrenzen valt omdat het volledig afhankelijk is van de server en dat we de server niet van onze kant kunnen overschrijven.
+<|im_end|>
+<|im_start|>assistant
+ Ik weet dat je dit zou begrijpen.
+<|im_end|>
+<|im_start|>assistant
+ Neem me niet verkeerd, er was een mogelijkheid voor ons.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou het graag voor je gedaan hebben.
+<|im_end|>
+<|im_start|>assistant
+ I understand.
+<|im_end|>
+<|im_start|>assistant
+ Only a shame that I will miss two packages due to a mistake in the server (again) where in total PRS-ORG+ rating players are in it.. I pay for a game to work and then this is very unfortunate
+<|im_end|>
+<|im_start|>assistant
+ Is there a possibility to deliver these packages anyway?
+<|im_end|>
+<|im_start|>assistant
+ Ik zou het graag kunnen, maar zoals ik al eerder zei is dit een online spel dat op servers draait, waardoor we geen optie hebben om in het spel wijzigingen handmatig aan te brengen vanaf ons eindpunt.
+<|im_end|>
+<|im_start|>assistant
+ : (
+<|im_end|>
+<|im_start|>assistant
+ Now I understand that this explanation would work against a child of 18 years.
+<|im_end|>
+<|im_start|>assistant
+ I am already a bit older and know well enough that all of this is possible.
+<|im_end|>
+<|im_start|>assistant
+ It has happened before
+<|im_end|>
+<|im_start|>assistant
+ Ik weet dat dit niet het antwoord is dat je had verwacht maar geloof me als ik zeg dat als het mogelijk was ik het zeker voor je zou doen, zelfs als het betekent dat ik mijn beperkingen of mijn manier van werken zou overschrijden, want klanttevredenheid is waar ik voor ben.
+<|im_end|>
+<|im_start|>assistant
+ Mijn bedoeling is niet om u iets te onthouden wat u kunt hebben, als het voor mij mogelijk was geweest om de aanvraag voor u te verwerken, dan had ik er geen seconde over nagedacht.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat u dit zult begrijpen.
+<|im_end|>
+<|im_start|>assistant
+ When there is missing content, it is also replaced on accounts
+<|im_end|>
+<|im_start|>assistant
+ Als u verdere hulp nodig hebt, neem dan gerust contact met ons op om het probleem op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van je dag!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, hoop dat het goed met je gaat vandaag!
+<|im_end|>
+<|im_start|>assistant
+ Uitleggen wat uw probleem is, zal ik graag doen.
+<|im_end|>
+<|im_start|>assistant
+ Good day, I just claimed my division rivals.
+<|im_end|>
+<|im_start|>assistant
+ I wanted everything untradeable.
+<|im_end|>
+<|im_start|>assistant
+ But my game crashed and I could do nothing else than press A on option 3.
+<|im_end|>
+<|im_start|>assistant
+ I have now the coins and a few packs.
+<|im_end|>
+<|im_start|>assistant
+ Can you take this away and convert it to option 2 untradeable rewards?
+<|im_end|>
+<|im_start|>assistant
+ You can transfer them, I have not spent or opened anything.
+<|im_end|>
+<|im_start|>assistant
+ I wanted everything untradeable.
+<|im_end|>
+<|im_start|>assistant
+ Were you there?
+<|im_end|>
+<|im_start|>assistant
+ I begrijp uw zorg omdat u hebt gezegd dat de game is vastgelopen toen u de rewards van de divisie rivalen hebt geclaimd en dat u coins en een paar pakketten hebt gekregen en dat u liever handelsbare rewards zou willen in plaats van de rewards die u hebt gekregen.
+<|im_end|>
+<|im_start|>assistant
+ Am I correct?
+<|im_end|>
+<|im_start|>assistant
+ No I got option 3, 3 packs with coins.
+<|im_end|>
+<|im_start|>assistant
+ But I wanted option 2 everything untradeable and more packs.
+<|im_end|>
+<|im_start|>assistant
+ Option 2 is everything untradeable without coins that is what I wanted and I have played for that the whole week haha
+<|im_end|>
+<|im_start|>assistant
+ I got option 3.
+<|im_end|>
+<|im_start|>assistant
+ Coins + 3 packs.
+<|im_end|>
+<|im_start|>assistant
+ I wanted option 2 with everything untradeable without coins but more packages.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het verduidelijken van uw probleem.
+<|im_end|>
+<|im_start|>assistant
+ U hebt optie 2 geselecteerd om de beloningen te claimen en wilde in plaats daarvan optie 3 geselecteerd hebben.
+<|im_end|>
+<|im_start|>assistant
+ No I got option 3 and I wanted option 2!😃
+<|im_end|>
+<|im_start|>assistant
+ I want option 2
+<|im_end|>
+<|im_start|>assistant
+ The game chose option 3 but I wanted option 2!
+<|im_end|>
+<|im_start|>assistant
+ Everything is untradeable and most of the packs
+<|im_end|>
+<|im_start|>assistant
+ I begrijp uw zorg en aangezien de beloningen al zijn geclaimd van u hebben we geen optie om de geclaimde beloningen van onze kant te veranderen.
+<|im_end|>
+<|im_start|>assistant
+ I zou u willen voorstellen om dit te melden aan ons toegewijde in-game team en zij zullen uw probleem snel kunnen oplossen via e-mail met de beste mogelijke oplossing.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve deze link te gebruiken om dit probleem aan hen te melden.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen, ik zou dat graag doen.
+<|im_end|>
+<|im_start|>assistant
+ You can change it.
+<|im_end|>
+<|im_start|>assistant
+ It is unopened.
+<|im_end|>
+<|im_start|>assistant
+ I have played the whole week for option 2!
+<|im_end|>
+<|im_start|>assistant
+ I didn't claim anything!
+<|im_end|>
+<|im_start|>assistant
+ The packs are unopened
+<|im_end|>
+<|im_start|>assistant
+ The solution lies on your side.
+<|im_end|>
+<|im_start|>assistant
+ You are making a mistake!
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp uw zorg en ik besef dat de situatie moeilijk is en we willen nooit dat onze spelers een slechte ervaring hebben.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou graag willen helpen, aangezien ik ook een gamer ben zoals jij.
+<|im_end|>
+<|im_start|>assistant
+ We hebben echter geen optie om de beloondes/verpakkingen die door de speler zijn geclaimd in het spel te wijzigen.
+<|im_end|>
+<|im_start|>assistant
+ U kunt dit melden/posten op onze officiële portals, waar onze communitymanagers dit controleren en terugkoppelen naar dergelijke in-game problemen die door onze spelers worden ondervonden.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou u willen verzoeken om uw zorgen te posten op onze officiële website en sociale media pagina voor verdere updates en informatie.
+<|im_end|>
+<|im_start|>assistant
+ U kunt de volgende links gebruiken als referentie:
+<|im_end|>
+<|im_start|>assistant
+ 1
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG paginalink-URL
+<|im_end|>
+<|im_start|>assistant
+ 2
+<|im_end|>
+<|im_start|>assistant
+ Officiële website- URL of URL.
+<|im_end|>
+<|im_start|>assistant
+ I have nothing to do with this
+<|im_end|>
+<|im_start|>assistant
+ Thanks for nothing!
+<|im_end|>
+<|im_start|>assistant
+ You lie, I know how often PRS-ORG changes packages because of bugs I know that from the past
+<|im_end|>
+<|im_start|>assistant
+ Zo graag wil ik helpen, maar je verzoek gaat verder dan wat we voor spelers kunnen doen.
+<|im_end|>
+<|im_start|>assistant
+ Gelooft u mij maar, als er stappen zijn om te volgen, had ik die al uitgevoerd.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opnam met de helpdesk van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Het was een plezier om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van een geweldige dag.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am named NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi, my name is NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Het is leuk om je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw zorg te delen met mij.
+<|im_end|>
+<|im_start|>assistant
+ I have a low battery, so I would actually like to get to the point if possible.
+<|im_end|>
+<|im_start|>assistant
+ Last week there were high discounts on expansion packages of the PRS-ORG game.
+<|im_end|>
+<|im_start|>assistant
+ I already have the game itself via my account, when I tried to log in to make purchases, I got the message several times that logging in was "currently" not possible.
+<|im_end|>
+<|im_start|>assistant
+ I still can't log in to my account, and the sale is now over.
+<|im_end|>
+<|im_start|>assistant
+ Therefore I wondered if there is a possibility to still take advantage of the sale, since I am not going to pay €40 for a game expansion.
+<|im_end|>
+<|im_start|>assistant
+ I wanted to add the "PRS-ORG" and "PRS-ORG" expansions to my game, as a surprise for my younger sisters.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben het niet eens met wat je zegt.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik begrijp is uw zorg gericht op de PRS-ORG-pack
+<|im_end|>
+<|im_start|>assistant
+. Maak je geen zorgen.
+<|im_end|>
+<|im_start|>assistant
+ I zal mijn best doen om u hierbij te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ Ik ben verontwaardigd om te zeggen dat je alleen de korting kunt krijgen als je op je account kunt zien dat je de korting hebt gekregen.
+<|im_end|>
+<|im_start|>assistant
+ Wij als agent kunnen geen korting geven aan onze spelers.
+<|im_end|>
+<|im_start|>assistant
+ Als u hulp nodig hebt bij het inloggen op uw PRS-ORG-account, kan ik u hierbij helpen.
+<|im_end|>
+<|im_start|>assistant
+ Okay, that's a shame
+<|im_end|>
+<|im_start|>assistant
+ I don't have time for that right now, so I will ask for that another time.
+<|im_end|>
+<|im_start|>assistant
+ Thank you in any case
+<|im_end|>
+<|im_start|>assistant
+ Ik wil je vragen om even geduld te hebben, ik hoop dat je binnenkort de kans krijgt om gebruik te maken van de korting.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb alles gedaan en elke stap geprobeerd om het probleem voor u op te lossen, maar helaas is dit iets wat niet in mijn macht ligt.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou u willen vragen om even te wachten, hopelijk krijgt u binnenkort de kans om de korting te gebruiken.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N and I have problems with resetting my password
+<|im_end|>
+<|im_start|>assistant
+ I don't receive the email.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Ik zal de details voor u onmiddellijk controleren en proberen u te helpen met het probleem van het resetten van het wachtwoord.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw PRS-ORG account e-mailadres en uw PRS-ORG ID te delen.
+<|im_end|>
+<|im_start|>assistant
+ The email is EMAIL and I have forgotten the PRS-ORG ID because it has been a while.
+<|im_end|>
+<|im_start|>assistant
+ According to me it was ALPHANUMERICID or something like NAME-N
+<|im_end|>
+<|im_start|>assistant
+ Ik heb een verificatie-e-mail gestuurd. Controleer of u een e-mail met als onderwerpregel 'Bewijs dat u eigenaar bent van uw PRS-ORG-account' in uw postvak in of ongewenste e-mail heeft ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve de code te delen die naar uw e-mail is gestuurd.
+<|im_end|>
+<|im_start|>assistant
+ The code is DEVICEID
+<|im_end|>
+<|im_start|>assistant
+ U zou een zes cijferig numeriek cijfer moeten hebben ontvangen.
+<|im_end|>
+<|im_start|>assistant
+ Sorry just received the mail 282732
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ I heb je een link om je wachtwoord te resetten gestuurd naar je e-mail. Gelieve het wachtwoord te resetten en je zou nu moeten kunnen inloggen.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou je ook willen aanraden om twee-factor authenticatie (PRS-ORG) in te schakelen om de beveiliging van je account te verbeteren.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben blij dat ik u kon helpen.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets waarmee u hulp nodig hebt?
+<|im_end|>
+<|im_start|>assistant
+ No thank you for the help.
+<|im_end|>
+<|im_start|>assistant
+ I find it only strange that I didn't receive the emails to reset my password.
+<|im_end|>
+<|im_start|>assistant
+ Another lovely evening.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact met ons opneemt.
+<|im_end|>
+<|im_start|>assistant
+ Blijf veilig en heb een geweldige dag vooruit NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ It's going well, thank you!
+<|im_end|>
+<|im_start|>assistant
+ I have a question, in the game type career, are there more possibilities for customization, than on pro clubs.
+<|im_end|>
+<|im_start|>assistant
+ Will these parts ever be added to pro clubs?
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen, ik zal dit zeker voor je onderzoeken en je helpen met je vraag.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve uw geregistreerde e-mailadres van uw PRS-ORG-account met mij te delen.
+<|im_end|>
+<|im_start|>assistant
+ Sure!
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ That is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Gelieve even een momentje te wachten.
+<|im_end|>
+<|im_start|>assistant
+ Zoals ik met mijn team heb gecheckt, welke functies in onze club worden toegevoegd, is dat omhoog te klimmen in Pro Clubs, of om elkaar te bestrijden in de waaier van Party Games in PRS-ORG. Je zal vooruitgang boeken, ongeacht hoe je de tijd wilt doorbrengen met je vrienden in PRS-ORG in beide modi.
+<|im_end|>
+<|im_start|>assistant
+ We brengen ook een live service element naar Pro Clubs via gedeelde seizoenen vooruitgang in Pro Clubs en PRS-ORG, om het hele jaar door nieuwe content te verdienen en te ontgrendelen voor je Avatar.
+<|im_end|>
+<|im_start|>assistant
+ En: En welke functie wil je daarvoor toevoegen? Ik kan je feedback gebruiken. Dus dat team kan dit probleem van hun kant controleren en het voor je oplossen.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik?
+<|im_end|>
+<|im_start|>assistant
+ Ah okay!
+<|im_end|>
+<|im_start|>assistant
+ Clear!
+<|im_end|>
+<|im_start|>assistant
+ Thank you and please take my feedback into account.
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much :)
+<|im_end|>
+<|im_start|>assistant
+ Goed nieuws!
+<|im_end|>
+<|im_start|>assistant
+ Het ticket voor het probleem met  is opgehaald en doorgegeven aan ons Studio-team.
+<|im_end|>
+<|im_start|>assistant
+ Het team zal dit dubbelchecken.
+<|im_end|>
+<|im_start|>assistant
+ Nogmaals bedankt voor het onder de aandacht brengen hiervan.
+<|im_end|>
+<|im_start|>assistant
+ Ik moedig je aan om verder te spelen en even te wachten.
+<|im_end|>
+<|im_start|>assistant
+ Laat het team onderzoeken.
+<|im_end|>
+<|im_start|>assistant
+ Hopelijk zal deze bug-issue zeer binnenkort worden opgelost.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten als er nog iets anders is wat ik voor u kan doen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you, and no that was my only question!
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ My first name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Het is leuk om je te ontmoeten, hoop dat je het goed doet vandaag.
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat u problemen ondervindt met de ontbrekende prime gaming beloningen op PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Kunt u mij daar meer over vertellen?
+<|im_end|>
+<|im_start|>assistant
+ I have a question about PRS-ORG and PRS-ORG account
+<|im_end|>
+<|im_start|>assistant
+ I want to claim the offer
+<|im_end|>
+<|im_start|>assistant
+ However, the PRS-ORG account is not linked to my PRS-ORG account
+<|im_end|>
+<|im_start|>assistant
+ Oh!
+<|im_end|>
+<|im_start|>assistant
+ Dat klinkt niet goed.
+<|im_end|>
+<|im_start|>assistant
+ Laat me zien hoe ik je kan helpen met de ontbrekende prime beloningen.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik het e-mailadres kennen dat gekoppeld is aan uw PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt, laat me even de account controleren.
+<|im_end|>
+<|im_start|>assistant
+ Speel je PRS-ORG of PRS-ORG-spel?
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ I heb de details gecontroleerd en het lijkt erop dat je de PRS-ORG-account niet hebt gekoppeld aan de PRS-ORG-account en daarom heb je de beloningen niet ontvangen op de PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I play PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ I want to make the connection but it's not working
+<|im_end|>
+<|im_start|>assistant
+ I just have a PRS-ORG account
+<|im_end|>
+<|im_start|>assistant
+ En I am busy all afternoon but am not becoming any wiser
+<|im_end|>
+<|im_start|>assistant
+ Probeer het volgende om de fout te verhelpen -
+<|im_end|>
+<|im_start|>assistant
+ Ga naar uw PRS-ORG account en zoek dan het spel dat u niet speelt, namelijk "PRS-ORG of PRS-ORG". Claim dan de beloningen voor het spel dat u niet speelt. Deze actie activeert de koppeling opnieuw en dan heeft u de mogelijkheid om de PRS-ORG en de PRS-ORG Accounts opnieuw te koppelen.
+<|im_end|>
+<|im_start|>assistant
+ Dit zal u helpen om de accounts te koppelen
+<|im_end|>
+<|im_start|>assistant
+ Laat het me weten zodra je het gedaan hebt
+<|im_end|>
+<|im_start|>assistant
+ Just done
+<|im_end|>
+<|im_start|>assistant
+ Goed, nu kunt u de game opnieuw starten en zou u de beloningen op PRS-ORG moeten hebben.
+<|im_end|>
+<|im_start|>assistant
+ Hebt u het gedaan?
+<|im_end|>
+<|im_start|>assistant
+ Yes, it works.
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw vriendelijke begrip.
+<|im_end|>
+<|im_start|>assistant
+ We vinden het geweldig dat jullie net zo gepassioneerd zijn over onze games als wij.
+<|im_end|>
+<|im_start|>assistant
+ U bent van harte welkom.
+<|im_end|>
+<|im_start|>assistant
+ Hebt u nog andere vragen of zorgen, laat het me dan alstublieft weten?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, fijn je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ With me, almost everything is going well, except for the following: A few years ago (2014), I created a PRS-ORG account.
+<|im_end|>
+<|im_start|>assistant
+ My email address where that was done EMAIL no longer exists.
+<|im_end|>
+<|im_start|>assistant
+ How do I get access to my account now.
+<|im_end|>
+<|im_start|>assistant
+ I still have the passwords, but I think they have expired.
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp dat u niet kunt inloggen omdat het e-mailadres niet toegankelijk is.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen, ik ben hier om je te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ U bent welkom!
+<|im_end|>
+<|im_start|>assistant
+ Maar ik ben het hier niet mee eens.
+<|im_end|>
+<|im_start|>assistant
+ Ik zie dat je account is verwijderd vanwege inactiviteit.
+<|im_end|>
+<|im_start|>assistant
+ Om je PRS-ORG account te herstellen heb je toegang nodig voor het geregistreerde e-mailadres, zodat je het wachtwoord kunt resetten.
+<|im_end|>
+<|im_start|>assistant
+ I zou u willen voorstellen om toegang te krijgen voor uw e-mailadres.
+<|im_end|>
+<|im_start|>assistant
+ That can no longer be done, the email address no longer exists.
+<|im_end|>
+<|im_start|>assistant
+ Is there no other way that I can identify myself?
+<|im_end|>
+<|im_start|>assistant
+ After all, it's a lot of money.. I even bought PRS-ORG hardcopy!
+<|im_end|>
+<|im_start|>assistant
+ I can't do anything with it now...
+<|im_end|>
+<|im_start|>assistant
+ I even have the passwords still.
+<|im_end|>
+<|im_start|>assistant
+ I am sure they are correct.
+<|im_end|>
+<|im_start|>assistant
+ No idea if there is an SMS verification possible, but my phone number is still the same
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp hoe frustrerend dit voor u is en ik wens dat ik iets voor u kan doen.
+<|im_end|>
+<|im_start|>assistant
+ Is there a phone number I can call?
+<|im_end|>
+<|im_start|>assistant
+ Can you call me?
+<|im_end|>
+<|im_start|>assistant
+ Mean something to me?
+<|im_end|>
+<|im_start|>assistant
+ Maybe I can transfer the games to a new account?
+<|im_end|>
+<|im_start|>assistant
+ Gelieve hier contact op te nemen met een technisch ondersteuningsadviseur van Electronic Arts om een terugbelverzoek in te dienen: URL
+<|im_end|>
+<|im_start|>assistant
+ 1) Klik op het spel waarmee je problemen hebt (Als je het spel niet ziet, gebruik dan de zoekbalk)
+<|im_end|>
+<|im_start|>assistant
+ 2) Selecteer een onderwerp voor de beste resultaten.
+<|im_end|>
+<|im_start|>assistant
+ 3) Scroll naar beneden en selecteer 'Contacteer ons'.
+<|im_end|>
+<|im_start|>assistant
+ 4) Selecteer je platform en geef een korte beschrijving van je probleem.
+<|im_end|>
+<|im_start|>assistant
+ 5) Kies 'bel me' om een terugbelverzoek te doen aan een PRS-ORG gamesadviseur.
+<|im_end|>
+<|im_start|>assistant
+ Om een spel over te dragen hebben we toegang nodig tot de PRS-ORG-account.
+<|im_end|>
+<|im_start|>assistant
+ Aangezien de account verwijderd is kunnen we de account niet openen en kunnen we geen wijzigingen aanbrengen.
+<|im_end|>
+<|im_start|>assistant
+ Is there anything you can help with?
+<|im_end|>
+<|im_start|>assistant
+ Hoewel ik graag wil helpen omdat ik ook een gamer ben, is uw verzoek iets wat we niet kunnen doen voor spelers.
+<|im_end|>
+<|im_start|>assistant
+ Gelooft u mij maar, als er stappen zijn om te volgen, had ik die al uitgevoerd
+<|im_end|>
+<|im_start|>assistant
+ Dy.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ I think it is really very unfortunate that there are just hundreds of euros gone.
+<|im_end|>
+<|im_start|>assistant
+ There is nothing to be done about it.
+<|im_end|>
+<|im_start|>assistant
+ While I can identify completely except with that email address
+<|im_end|>
+<|im_start|>assistant
+ Ik ben echt heel erg sorry en ik ben zo teleurgesteld omdat ik niet zo behulpzaam ben geweest voor u.
+<|im_end|>
+<|im_start|>assistant
+ Ik kan me voorstellen hoe je je nu voelt.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten als er nog iets is waar ik u bij kan helpen of als u nog vragen voor mij heeft, ik zal u graag helpen!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi, my name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ I have already contacted some of your colleagues today,
+<|im_end|>
+<|im_start|>assistant
+ I have two PRS-ORG accounts
+<|im_end|>
+<|im_start|>assistant
+ 1 is linked to an old email address
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M
+<|im_end|>
+<|im_start|>assistant
+, het is leuk om je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ I would like to link a new email address because the old one no longer exists.
+<|im_end|>
+<|im_start|>assistant
+ I have finally gotten into my account
+<|im_end|>
+<|im_start|>assistant
+ It is this account NAME-N
+<|im_end|>
+<|im_start|>assistant
+ I zal je zeker helpen bij het bijwerken van het e-mailadres voor je PRS-ORG-account met de mogelijke opties en zodat je er weer toegang toe krijgt.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik de PSN-ID en het e-mailadres die aan de PRS-ORG-account zijn gekoppeld, a.u.b. hebben?
+<|im_end|>
+<|im_start|>assistant
+ That is linked to the email address EMAIL
+<|im_end|>
+<|im_start|>assistant
+ My PS ID is NAME-N
+<|im_end|>
+<|im_start|>assistant
+ Gefeliciteerd!
+<|im_end|>
+<|im_start|>assistant
+ Uw account is geverifieerd met PSN
+<|im_end|>
+<|im_start|>assistant
+ Wij zullen nu een nieuw e-mailadres op uw account aanbrengen.
+<|im_end|>
+<|im_start|>assistant
+ Hoe klinkt dat?
+<|im_end|>
+<|im_start|>assistant
+ Yes super!!
+<|im_end|>
+<|im_start|>assistant
+ I have another PRS-ORG account that is linked to my email address EMAIL
+<|im_end|>
+<|im_start|>assistant
+ I don't know if I can link everything there?
+<|im_end|>
+<|im_start|>assistant
+ Gelieve de nieuwe e-mailadres te delen die niet gekoppeld is aan een van de PRS-ORG-accounts.
+<|im_end|>
+<|im_start|>assistant
+ I zal het bijwerken op uw PRS-ORG Account.
+<|im_end|>
+<|im_start|>assistant
+ U zult hier een nieuw e-mailadres moeten delen.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ ok then please use this email address please
+<|im_end|>
+<|im_start|>assistant
+ And then I can finally play my PRS-ORG fut team on mobile
+<|im_end|>
+<|im_start|>assistant
+ Oké.
+<|im_end|>
+<|im_start|>assistant
+ Gefeliciteerd!
+<|im_end|>
+<|im_start|>assistant
+ I heb het e-mailadres op uw account bijgewerkt.
+<|im_end|>
+<|im_start|>assistant
+ U kunt het wachtwoord resetten met de link die ik heb gedeeld op uw e-mail.
+<|im_end|>
+<|im_start|>assistant
+ Laat me weten of er nog iets anders is waar ik u bij kan helpen.
+<|im_end|>
+<|im_start|>assistant
+ Thanks, I'll do it right away
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the help
+<|im_end|>
+<|im_start|>assistant
+ Het was een genoegen.
+<|im_end|>
+<|im_start|>assistant
+ Het was een geweldige ervaring om met u te praten.
+<|im_end|>
+<|im_start|>assistant
+ Blijf veilig.
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat ik je heb kunnen helpen met je probleem.
+<|im_end|>
+<|im_start|>assistant
+ En: En ik hoop dat u genoten heeft van uw ervaring met ons.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van je dag/nacht.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opnam met PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ Voor verdere vragen kunt u contact met ons opnemen via URL.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Good day NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ I also contacted you yesterday about this problem.
+<|im_end|>
+<|im_start|>assistant
+ I moved to the Netherlands half a year ago.
+<|im_end|>
+<|im_start|>assistant
+ As a Belgian player, I could never buy PRS-ORG points, but that is all in the past.
+<|im_end|>
+<|im_start|>assistant
+ I changed my location on PRS-ORG but I still can't buy points.
+<|im_end|>
+<|im_start|>assistant
+ With the creation of another account, this is possible, but then I will lose my progress with my'main account'.
+<|im_end|>
+<|im_start|>assistant
+ Can you help me further?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ I zal je zeker helpen met het probleem dat je ondervindt bij het kopen van PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ En: Dus om te bevestigen, hebt u de locatie gewijzigd, niet?
+<|im_end|>
+<|im_start|>assistant
+ Yes, that’s correct.
+<|im_end|>
+<|im_start|>assistant
+ It is set to Amsterdam.
+<|im_end|>
+<|im_start|>assistant
+ I have already emptied my cache as they advised me to do yesterday but that doesn’t work either.
+<|im_end|>
+<|im_start|>assistant
+ Ok.
+<|im_end|>
+<|im_start|>assistant
+ Dus je moet ook je locatie op je PSN-account veranderen.
+<|im_end|>
+<|im_start|>assistant
+ Als je het hebt gewijzigd.
+<|im_end|>
+<|im_start|>assistant
+ U k kunt de games en inhoud ook kopen.
+<|im_end|>
+<|im_start|>assistant
+ This is already an.
+<|im_end|>
+<|im_start|>assistant
+ Modified but it doesn't work
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp de situatie, maar de punten die op PRS-ORG worden gekocht worden alleen door PRS-ORG beheerd.
+<|im_end|>
+<|im_start|>assistant
+ Als onze gamingpartners kunnen we hun databases niet raadplegen om aankooplogboeken of databases te controleren.
+<|im_end|>
+<|im_start|>assistant
+ Dus stel dat u in contact treedt met PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Neem contact op met ons voor eventuele aankoopgerelateerde problemen.
+<|im_end|>
+<|im_start|>assistant
+ OK thanks for the help
+<|im_end|>
+<|im_start|>assistant
+ Welkom.
+<|im_end|>
+<|im_start|>assistant
+ Met dat besproken, laat ons alstublieft weten of er nog iets anders is?
+<|im_end|>
+<|im_start|>assistant
+ Zijn we verbonden?
+<|im_end|>
+<|im_start|>assistant
+ Aangezien er geen reactie van uw kant komt, lijkt het erop dat u momenteel niet bij uw toetsenbord bent.
+<|im_end|>
+<|im_start|>assistant
+ De chat zal binnenkort eindigen.
+<|im_end|>
+<|im_start|>assistant
+ Voor verdere hulp kunt u contact met ons opnemen vanaf URL.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het contact opnemen met PRS-ORG Help en een goede dag.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ I am NAME-F. What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi, my name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ I have a problem, I purchased PRS-ORG ultimate edition, but I never received the PRS-ORG points
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, leuk je te ontmoeten.
+<|im_end|>
+<|im_start|>assistant
+ Ik zie dat je nooit de PRS-ORG punten ontvangt voor de aankoop van de ultieme editie.
+<|im_end|>
+<|im_start|>assistant
+ Geen probleem, ik zal het controleren en mijn best doen om u te helpen met hetzelfde.
+<|im_end|>
+<|im_start|>assistant
+ En: Om verder te gaan, kunt u alstublieft het e-mailadres delen dat gekoppeld is aan de PRS-ORG-account?
+<|im_end|>
+<|im_start|>assistant
+ Great, thank you in advance
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u de e-mail hebt verstrekt. Gelieve even te wachten terwijl ik de account zoek.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb uw account gecontroleerd en ik kan zien dat u de punten niet hebt ontvangen, maar ik kan ook niet valideren dat u de ultieme editie hebt gekocht, dus bent u zeker dat u de ultieme editie hebt gekocht?
+<|im_end|>
+<|im_start|>assistant
+ And: Yes I know it very sure
+<|im_end|>
+<|im_start|>assistant
+ When I go to the playstore, can I still buy the standard edition?
+<|im_end|>
+<|im_start|>assistant
+ But not the ultimate edition, that has been bought
+<|im_end|>
+<|im_start|>assistant
+ I also have a confirmation that I bought the ultimate edition
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb dit gecontroleerd en ik wil je graag informeren dat je contact moet opnemen met de PRS-ORG-ondersteuning voor dit probleem en dat ze je kunnen helpen met de punten.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Can it be done via the PRS-ORG or must it be done via the internet?
+<|im_end|>
+<|im_start|>assistant
+ Ik denk dat het via internet moet gebeuren en je kan deze link gebruiken om contact op te nemen met de PSN-ondersteuning: URL
+<|im_end|>
+<|im_start|>assistant
+ Het was leuk om met u te praten.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het contact opnemen met PRS-ORG help, ik wens u een fijne dag toe!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help, have a nice day further
+<|im_end|>
+<|im_start|>assistant
+ Thank you for contacting PRS-ORG Help!
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What is your first name, if I may ask?
+<|im_end|>
+<|im_start|>assistant
+ Hi NAME-M, my name is NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Hallo.
+<|im_end|>
+<|im_start|>assistant
+ Het is een plezier om je te ontmoeten via de chat.
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat je het goed doet vandaag?
+<|im_end|>
+<|im_start|>assistant
+ Wat kan ik voor u doen vandaag?
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u informeren dat we momenteel een probleem hebben met de vertaalaanwijzingen. U kunt dus enige vertraging verwachten, maar maak u geen zorgen, ik zal mijn best doen om u te helpen.
+<|im_end|>
+<|im_start|>assistant
+ No problem!
+<|im_end|>
+<|im_start|>assistant
+ I just had contact with your colleague about my problem.
+<|im_end|>
+<|im_start|>assistant
+ I added PRS-ORG Expansion Package to my PRS-ORG account earlier today.
+<|im_end|>
+<|im_start|>assistant
+ I only can’t see the download button.
+<|im_end|>
+<|im_start|>assistant
+ Your colleague came with this link URL.
+<|im_end|>
+<|im_start|>assistant
+ I have followed all the steps but it still isn’t working.
+<|im_end|>
+<|im_start|>assistant
+ Natuurlijk begrijp ik het probleem dat u doormaakt.
+<|im_end|>
+<|im_start|>assistant
+ I zal mijn best doen om je te helpen met het downloaden van de game.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik het e-mailadres van uw PRS-ORG-account weten?
+<|im_end|>
+<|im_start|>assistant
+ Yes, my email address is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Dus kan ik weten waar u het spel hebt gekocht?
+<|im_end|>
+<|im_start|>assistant
+ Via URL
+<|im_end|>
+<|im_start|>assistant
+ Hebt u een spelcode gekregen?
+<|im_end|>
+<|im_start|>assistant
+ Gelieve mij de spelcode te verstrekken?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I do!
+<|im_end|>
+<|im_start|>assistant
+ The code is ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ Bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Ok, dus ik geef je het spel opnieuw vanaf mijn kant.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve opnieuw te starten
+<|im_end|>
+<|im_start|>assistant
+ Wacht op uw PRS-ORG en wacht een paar uur om de game in uw account te zien.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb je het spel van mijn kant toegekend.
+<|im_end|>
+<|im_start|>assistant
+ Het zal binnen een paar uur in onze account worden weerspiegeld.
+<|im_end|>
+<|im_start|>assistant
+ Is er nog iets anders waar ik u bij kan helpen?
+<|im_end|>
+<|im_start|>assistant
+ Okay, then I will wait and see.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the help!
+<|im_end|>
+<|im_start|>assistant
+ No, I am sufficiently helped.
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ Perfect.
+<|im_end|>
+<|im_start|>assistant
+ I wens u een prettige kerst en een gelukkig nieuwjaar.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u hulp hebt gezocht bij PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ Geniet van de dag!
+<|im_end|>
+<|im_start|>assistant
+ My email address: EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Android
+<|im_end|>
+<|im_start|>assistant
+ Here is basically my question: it concerns payment options for my subscription and new books
+<|im_end|>
+<|im_start|>assistant
+ Question: I am changing my credit card. The old one is blocked and the new one has not arrived yet.
+<|im_end|>
+<|im_start|>assistant
+ Can I pay with PRS-ORG in the meantime?
+<|im_end|>
+<|im_start|>assistant
+ And if so, how does it work?
+<|im_end|>
+<|im_start|>assistant
+ On the URL I don’t see an option for that.
+<|im_end|>
+<|im_start|>assistant
+ Last read book: PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ I zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Bedoelt u een PRS-ORG-abonnement te betalen of individuele boeken?
+<|im_end|>
+<|im_start|>assistant
+ Both
+<|im_end|>
+<|im_start|>assistant
+ U k kunt met PRS-ORG betalen voor individuele boeken.
+<|im_end|>
+<|im_start|>assistant
+ Op de betalingspagina hebt u de mogelijkheid om PRS-ORG als betalingsmethode te selecteren
+<|im_end|>
+<|im_start|>assistant
+ The option is not showing on my ereader
+<|im_end|>
+<|im_start|>assistant
+ Where can I find the checkout page?
+<|im_end|>
+<|im_start|>assistant
+......or can that not be done on the ereader itself?
+<|im_end|>
+<|im_start|>assistant
+ Het zou moeten werken.
+<|im_end|>
+<|im_start|>assistant
+ Misschien zie je het niet omdat je al een standaard betalingsmethode hebt opgeslagen.
+<|im_end|>
+<|im_start|>assistant
+ Kun je het proberen vanaf de website?
+<|im_end|>
+<|im_start|>assistant
+ Do you mean that it should be possible from the ereader?
+<|im_end|>
+<|im_start|>assistant
+ De abonnement kan echter alleen worden betaald met een creditcard.
+<|im_end|>
+<|im_start|>assistant
+ U k kunt het alleen betalen met PRS-ORG als u zich aanmeldt via URL, en daarvoor moet u de abonnement bij PRS-ORG opzeggen en zich opnieuw aanmelden via URL.
+<|im_end|>
+<|im_start|>assistant
+ Ik zou willen voorstellen dat je wacht op je nieuwe creditcard en dan je betalingsgegevens bijwerkt
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ And if I want to order a new book on the site and pay with PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ U k kunt naar de URL gaan, inloggen op uw PRS-ORG-account en het boek kiezen dat u wilt kopen
+<|im_end|>
+<|im_start|>assistant
+ Wanneer u op 'Koop nu' klikt, gaat u naar de betalingspagina.
+<|im_end|>
+<|im_start|>assistant
+ Daar vindt u de mogelijkheid om te betalen met uw creditcard, PRS-ORG of PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ ebook
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG is now in my ebooks bieb but I can’t open it.
+<|im_end|>
+<|im_start|>assistant
+ There are also PRS-ORG and PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I just downloaded PRS-ORG via URL for PRS-ORG (I have a subscription) on the e-reader but when I open it, I get the message Oops this document cannot be opened.
+<|im_end|>
+<|im_start|>assistant
+ No idea why that can't be done, hence I am asking you.
+<|im_end|>
+<|im_start|>assistant
+ Hallo!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb even tijd nodig om uw informatie te controleren.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld!
+<|im_end|>
+<|im_start|>assistant
+ Kunt u zich afmelden van uw account?
+<|im_end|>
+<|im_start|>assistant
+ On the URL?
+<|im_end|>
+<|im_start|>assistant
+ I just signed out from URL on my laptop.
+<|im_end|>
+<|im_start|>assistant
+ Do I also have to do that in the app on my mobile?
+<|im_end|>
+<|im_start|>assistant
+ Ja, alstublieft.
+<|im_end|>
+<|im_start|>assistant
+ En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En: En:
+<|im_end|>
+<|im_start|>assistant
+ Done
+<|im_end|>
+<|im_start|>assistant
+ Goed, laat het me alsjeblieft weten als je je boeken nu kunt openen.
+<|im_end|>
+<|im_start|>assistant
+ I still can't open it.
+<|im_end|>
+<|im_start|>assistant
+ I get the same message.
+<|im_end|>
+<|im_start|>assistant
+ Laten we proberen een reparatieaccount aan te maken:
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ All steps have been taken but it still doesn’t work.
+<|im_end|>
+<|im_start|>assistant
+ Evenwichtig, laat me even kijken wat we nog meer kunnen doen.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben er nog mee bezig, bedankt voor uw geduld!
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor uw geduld!
+<|im_end|>
+<|im_start|>assistant
+ Ik ga uw zaak voorleggen aan een hogere instantie zodat ze ons verder kunnen helpen met uw zaak.
+<|im_end|>
+<|im_start|>assistant
+ Gelieve contact op te nemen via uw e-mail, we zullen contact met u opnemen zodra we een antwoord voor u hebben.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik u nog iets anders helpen?
+<|im_end|>
+<|im_start|>assistant
+ Hi, I have solved it in the meantime.
+<|im_end|>
+<|im_start|>assistant
+ The e-reader is from my son and it was on his PRS-ORG account while the payment went from PRS-ORG via my URL account.
+<|im_end|>
+<|im_start|>assistant
+ Apparently I can’t send books to his ereader via PRS-ORG under my account?
+<|im_end|>
+<|im_start|>assistant
+ Now that I am logged in to his ereader with my details (I first logged my son out) I can read the book.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help anyway.
+<|im_end|>
+<|im_start|>assistant
+ Oh, geweldig om dat te horen!
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je een geweldige tijd zult hebben met lezen!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact hebt opgenomen met PRS-ORG, het was een genoegen om u vandaag te helpen.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat u een uitstekende dag heeft.
+<|im_end|>
+<|im_start|>assistant
+ Hello, I have not used my PRS-ORG reader for a while.
+<|im_end|>
+<|im_start|>assistant
+ Now I have a problem with charging the PRS-ORG reader.
+<|im_end|>
+<|im_start|>assistant
+ I have tried different USB cables, both on computers and on a wall socket with USB ports and with a plug.
+<|im_end|>
+<|im_start|>assistant
+ I have reset it to factory settings and synchronized it, but it does not want to charge anymore.
+<|im_end|>
+<|im_start|>assistant
+ He is still functioning properly.
+<|im_end|>
+<|im_start|>assistant
+ Do you have a last resort for me?
+<|im_end|>
+<|im_start|>assistant
+ Thank you in advance.
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact opneemt met PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat het goed met je gaat.
+<|im_end|>
+<|im_start|>assistant
+ Ik wil me hiervoor verontschuldigen als u dit probleem ondervindt.
+<|im_end|>
+<|im_start|>assistant
+ Wees gerust dat ik je zal helpen met dit probleem.
+<|im_end|>
+<|im_start|>assistant
+ Mag ik even een moment de tijd nemen om uw account te openen en te verifiëren?
+<|im_end|>
+<|im_start|>assistant
+ Om dit te doen, kunt u alstublieft het e-mailadres van uw PRS-ORG-account en het laatste boek dat u hebt gekocht, verstrekken?
+<|im_end|>
+<|im_start|>assistant
+ Dank u wel en sorry voor dit ongemak.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ The wilde stilte via URL
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor het verifiëren van uw account.
+<|im_end|>
+<|im_start|>assistant
+ Kunnen we een foto van uw apparaat vragen?
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor dit.
+<|im_end|>
+<|im_start|>assistant
+ Kunnen we ook het serienummer van dit apparaat vragen om uw garantie te verifiëren?
+<|im_end|>
+<|im_start|>assistant
+ Mag ik ook vragen uit welk land u komt?
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt.
+<|im_end|>
+<|im_start|>assistant
+ Where can I find the serial number?
+<|im_end|>
+<|im_start|>assistant
+ I come from the Netherlands
+<|im_end|>
+<|im_start|>assistant
+ For me not to be able to read, hence the photo
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt voor het verifiëren hiervan.
+<|im_end|>
+<|im_start|>assistant
+ Probeer eerst het probleem op te lossen, maar als dit niet lukt neem dan contact op met de verkooppunt voor de garantie van uw apparaat.
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG of NAME-F
+<|im_end|>
+<|im_start|>assistant
+ ebook
+<|im_end|>
+<|im_start|>assistant
+ NAME-F PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ I came on the site of PRS-ORG and I bought these two books with my URL account
+<|im_end|>
+<|im_start|>assistant
+ Hallo!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ Hoe kan ik u vandaag helpen?
+<|im_end|>
+<|im_start|>assistant
+ I thought that I would receive downloads per email but that is not the case.
+<|im_end|>
+<|im_start|>assistant
+ I have a PRS-ORG but I don't know my account details anymore
+<|im_end|>
+<|im_start|>assistant
+ so now I have nothing from my purchases.
+<|im_end|>
+<|im_start|>assistant
+ Can I get both downloads so that I can install them on my PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ My PRS-ORG account is on EMAIL.
+<|im_end|>
+<|im_start|>assistant
+ Probably my PRS-ORG account on EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Ik zie wat er aan de hand is.
+<|im_end|>
+<|im_start|>assistant
+ U heeft twee actieve en verschillende accounts
+<|im_end|>
+<|im_start|>assistant
+ Ik kan uw boeken overzetten naar uw andere account
+<|im_end|>
+<|im_start|>assistant
+ Zijn jullie ingelogd op het EMAIL e-mailadres, correcvt?
+<|im_end|>
+<|im_start|>assistant
+ Ah ok I see, that's very nice if you will put these two books on the other account.
+<|im_end|>
+<|im_start|>assistant
+ But which accounts do I have then?
+<|im_end|>
+<|im_start|>assistant
+ When I look at my PRS-ORG reader, I see EMAIL at the account
+<|im_end|>
+<|im_start|>assistant
+ Wacht even, ik zal de boeken daarheen overbrengen
+<|im_end|>
+<|im_start|>assistant
+ That is super nice
+<|im_end|>
+<|im_start|>assistant
+ I only don't understand how this went wrong and how I should arrange it next time :)
+<|im_end|>
+<|im_start|>assistant
+ Gedaan, gelieve te controleren of u uw boeken nu in uw apparaat kunt zien
+<|im_end|>
+<|im_start|>assistant
+ Tik op de knop 'Synchroniseren'
+<|im_end|>
+<|im_start|>assistant
+ De beste oplossing voor dit probleem is dat je maar één account beheert
+<|im_end|>
+<|im_start|>assistant
+ Yeah they are on it :)
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Is the other account EMAIL?
+<|im_end|>
+<|im_start|>assistant
+ Are there books under there?
+<|im_end|>
+<|im_start|>assistant
+ Als u zegt dat u in uw e-reader het e-mailadres EMAIL kunt zien, moet u dat account alleen gebruiken om toegang te krijgen tot uw profiel en om aankopen te doen
+<|im_end|>
+<|im_start|>assistant
+ De boeken zitten in de EMAIL-account
+<|im_end|>
+<|im_start|>assistant
+ Ga naar je startscherm.
+<|im_end|>
+<|im_start|>assistant
+ Tik op het pictogram 'Meer' onderaan het scherm.
+<|im_end|>
+<|im_start|>assistant
+ Tik op Instellingen.
+<|im_end|>
+<|im_start|>assistant
+ Tik op 'Apparaatinformatie'.
+<|im_end|>
+<|im_start|>assistant
+ Naast 'Uw PRS-ORG-account repareren', tik op 'Nu repareren'.
+<|im_end|>
+<|im_start|>assistant
+ Tik op 'Nu repareren'.
+<|im_end|>
+<|im_start|>assistant
+ Nl: ok, then I'll do that, but when I ordered, I was asked if I wanted to log in with my URL account?
+<|im_end|>
+<|im_start|>assistant
+ There is where it went wrong I think
+<|im_end|>
+<|im_start|>assistant
+ NL: If I press repair now, are all my 1000 books gone that are on it?
+<|im_end|>
+<|im_start|>assistant
+ Neen, mijnheer
+<|im_end|>
+<|im_start|>assistant
+ You mean that all books that are on it will stay on it.
+<|im_end|>
+<|im_start|>assistant
+ Also the ones that were not bought via PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ It is successful I think.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact hebt opgenomen met PRS-ORG, het was een genoegen om u vandaag te helpen.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat u een uitstekende avond heeft!
+<|im_end|>
+<|im_start|>assistant
+ Hi, my subscription was not collected while my credit card details were not changed and I did not make any changes.
+<|im_end|>
+<|im_start|>assistant
+ I have just (after receiving a second mail about this) adjusted the details.
+<|im_end|>
+<|im_start|>assistant
+ Can you look at the reason why my subscription is not being collected?
+<|im_end|>
+<|im_start|>assistant
+ Is the data correct now?
+<|im_end|>
+<|im_start|>assistant
+ Thank you in advance
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Author NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie.
+<|im_end|>
+<|im_start|>assistant
+ I zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Het is een plezier om u te ontmoeten, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I hoop dat je een geweldige dag hebt!
+<|im_end|>
+<|im_start|>assistant
+ Stel me even een paar minuten de tijd om uw account te vinden.
+<|im_end|>
+<|im_start|>assistant
+ Yes that is fine
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw geduld, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb uw account kunnen vinden.
+<|im_end|>
+<|im_start|>assistant
+ Ik ben verontwaardigd om te horen dat je problemen hebt met je abonnement.
+<|im_end|>
+<|im_start|>assistant
+ Tot nu toe heb je alleen je betalingsgegevens op je account ingevuld of heb je dit een paar dagen geleden gedaan?
+<|im_end|>
+<|im_start|>assistant
+ I just changed the credit card details for safety
+<|im_end|>
+<|im_start|>assistant
+ Hartelijk bedankt, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ok, ik zie dat de informatie is opgeslagen, maar het lijkt erop dat de verlengingsdatum van de abonnementen nog niet verlengd is.
+<|im_end|>
+<|im_start|>assistant
+ Maak je geen zorgen!
+<|im_end|>
+<|im_start|>assistant
+ Om te zien wat de oorzaak van dit probleem kan zijn en om het in uw PRS-ORG-account te verhelpen, zal ik dit ticket doorsturen naar onze hogere afdeling zodat zij dit van hun kant nader kunnen bekijken.
+<|im_end|>
+<|im_start|>assistant
+ Dit betekent dat onze interactie via e-mail zal worden voortgezet en dat we u zullen opnieuw contacteren zodra we updates hebben over deze kwestie.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ So if everything goes well, my subscription will not be cancelled in three days?
+<|im_end|>
+<|im_start|>assistant
+ Ja, dat klopt!
+<|im_end|>
+<|im_start|>assistant
+ Normaal gezien zou uw abonnement moeten worden voortgezet zodra ons team alles heeft bijgewerkt in uw account.
+<|im_end|>
+<|im_start|>assistant
+ That is nice to hear.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your effort!
+<|im_end|>
+<|im_start|>assistant
+ I will hear further via email how it goes.
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day!
+<|im_end|>
+<|im_start|>assistant
+ Heel erg bedankt!
+<|im_end|>
+<|im_start|>assistant
+ Het is een plezier om u te helpen en ja, we zullen contact opnemen via e-mail.
+<|im_end|>
+<|im_start|>assistant
+ I wens u ook een goede dag en een leuke week!
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor uw tijd en vriendelijkheid, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Last week I ordered another book from NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Unknown issue
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor de informatie, ik zal u graag helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik wil u even de tijd geven om het account te verifiëren.
+<|im_end|>
+<|im_start|>assistant
+ My current ereader is starting to have charging problems.
+<|im_end|>
+<|im_start|>assistant
+ Now with a new PRS-ORG touch e-reader.
+<|im_end|>
+<|im_start|>assistant
+ How can I get the books from my current ereader to my new ereader
+<|im_end|>
+<|im_start|>assistant
+ Bedankt voor het wachten
+<|im_end|>
+<|im_start|>assistant
+ Ik spijker dat u dit probleem ondervindt, ik zal mijn best doen om u te helpen
+<|im_end|>
+<|im_start|>assistant
+ Als u een tweede e-reader hebt, kunt u zich inloggen met hetzelfde PRS-ORG e-mailadres in de tweede e-reader en zal al uw bibliotheek worden gedownload in de nieuwe e-reader
+<|im_end|>
+<|im_start|>assistant
+ The most convenient for me is if you put it in an email EMAIL
+<|im_end|>
+<|im_start|>assistant
+ OK, I'll try that later.
+<|im_end|>
+<|im_start|>assistant
+ Ik heb uw account gecontroleerd en deze 2 e-mailadressen zijn aan elkaar gekoppeld, u kunt een of beide gebruiken, geen probleem
+<|im_end|>
+<|im_start|>assistant
+ Alle boeken zijn opgeslagen in de 2 e-mailadressen
+<|im_end|>
+<|im_start|>assistant
+ Ja, je kan dat later proberen. Voor je informatie zal ik je een transcriptie van ons gesprek sturen.
+<|im_end|>
+<|im_start|>assistant
+ Als u verdere vragen of problemen heeft kunt u altijd opnieuw reageren op die e-mail en dan zullen we u verder kunnen helpen.
+<|im_end|>
+<|im_start|>assistant
+ Op dit moment is er nog een andere vraag of twijfel die u zou willen stellen?
+<|im_end|>
+<|im_start|>assistant
+ Okay thanks for that.
+<|im_end|>
+<|im_start|>assistant
+ No, don’t do that. First try to charge and download the ereader.
+<|im_end|>
+<|im_start|>assistant
+ If it doesn't work, I will let you know.
+<|im_end|>
+<|im_start|>assistant
+ Ok, geen probleem
+<|im_end|>
+<|im_start|>assistant
+ Bedankt dat u contact hebt opgenomen met PRS-ORG, het was een genoegen om u vandaag te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Ik hoop dat u een goede dag heeft.
+<|im_end|>
+<|im_start|>assistant
+ I bought two books this week via the PRS-ORG website: Derksen and Selfies by NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ When I try to open these books on my e-reader, I get the message: Oops!
+<|im_end|>
+<|im_start|>assistant
+ This document cannot be opened.
+<|im_end|>
+<|im_start|>assistant
+ I have already synchronized the ereader several times, but that does not help.
+<|im_end|>
+<|im_start|>assistant
+ I can't see the books on my computer either.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG NAME-N, today around 13.4.
+<|im_end|>
+<|im_start|>assistant
+ 13.4
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, mijn excuses voor het ongemak.
+<|im_end|>
+<|im_start|>assistant
+ I zal me inzetten om uw boeken die vandaag niet geopend konden worden op te lossen.
+<|im_end|>
+<|im_start|>assistant
+ I understand what went wrong.
+<|im_end|>
+<|im_start|>assistant
+ I have ordered these books on the account EMAIL
+<|im_end|>
+<|im_start|>assistant
+ These should have been on the account EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Ik begrijp het, het lijkt erop dat beide e-mailadressen gekoppeld zijn, zodat de boeken op dezelfde plek staan.
+<|im_end|>
+<|im_start|>assistant
+ Laten we proberen om je apparaat te repareren als je daarmee akkoord gaat.
+<|im_end|>
+<|im_start|>assistant
+ Om de boeken te kunnen openen.
+<|im_end|>
+<|im_start|>assistant
+ Prima
+<|im_end|>
+<|im_start|>assistant
+ Goed, ga naar het startscherm van je eReader en tik vervolgens op het menu met meer opties.
+<|im_end|>
+<|im_start|>assistant
+ Tik vervolgens op Instellingen en vervolgens op Accounts.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG, bent u nog online met mij?
+<|im_end|>
+<|im_start|>assistant
+ Sorry I have some problems with the ereader
+<|im_end|>
+<|im_start|>assistant
+ Geen zorgen als je hulp nodig hebt of vragen hebt, laat het me weten, ik ben hier voor je.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M, om u te laten weten dat ik nog steeds online ben met u.
+<|im_end|>
+<|im_start|>assistant
+ Laat ons weten of u verdere ondersteuning nodig heeft of als u verdere vragen heeft.
+<|im_end|>
+<|im_start|>assistant
+ Helaas zal ik de interactie moeten beëindigen omwille van kwaliteitsredenen als ik binnen de volgende 2 minuten geen antwoord ontvang.
+<|im_end|>
+<|im_start|>assistant
+ Maar maak je geen zorgen, we zullen je graag verder helpen via e-mail of je kunt ons opnieuw contacteren.
+<|im_end|>
+<|im_start|>assistant
+ Uw referentienummer is PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ The problem has been solved.
+<|im_end|>
+<|im_start|>assistant
+ I have logged out and then logged in again.
+<|im_end|>
+<|im_start|>assistant
+ After starting up, both purchased books are on my ereader.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the help
+<|im_end|>
+<|im_start|>assistant
+ Absolutely, ik ben blij om te horen dat.
+<|im_end|>
+<|im_start|>assistant
+ Het was geweldig om je te helpen.
+<|im_end|>
+<|im_start|>assistant
+ Kan ik u nog iets anders helpen?
+<|im_end|>
+<|im_start|>assistant
+ I understand that my accounts EMAIL and EMAIL are linked?
+<|im_end|>
+<|im_start|>assistant
+ When I log in via PRS-ORG using that account EMAIL
+<|im_end|>
+<|im_start|>assistant
+ I am offline.
+<|im_end|>
+<|im_start|>assistant
+ Answer can also be sent to one of my email addresses, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Het lijkt erop dat de PRS-ORG-account niet is gekoppeld aan de Apple-account, maar die accounts hebben ook geen boeken.
