@@ -219,7 +219,7 @@ def main(args):
 
                 if args.exclude_context:
                     mc_context_text = f"{to_translate}"
-                    dialogue = dialogue["dialogue"][-1]
+                    dialogue["dialogue"] = [dialogue["dialogue"][-1]]
                 else:
                     mc_context_text = f"{dialogue_history}\n{to_translate}"
 
