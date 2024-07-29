@@ -34,12 +34,17 @@ def T5Trainer(args):
 
     # Load data as dataset
     print('====Load dataset====')
-    train_set = ChatDatasetWithGraph("train", tokenizer, args.input_len, args.output_len, args)
-    eval_set = ChatDatasetWithGraph("valid", tokenizer, args.input_len, args.output_len, args)
+    if args.eval_dir == "":
+        train_set = ChatDatasetWithGraph("train", tokenizer, args.input_len, args.output_len, args)
+        eval_set = ChatDatasetWithGraph("valid", tokenizer, args.input_len, args.output_len, args)
 
-    # TODO uncomment for testing script
-    # train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
-    # eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+        # TODO uncomment for testing script
+        # train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+        # eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+    else:
+        train_set = None
+        eval_set = ChatDatasetWithGraph("test", tokenizer, args.input_len, args.output_len, args)
+        args.model = args.evaluate_dir
 
     # Load model
     print(f'====Load model: {args.model} ====')
@@ -104,16 +109,17 @@ def T5Trainer(args):
                              )
 
     # Train
-    print('====Train====')
-    trainer.train(resume_from_checkpoint=args.resume_from_checkpoint)
-    trainer.save_model(save_dir)
+    if args.eval_dir == "":
+        print('====Train====')
+        trainer.train(resume_from_checkpoint=args.resume_from_checkpoint)
+        trainer.save_model(save_dir)
 
-    # Evaluate
-    print('====Evaluate with HF====')
-    metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
-    print("Evaluation metrics:", metrics)
-    trainer.log_metrics("eval", metrics)
-    trainer.save_metrics("eval", metrics)
+    # # Evaluate TODO: This makes it slower, not sure why but we might not need it now
+    # print('====Evaluate with HF====')
+    # metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
+    # print("Evaluation metrics:", metrics)
+    # trainer.log_metrics("eval", metrics)
+    # trainer.save_metrics("eval", metrics)
 
     def generate_predictions(dataset):
         predict_results = trainer.predict(test_dataset=dataset, max_length=args.output_len)
@@ -134,7 +140,11 @@ def T5Trainer(args):
                        "labels": targets}
 
         # Save predictions
-        output_prediction_file = os.path.join(save_dir, "predictions_ans_eval.json")
+        if args.eval_dir == "":
+            output_prediction_file = os.path.join(save_dir, "predictions_ans_eval.json")
+        else:
+            output_prediction_file = os.path.join(save_dir, "predictions_ans_test.json")
+
         with open(output_prediction_file, "w") as writer:
             writer.write(json.dumps(output_data, indent=4))
 
@@ -166,6 +176,8 @@ def parse_args():
     parser.add_argument('--epoch', type=int, default=50)
     parser.add_argument('--bs', type=int, default=4)
     parser.add_argument('--eval_bs', type=int, default=8)
+    parser.add_argument('--eval_dir', type=str, default="", help='the directory of model for evaluation')
+
 
     # TODO uncomment for testing script
     # parser.add_argument('--language', default='en-de_short', help='language pair for data loader')
