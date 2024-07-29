@@ -104,9 +104,11 @@ def add_empty_and_reorder_json(languages: List[str], datasets: List[str], base_p
                 print(f"Skipping {lang} - {dataset} as either CSV or JSON file does not exist.")
 
 
+
+
 if __name__ == "__main__":
     languages = ['en-de', 'en-fr', 'en-nl', 'en-pt']
-    datasets = ['mini-valid'] # 'train', 'valid', 'test'
-    base_path = '/home/lkrause/data/llm-storage/selea/chat-task-2024-data'
+    datasets = ['valid'] # 'train', 'valid', 'test'
+    base_path = './../..'
     
     add_empty_and_reorder_json(languages, datasets, base_path)

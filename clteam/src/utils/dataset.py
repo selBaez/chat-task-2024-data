@@ -3,8 +3,9 @@ import pickle
 
 import torch
 from torch.utils.data import Dataset
-from utils.utils_data import load_raw_data
-from utils.utils_prompt import build_train_pair
+
+from utils.utils_data import load_raw_data, load_triple_data
+from utils.utils_prompt import build_train_pair, get_en_history, match_utterances
 
 
 class ChatDatasetWithGraph(Dataset):
@@ -17,7 +18,8 @@ class ChatDatasetWithGraph(Dataset):
 
     def __init__(self, split, tokenizer, args, dry_run=False):
         self.tokenizer = tokenizer
-        self.data = load_raw_data(args, split, dry_run=dry_run)  # {qid : problems[qid] for qid in qids}
+        self.raw_data = load_raw_data(args, split, dry_run=dry_run)
+        self.triple_data = load_triple_data(args, split, dry_run=dry_run)
         self.source_len = args.input_len
         self.summ_len = args.output_len
         self.target_text = []
@@ -28,10 +30,19 @@ class ChatDatasetWithGraph(Dataset):
         with open(os.path.join(args.data_root, split, args.language, 'mc_adj_matrix.pkl'), 'rb') as f:
             self.got_adj_matrix_list = pickle.load(f)
 
-        for qid, prob in enumerate(self.data):
-            prompt, target = build_train_pair(prob, args.exclude_context)
-            self.target_text.append(target)
-            self.source_text.append(prompt)
+        self.data = match_utterances(self.raw_data, self.triple_data,
+                                     self.got_input_text_list, self.got_adj_matrix_list)
+
+        if split == "test":
+            self.raw_data = get_en_history(self.raw_data, self.triple_data)
+
+        for og, post_prompt in zip(self.data, self.triple_data):
+            prompt, target = build_train_pair(og, post_prompt, args.exclude_context)
+            self.target_text.extend(target)
+            self.source_text.extend(prompt)
+
+        print(f"Dataset ({split}) loaded")
+        print(len(self.got_input_text_list), len(self.raw_data), len(self.target_text), len(self.data))
 
     def __len__(self):
         return len(self.target_text)
