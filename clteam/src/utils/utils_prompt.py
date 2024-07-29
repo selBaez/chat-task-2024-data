@@ -9,38 +9,35 @@ import nltk
 
 
 def build_train_pair(problems, exclude_context=False):
-    examples = []
-    # create the prompt input
-
-    dialogue_history = []
-    for utt in problems[:-1]:
-        if utt["source_language"] == "en":
-            dialogue_history.append(f'{utt["sender"]}: {utt["source"]}')
-        else:
-            if "reference" in utt.keys():
-                dialogue_history.append(f'{utt["sender"]}: {utt["reference"]}')
-
-    dialogue_history = "\n".join(dialogue_history)
-    
+    # Format text to translate
+    to_translate = problems[-1]["source"]
     if "reference" in problems[-1].keys():
-        to_translate = problems[-1]["reference"]
+        target_translation = problems[-1]["reference"]
     else:
-        to_translate = ""
+        target_translation = ""
 
+    # create the prompt input
     if exclude_context:
-        text_example = f"Source segment:\n{to_translate}\n\n" \
+        prompt_input = f"Source segment:\n{to_translate}\n\n" \
                        f"Translation:\n"
     else:
-        text_example = f"Source segment:\n{to_translate}\n\n" \
-                       f"Dialogue History:\n{dialogue_history}\n\n" \
+        # Build dialogue history
+        dialogue_history = []
+        for utt in problems[:-1]:
+            if utt["source_language"] == "en":
+                dialogue_history.append(f'{utt["sender"]}: {utt["source"]}')
+            else:
+                if "reference" in utt.keys():
+                    dialogue_history.append(f'{utt["sender"]}: {utt["reference"]}')
+
+        dialogue_history = "\n".join(dialogue_history)
+
+        prompt_input = f"Dialogue History:\n{dialogue_history}\n\n" \
+                       f"Source segment:\n{to_translate}\n\n" \
                        f"Translation:\n"
 
-    target = to_translate
 
-    examples.append(text_example)
-    prompt_input = '\n\n'.join(examples)
-
-    return prompt_input, target
+    return prompt_input, target_translation
 
 
 def postprocess_text(preds, labels):

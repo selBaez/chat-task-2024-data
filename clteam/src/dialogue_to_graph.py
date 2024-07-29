@@ -190,7 +190,11 @@ def parse_args():
     parser.add_argument('--data_root', type=str, default='./../graphs')
     parser.add_argument('--splits', nargs="+", default=["train", "valid", "test"])  # "mini-valid"])
     parser.add_argument('--languages', nargs="+", default=["en-de", "en-fr", "en-nl", "en-pt"])
-    parser.add_argument('--output_dir', type=str, default='./../preprocessed/with_dialogue_history/')
+
+    # parser.add_argument('--splits', nargs="+", default=["mini-valid"])
+    # parser.add_argument('--languages', nargs="+", default=["en-de_short"])
+
+    parser.add_argument('--output_dir', type=str, default='./../preprocessed/with_dialogue_history_exploded/')
     parser.add_argument('--input_text_file', type=str, default='mc_input_text.pkl')
     parser.add_argument('--adj_matrix_file', type=str, default='mc_adj_matrix.pkl')
     parser.add_argument('--coref_clusters_file', type=str, default='mc_coref_clusters.json')
@@ -213,20 +217,27 @@ def main(args):
             # Analyze
             mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list = [], [], []
             print(f"Processing split: {split}, language: {language}")
-            for dialogue in tqdm(dialogues):
-                dialogue_history = "\n".join([f'{utt["sender"]}: {utt["text"]}' for utt in dialogue["dialogue"][:-1]])
-                to_translate = dialogue["dialogue"][-1]["text"]
+            for dialogue in tqdm(dialogues, desc="dialogues"):
+                print(f"\tProcessing dialogue: {dialogue['Conversation ID']}")
 
-                if args.exclude_context:
-                    mc_context_text = f"{to_translate}"
-                    dialogue["dialogue"] = [dialogue["dialogue"][-1]]
-                else:
-                    mc_context_text = f"{dialogue_history}\n{to_translate}"
+                # Loop through utterances to make the last turn the target
+                for i in tqdm(range(len(dialogue["dialogue"])), desc="utterances"):
+                    current_dialogue = dialogue["dialogue"][:i + 1]
+                    dialogue_history = "\n".join([f'{utt["sender"]}: {utt["text"]}' for utt in current_dialogue[:-1]])
+                    to_translate = current_dialogue[-1]["text"]
 
-                mc_input_text, mc_adj_matrix, mc_coref_clusters = get_mind_chart(mc_context_text, dialogue, max_nodes)
-                mc_input_text_list.append(mc_input_text)
-                mc_adj_matrix_list.append(mc_adj_matrix)
-                mc_coref_clusters_list.append(mc_coref_clusters)
+                    if args.exclude_context:
+                        mc_context_text = f"{to_translate}"
+                        current_dialogue = {"dialogue": [current_dialogue[-1]]}
+                    else:
+                        mc_context_text = f"{dialogue_history}\n{to_translate}"
+                        current_dialogue = {"dialogue": [current_dialogue[-1]]}
+
+                    mc_input_text, mc_adj_matrix, mc_coref_clusters = get_mind_chart(mc_context_text, current_dialogue,
+                                                                                     max_nodes)
+                    mc_input_text_list.append(mc_input_text)
+                    mc_adj_matrix_list.append(mc_adj_matrix)
+                    mc_coref_clusters_list.append(mc_coref_clusters)
 
             # Save data
             save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, outpath, args)

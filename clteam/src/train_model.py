@@ -35,15 +35,15 @@ def T5Trainer(args):
     # Load data as dataset
     print('====Load dataset====')
     if args.eval_dir == "":
-        train_set = ChatDatasetWithGraph("train", tokenizer, args.input_len, args.output_len, args)
-        eval_set = ChatDatasetWithGraph("valid", tokenizer, args.input_len, args.output_len, args)
+        train_set = ChatDatasetWithGraph("train", tokenizer, args)
+        eval_set = ChatDatasetWithGraph("valid", tokenizer, args)
 
         # TODO uncomment for testing script
-        # train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
-        # eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args.input_len, args.output_len, args)
+        # train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args, dry_run=True)
+        # eval_set = ChatDatasetWithGraph("mini-valid", tokenizer, args, dry_run=True)
     else:
         train_set = None
-        eval_set = ChatDatasetWithGraph("test", tokenizer, args.input_len, args.output_len, args)
+        eval_set = ChatDatasetWithGraph("test", tokenizer, args)
         args.model = args.eval_dir
 
     # Load model
@@ -157,7 +157,8 @@ def set_random_seeds(args):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--raw_root', type=str, default='./../..')
+    parser.add_argument('--raw_data_root', type=str, default='./../..')
+    parser.add_argument('--triple_data_root', type=str, default='./../graphs')
     parser.add_argument('--data_root', type=str, default='./../preprocessed/with_dialogue_history')
     parser.add_argument('--output_dir', type=str, default='./../experiments/with_dialogue_history/test')
     parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
