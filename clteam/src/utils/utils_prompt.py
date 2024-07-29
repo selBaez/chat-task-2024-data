@@ -11,10 +11,22 @@ import nltk
 def build_train_pair(problems, exclude_context=False):
     examples = []
     # create the prompt input
-    dialogue_history = "\n".join(
-        [f'{utt["sender"]}: {utt["reference"] if utt["target_language"] == "en" else utt["source"]}'
-         for utt in problems[:-1]])
-    to_translate = problems[-1]["reference"]
+
+    dialogue_history = []
+    for utt in problems[:-1]:
+        if utt["source_language"] == "en":
+            dialogue_history.append(f'{utt["sender"]}: {utt["source"]}')
+        else:
+            if "reference" in utt.keys():
+                dialogue_history.append(f'{utt["sender"]}: {utt["reference"]}')
+
+    dialogue_history = "\n".join(dialogue_history)
+    
+    if "reference" in problems[-1].keys():
+        to_translate = problems[-1]["reference"]
+    else:
+        to_translate = ""
+
     if exclude_context:
         text_example = f"Source segment:\n{to_translate}\n\n" \
                        f"Translation:\n"
@@ -23,7 +35,7 @@ def build_train_pair(problems, exclude_context=False):
                        f"Dialogue History:\n{dialogue_history}\n\n" \
                        f"Translation:\n"
 
-    target = problems[-1]['reference']
+    target = to_translate
 
     examples.append(text_example)
     prompt_input = '\n\n'.join(examples)

@@ -44,7 +44,7 @@ def T5Trainer(args):
     else:
         train_set = None
         eval_set = ChatDatasetWithGraph("test", tokenizer, args.input_len, args.output_len, args)
-        args.model = args.evaluate_dir
+        args.model = args.eval_dir
 
     # Load model
     print(f'====Load model: {args.model} ====')
@@ -159,7 +159,7 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--raw_root', type=str, default='./../..')
     parser.add_argument('--data_root', type=str, default='./../preprocessed/with_dialogue_history')
-    parser.add_argument('--output_dir', type=str, default='./../experiments')
+    parser.add_argument('--output_dir', type=str, default='./../experiments/with_dialogue_history/test')
     parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
     parser.add_argument('--lr', type=float, default=5e-5)
     parser.add_argument('--eval_acc', type=int, default=None, help='evaluate accumulation step')
