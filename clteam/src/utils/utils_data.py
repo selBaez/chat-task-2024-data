@@ -37,26 +37,33 @@ def load_language_data(args, split):
     dialogues = pd.read_csv(datapath).to_dict('records')
     dialogues = [list(v) for k, v in groupby(dialogues, key=lambda x: x['doc_id'])]
 
-    # if split == "test":
-    #     # append triple translations
-    #     dialogues = get_triple_translations(args, dialogues)
-
     return dialogues
 
 
 def load_raw_data(args, split, dry_run=False):
-    print(f"[Data]: Reading data...\n")
+    print(f"[Data]: Reading raw data...")
 
     if dry_run:
         problems = load_language_data(args, 'mini-valid')
     else:
         problems = load_language_data(args, split)
 
-    print(f"number of {split} problems: {len(problems)}\n")
+    print(f"number of {split} problems in raw files: {len(problems)}\n")
 
     return problems
 
-def get_triple_translations(args):
-    datapath = Path(args.triple_data_root) / "test" / f"{args.language}.json"
+def load_triple_data(args, split, dry_run=False):
+    print(f"[Data]: Reading data after prompting...")
+
+    if dry_run:
+        datapath = Path(args.triple_data_root) / "mini-valid" / f"{args.language}.json"
+    else:
+        datapath = Path(args.triple_data_root) / f"{split}" / f"{args.language}.json"
+
     with open(datapath, 'r', encoding='utf-8') as file:
-        dialogues = json.load(file)
+        problems = json.load(file)
+
+    print(f"number of {split} problems after prompting: {len(problems)}\n")
+
+    return problems
+
