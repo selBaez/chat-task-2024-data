@@ -24,6 +24,8 @@ class ChatDatasetWithGraph(Dataset):
         self.summ_len = args.output_len
         self.target_text = []
         self.source_text = []
+        self.input_sep = []
+        self.input_mat = []
 
         with open(os.path.join(args.data_root, split, args.language, 'mc_input_text.pkl'), 'rb') as f:
             self.got_input_text_list = pickle.load(f)
@@ -37,12 +39,17 @@ class ChatDatasetWithGraph(Dataset):
             self.raw_data = get_en_history(self.raw_data, self.triple_data)
 
         for og, post_prompt in zip(self.data, self.triple_data):
-            prompt, target = build_train_pair(og, post_prompt, args.exclude_context)
+            prompt, target, separator, matrix = build_train_pair(og, post_prompt, args.exclude_context)
             self.target_text.extend(target)
             self.source_text.extend(prompt)
+            self.input_sep.extend(separator)
+            self.input_mat.extend(matrix)
 
         print(f"Dataset ({split}) loaded")
-        print(len(self.got_input_text_list), len(self.raw_data), len(self.target_text), len(self.data))
+        print(f"\tDialogues in raw data: {len(self.raw_data)}, and validation data:{len(self.data)}")
+        print(f"\tUtterances in original graphs: {len(self.got_input_text_list)}, "
+              f"matched text: {len(self.target_text)}, and matched graphs: {len(self.input_sep)}")
+        print("\n")
 
     def __len__(self):
         return len(self.target_text)
@@ -55,8 +62,8 @@ class ChatDatasetWithGraph(Dataset):
         source_text = " ".join(source_text.split())
         target_text = " ".join(target_text.split())
 
-        got_input_text = self.got_input_text_list[index]
-        got_adj_matrix = self.got_adj_matrix_list[index]
+        got_input_text = self.input_sep[index]
+        got_adj_matrix = self.input_mat[index]
         got_adj_matrix = torch.tensor(got_adj_matrix)
 
         source = self.tokenizer.batch_encode_plus([source_text],

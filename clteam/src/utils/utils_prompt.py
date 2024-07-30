@@ -10,7 +10,7 @@ import pandas as pd
 from fuzzywuzzy import fuzz
 
 
-def texts_approximately_equal(text1: str, text2: str, threshold: int = 90, look_ahead: str = "") -> Tuple[bool, bool]:
+def texts_approximately_equal(text1: str, text2: str, threshold: int = 95, look_ahead: str = "") -> Tuple[bool, bool]:
     # Single utterance, fuzzy matching
     if fuzz.ratio(text1, text2) >= threshold:
         return True, False
@@ -33,23 +33,6 @@ def clean_text_for_comparison(og_utt):
 
     return text_to_compare
 
-def match_utterances_2(raw_dialogues, tripled_dialogues, input_txt, input_matrix):
-    flat_triple_dialogues = []
-    for td in tripled_dialogues:
-        flat_triple_dialogues.extend(td["dialogue"])
-
-    fixed_og = []
-    rolling_tripled_idx = 0
-    for dialogue in raw_dialogues:
-        for utt in dialogue:
-            text_to_compare = clean_text_for_comparison(utt)
-
-            if texts_approximately_equal(text_to_compare, flat_triple_dialogues[rolling_tripled_idx]):
-                pass
-
-
-
-
 
 def match_utterances(raw_dialogues, tripled_dialogues, input_txt, input_matrix):
     super_idx = 0
@@ -57,46 +40,55 @@ def match_utterances(raw_dialogues, tripled_dialogues, input_txt, input_matrix):
     for og, post_prompt in zip(raw_dialogues, tripled_dialogues):
         # This dialogue is the right length, leave it alone
         if len(og) == len(post_prompt["dialogue"]):
-            for og_utt in og:
+            for i, og_utt in enumerate(og):
                 og_utt["matched"] = True
                 og_utt["input_txt"] = input_txt[super_idx]
                 og_utt["input_matrix"] = input_matrix[super_idx]
+                og_utt["post_prompt"] = post_prompt["dialogue"][i]["text"]
                 super_idx += 1
 
         # These lengths do not match, try to match
         else:
-            skipped = 0
+            skipped, count_doubles = 0, 0
             double_match = False
             for i, og_utt in enumerate(og):
                 if double_match:
-                    this_match = True
+                    # This was already a match
+                    count_doubles += 1
+                    og_utt["matched"] = True
+                    og_utt["input_txt"] = input_txt[super_idx - 1]
+                    og_utt["input_matrix"] = input_matrix[super_idx - 1]
+                    og_utt["post_prompt"] = post_prompt["dialogue"][i - count_doubles - skipped]["text"]
+                    double_match = False
                 else:
                     # Prepare texts to compare
-                    current_prompted_utt = post_prompt["dialogue"][i - skipped]
+                    current_prompted_utt = post_prompt["dialogue"][i - count_doubles - skipped]
                     text_to_compare = clean_text_for_comparison(og_utt)
                     next_text = clean_text_for_comparison(og[i + 1]) if ((i + 1) < len(og)) else ""
                     # Compare
                     this_match, double_match = texts_approximately_equal(text_to_compare, current_prompted_utt["text"],
                                                                          look_ahead=next_text)
 
-                # Assign accordingly
-                if this_match:
-                    # This is a match
-                    og_utt["matched"] = True
-                    og_utt["input_txt"] = input_txt[super_idx]
-                    og_utt["input_matrix"] = input_matrix[super_idx]
-                    super_idx += 1
-                else:
-                    # Move index by 1
-                    skipped += 1
-                    og_utt["matched"] = False
-                    # if len(text_to_compare) > 5:
-                    #     print(f"Utterances not matched: \n\t{text_to_compare}\n\t{current_prompted_utt['text']}")
+                    # Assign accordingly
+                    if this_match:
+                        # This is a match
+                        og_utt["matched"] = True
+                        og_utt["input_txt"] = input_txt[super_idx]
+                        og_utt["input_matrix"] = input_matrix[super_idx]
+                        og_utt["post_prompt"] = post_prompt["dialogue"][i - count_doubles - skipped]["text"]
+                        super_idx += 1
+                    else:
+                        # Move index by 1
+                        og_utt["matched"] = False
+                        og_utt["post_prompt"] = post_prompt["dialogue"][i - count_doubles - skipped]["text"]
+                        skipped += 1
+                        # if len(text_to_compare) > 5:
+                        #     print(f"Utterances not matched: \n\t{text_to_compare}\n\t{current_prompted_utt['text']}")
 
-                og_utt["post_prompt"] = current_prompted_utt["text"]
+                    # og_utt["post_prompt"] = post_prompt["dialogue"][i - count_doubles - skipped]["text"]
 
-            if skipped >= 2:
-                print(f"Big oopsie: skipped {skipped}")
+            # if skipped >= 10:
+            #     print(f"Big oopsie: skipped {skipped}")
 
         temp = pd.DataFrame.from_dict(og)
         fixed_og.append(og)
@@ -131,7 +123,7 @@ def get_en_history(raw_dialogues, tripled_dialogues):
 
 
 def build_train_pair(og, post_prompt, exclude_context=False):
-    all_inputs, all_targets = [], []
+    all_inputs, all_targets, all_separator, all_matrix = [], [], [], []
     for i in range(len(og)):
         current_dialogue = og[:i + 1]
         if current_dialogue[-1]["matched"]:
@@ -164,8 +156,10 @@ def build_train_pair(og, post_prompt, exclude_context=False):
 
             all_inputs.append(prompt_input)
             all_targets.append(target_translation)
+            all_separator.append(current_dialogue[-1]["input_txt"])
+            all_matrix.append(current_dialogue[-1]["input_matrix"])
 
-    return all_inputs, all_targets
+    return all_inputs, all_targets, all_separator, all_matrix
 
 
 def postprocess_text(preds, labels):

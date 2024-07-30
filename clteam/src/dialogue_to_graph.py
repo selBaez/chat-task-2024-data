@@ -188,8 +188,8 @@ def save_data(mc_input_text_list, mc_adj_matrix_list, mc_coref_clusters_list, ou
 def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('--data_root', type=str, default='./../graphs')
-    parser.add_argument('--splits', nargs="+", default=["train", "valid", "test"])  # "mini-valid"])
-    parser.add_argument('--languages', nargs="+", default=["en-de", "en-fr", "en-nl", "en-pt"])
+    parser.add_argument('--splits', nargs="+", default=["train"])  # "mini-valid"])
+    parser.add_argument('--languages', nargs="+", default=["en-fr", "en-nl", "en-pt"])
 
     # parser.add_argument('--splits', nargs="+", default=["mini-valid"])
     # parser.add_argument('--languages', nargs="+", default=["en-de_short"])
