@@ -35,7 +35,7 @@ def save_json(data: List[Dict], file_path: str):
         json.dump(data, f, indent=2)
 
 # Function to check if two texts are approximately equal
-def texts_approximately_equal(text1: str, text2: str, threshold: int = 80) -> bool:
+def texts_approximately_equal(text1: str, text2: str, threshold: int = 5) -> bool:
     # Ensure both texts are strings
     if not isinstance(text1, str) or not isinstance(text2, str):
         return False
@@ -43,9 +43,16 @@ def texts_approximately_equal(text1: str, text2: str, threshold: int = 80) -> bo
 
 # Function to add empty JSONs for missing messages in correct positions
 def add_empty_jsons(processed_data: Dict[str, Dict], order_and_messages: List[Tuple[str, List[str]]]) -> List[Dict]:
+    total_csv_messages = 0
+    total_json_messages_before = 0
+    total_json_messages_after = 0
+
     for doc_id, messages in order_and_messages:
+        total_csv_messages += len(messages)
         if doc_id in processed_data:
             dialogue = processed_data[doc_id]["dialogue"]
+            total_json_messages_before += len(dialogue)
+
             new_dialogue = []
             csv_idx = 0
             json_idx = 0
@@ -53,10 +60,6 @@ def add_empty_jsons(processed_data: Dict[str, Dict], order_and_messages: List[Tu
             while csv_idx < len(messages) and json_idx < len(dialogue):
                 csv_msg = messages[csv_idx]
                 json_msg = dialogue[json_idx]["text"]
-
-                # Debug statements
-                # print(f"Processing CSV message: {csv_msg} (type: {type(csv_msg)})")
-                # print(f"Comparing with JSON message: {json_msg} (type: {type(json_msg)})")
 
                 if texts_approximately_equal(csv_msg, json_msg):
                     new_dialogue.append(dialogue[json_idx])
@@ -84,6 +87,7 @@ def add_empty_jsons(processed_data: Dict[str, Dict], order_and_messages: List[Tu
                 json_idx += 1
 
             processed_data[doc_id]["dialogue"] = new_dialogue
+            total_json_messages_after += len(new_dialogue)
         else:
             # Add an entry with all messages as empty JSON structures
             empty_dialogue = [{
@@ -95,6 +99,12 @@ def add_empty_jsons(processed_data: Dict[str, Dict], order_and_messages: List[Tu
                 "Conversation ID": doc_id,
                 "dialogue": empty_dialogue
             }
+            total_json_messages_after += len(empty_dialogue)
+
+    # Print lengths for verification
+    print(f"Total messages in CSV: {total_csv_messages}")
+    print(f"Total messages in JSON before processing: {total_json_messages_before}")
+    print(f"Total messages in JSON after processing: {total_json_messages_after}")
 
     return list(processed_data.values())
 
@@ -125,8 +135,6 @@ def add_empty_and_reorder_json(languages: List[str], datasets: List[str], base_p
                 print(f"Updated {json_file_path} with empty JSONs for missing messages and saved to {updated_json_file_path}")
             else:
                 print(f"Skipping {lang} - {dataset} as either CSV or JSON file does not exist.")
-
-
 
 if __name__ == "__main__":
     languages = ['en-de', 'en-fr', 'en-nl', 'en-pt'] 
