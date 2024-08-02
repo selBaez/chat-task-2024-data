@@ -1,89 +1,134 @@
 import csv
 import json
+import concurrent.futures
 from transformers import pipeline
 import torch
+import time
+import argparse
+from format_triples import load_json_data, process_conversations, save_processed_data
 
-# Define languages and datasets
-languages = ['en-de', 'en-fr', 'en-nl', 'en-pt']
-datasets = ['test']
+def create_argument_parser():
+    """Create argument parser for command-line options."""
+    parser = argparse.ArgumentParser(description="Translation with dialogue history options.")
+    parser.add_argument("--use_dialogue_history", type=bool, default=True, help="Use dialogue history in translation.")
+    parser.add_argument("--dialogue_history_source", type=str, choices=['json', 'csv'], default='json',
+                        help="Source of dialogue history: 'json' or 'csv'.")
+    return parser
 
-# Option to use dialogue history
-use_dialogue_history = True
-
-# Initialize the pipeline
-pipe = pipeline("text-generation", model="Unbabel/TowerInstruct-7B-v0.2", torch_dtype=torch.bfloat16, device_map="auto")
-
-# Function to create dialogue overview from the translated_triple in the JSON data
-def create_dialogue_overview(dialogue):
+def create_dialogue_overview(dialogue, up_to_text=None, from_json=True):
+    """Create dialogue overview from JSON or CSV data."""
     overview = []
     for entry in dialogue:
-        triples = entry["triples"]
-        for triple in triples:
-            translated_triple = triple.get("translated_triple", "")
-            if translated_triple:
-                overview.append(translated_triple)
+        if from_json:
+            triples = entry.get("triples", [])
+            for triple in triples:
+                translated_triple = triple.get("translated_triple", "")
+                if translated_triple:
+                    overview.append(translated_triple)
+            if entry.get("text") == up_to_text:
+                break
+        else:
+            overview.append(entry['source'])
     return ", ".join(overview)
 
-# Process each language and dataset
-for lang in languages:
-    print(f"Translating language pair: {lang}")
-    for dataset in datasets:
-        # Construct file paths
-        csv_file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/{dataset}/{lang}.csv'
-        json_file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/towerblocks/test/{lang}.json'
-        output_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/towerblocks/predictions/{lang}.txt'
+def process_translation(index, row, dialogue_data, rows, use_history, history_source):
+    """Process a single row for translation."""
+    print(f"Translating instance {index + 1}")
+    source_lang = row['source_language']
+    target_lang = row['target_language']
+    source_text = row['source']
 
-        # Load the dialogue history JSON file
-        with open(json_file_path, 'r') as f:
-            dialogue_data = json.load(f)
+    # Prepare dialogue content if history is used
+    if use_history:
+        dialogue_content = ""
+        if history_source == 'json':
+            dialogue = next((d['dialogue'] for d in dialogue_data if d['Conversation ID'] == row['doc_id']), None)
+            if dialogue:
+                dialogue_content = f"Dialogue Overview: {create_dialogue_overview(dialogue, up_to_text=source_text)}"
+        elif history_source == 'csv':
+            dialogue_content = f"Dialogue Overview: {create_dialogue_overview(rows[:index+1], from_json=False)}"
+    else:
+        dialogue_content = ""
 
-        translations = []
+    # Create the prompt
+    messages = [{"role": "user", "content": dialogue_content}] if dialogue_content else []
+    messages.append({"role": "user", "content": f"Translate the following text from {source_lang} into {target_lang}.\n{source_lang.capitalize()}: {source_text}\n{target_lang.capitalize()}:"})
 
-        # Load the CSV file
-        with open(csv_file_path, 'r') as f:
-            reader = csv.DictReader(f)
-            for row in reader:
-                source_language = row['source_language']
-                target_language = row['target_language']
-                source_text = row['source']
-                doc_id = row['doc_id']
-                client_id = row['client_id']
-                sender = row['sender']
+    # Format the messages using the tokenizer's chat template
+    prompt = pipe.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
 
-                # Find the corresponding dialogue in the JSON data
-                if use_dialogue_history:
-                    dialogue = next((d['dialogue'] for d in dialogue_data if d['Conversation ID'] == doc_id), None)
-                    if dialogue:
-                        dialogue_overview = create_dialogue_overview(dialogue)
-                    else:
-                        dialogue_overview = ""
-                    dialogue_content = f"Dialogue Overview: {dialogue_overview}"
-                else:
-                    dialogue_content = ""
+    # Generate the output
+    outputs = pipe(prompt, max_new_tokens=256, do_sample=False)
 
-                # Create the messages list
-                messages = []
-                if use_dialogue_history and dialogue_content:
-                    messages.append({"role": "user", "content": dialogue_content})
-                messages.append({"role": "user", "content": f"Translate the following text from {source_language} into {target_language}.\n{source_language.capitalize()}: {source_text}\n{target_language.capitalize()}:"})
+    # Extract the generated translation
+    translated_text = outputs[0]["generated_text"].split(f"{target_lang.capitalize()}:")[-1].strip()
 
-                # Format the messages using the tokenizer's chat template
-                prompt = pipe.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+    return index, translated_text
 
-                print(prompt)
+def process_language_dataset(lang, dataset, use_history, history_source):
+    """Process all translations for a given language and dataset."""
+    csv_file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/{dataset}/{lang}.csv'
+    json_file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/towerblocks/test/{lang}.json'
+    output_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/towerblocks/predictions/{lang}_csv.txt'
 
-                # Generate the output
-                outputs = pipe(prompt, max_new_tokens=256, do_sample=False)
+    # Load and process the dialogue history JSON file if using JSON
+    dialogue_data = None
+    if use_history and history_source == 'json':
+        dialogue_data = load_json_data(json_file_path)
+        dialogue_data = process_conversations(dialogue_data)
+        save_processed_data(dialogue_data, json_file_path)
 
-                # Extract the generated translation
-                translated_text = outputs[0]["generated_text"].split(f"{target_language.capitalize()}:")[-1].strip()
+    # Load the CSV file
+    with open(csv_file_path, 'r') as f:
+        reader = list(csv.DictReader(f))
 
-                # Save the translation in the order of the original CSV
-                translations.append(translated_text)
+    translations = [None] * len(reader)
 
-        # Save translations to a plaintext output file
-        with open(output_path, 'w') as f:
-            for translation in translations:
-                f.write(translation + '\n')
+    # Use ThreadPoolExecutor to process translations concurrently
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        future_to_index = {
+            executor.submit(process_translation, idx, row, dialogue_data, reader, use_history, history_source): idx
+            for idx, row in enumerate(reader)
+        }
+        for future in concurrent.futures.as_completed(future_to_index):
+            idx = future_to_index[future]
+            try:
+                _, translated_text = future.result()
+                translations[idx] = translated_text
+            except Exception as e:
+                print(f"Error processing row {idx}: {e}")
 
-        print(f"Translations for {lang} saved to {output_path}")
+    # Save translations to a plaintext output file
+    with open(output_path, 'w') as f:
+        for translation in translations:
+            f.write(translation + '\n')
+
+    print(f"Translations for {lang} saved to {output_path}")
+
+def main():
+    parser = create_argument_parser()
+    args = parser.parse_args()
+
+    # Initialize the pipeline
+    global pipe
+    pipe = pipeline("text-generation", model="Unbabel/TowerInstruct-7B-v0.2", torch_dtype=torch.bfloat16, device_map="auto")
+
+    # Measure the execution time
+    start_time = time.time()
+
+    # Define languages and datasets
+    languages = ['en-de', 'en-fr', 'en-nl', 'en-pt']
+    datasets = ['test']
+
+    # Process each language and dataset
+    for lang in languages:
+        print(f"Translating language pair: {lang}")
+        for dataset in datasets:
+            process_language_dataset(lang, dataset, args.use_dialogue_history, args.dialogue_history_source)
+
+    # Measure and print the execution time
+    end_time = time.time()
+    print(f"Total execution time: {end_time - start_time} seconds")
+
+if __name__ == "__main__":
+    main()
