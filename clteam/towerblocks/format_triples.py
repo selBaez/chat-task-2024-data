@@ -35,8 +35,8 @@ def process_conversations(data):
 def process_dialogue_files(languages: List[str], datasets: List[str]):
     for lang in languages:
         for dataset in datasets:
-            file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/towerblocks/{dataset}/{lang}.json'
-            output_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/towerblocks/{dataset}/{lang}.json'
+            file_path = f'./{dataset}/{lang}.json'
+            output_path = f'./{dataset}/{lang}.json'
             
             # Load, process and save the data
             data = load_json_data(file_path)

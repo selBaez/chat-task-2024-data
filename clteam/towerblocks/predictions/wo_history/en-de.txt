@@ -1,0 +1,6123 @@
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems that an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte Ihre Anfrage detaillierter erläutern, damit ich Sie besser unterstützen kann?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ The Hall
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, we have noticed that our account is still not verified...
+<|im_end|>
+<|im_start|>assistant
+ That should have been done yesterday.
+<|im_end|>
+<|im_start|>assistant
+ We are losing a lot of sales here today if this is not done quickly.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde dir auf jeden Fall dabei helfen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte zwei Minuten Zeit geben, um die Details in unserem System zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe geprüft, und unser engagiertes Team arbeitet an der gleichen Sache.
+<|im_end|>
+<|im_start|>assistant
+ Sobald es erledigt ist, werden sie per E-Mail mit Ihnen Kontakt aufnehmen.
+<|im_end|>
+<|im_start|>assistant
+ But that should have been done long ago
+<|im_end|>
+<|im_start|>assistant
+ We have customers who have left because they couldn’t pay
+<|im_end|>
+<|im_start|>assistant
+ There is also no nearby ATM where we can send customers to get cash.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe Ihre Sorge.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass das für Sie wichtig ist.
+<|im_end|>
+<|im_start|>assistant
+ Ich füge auch einen Hinweis hinzu, dass Sie uns erneut kontaktiert haben, um eine Aktualisierung zu erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Is the department even working today?
+<|im_end|>
+<|im_start|>assistant
+ We have a sample sale once a year.
+<|im_end|>
+<|im_start|>assistant
+ He was yesterday and today he is.
+<|im_end|>
+<|im_start|>assistant
+ Next week, verification will no longer bring us anything...
+<|im_end|>
+<|im_start|>assistant
+ Bitte seien Sie versichert, dass Sie von unserem engagierten Team eine Antwort erhalten, sobald sie ihre Arbeit abgeschlossen haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe meine Dokumentation nicht zu Ihrem Fall hinzugefügt.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I’m not there yet.
+<|im_end|>
+<|im_start|>assistant
+ Who said it would take that long to process?
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie gerne eine konkrete Zeitachse kennen möchten, aber leider habe ich keine solchen Informationen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte seien Sie versichert, dass unser engagiertes Team sich so schnell wie möglich per E-Mail mit Ihnen in Verbindung setzen wird.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen. Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte erneut und besuchen Sie unseren Online-Supportbereich.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hi NAME-M, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M, schön dich kennenzulernen!!
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Bitte sagen Sie mir, was genau das Problem ist, mit dem Sie dort zu kämpfen haben?
+<|im_end|>
+<|im_start|>assistant
+ I am doing well, thanks to the demand.
+<|im_end|>
+<|im_start|>assistant
+ I hope you are doing well too.
+<|im_end|>
+<|im_start|>assistant
+ Also, I have the following problem: My PRS-ORG account that runs under the email EMAIL was hacked and the email there was changed.
+<|im_end|>
+<|im_start|>assistant
+ As a result, I no longer have access to my account.
+<|im_end|>
+<|im_start|>assistant
+ Now it would be great if the problem could be fixed again.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen sicherlich dabei, wieder Zugriff auf Ihr gestohlenes PRS-ORG-Konto zu erhalten und helfe Ihnen dabei, es zu sichern.
+<|im_end|>
+<|im_start|>assistant
+ Machen Sie sich bitte keine Sorgen.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, woher du kommst.
+<|im_end|>
+<|im_start|>assistant
+ Ich wäre auch ein bisschen verärgert, wenn ich nicht in meinem PRS-ORG-Konto einloggen und einige Spiele spielen könnte.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie sicher, dass Sie die richtige E-Mail-Adresse für Ihr PRS-ORG-Konto angegeben haben?
+<|im_end|>
+<|im_start|>assistant
+ Ich konnte keine PRS-ORG-Konten mit derselben E-Mail-Adresse finden.
+<|im_end|>
+<|im_start|>assistant
+ Yes that was the email that the PRS-ORG account was running under.
+<|im_end|>
+<|im_start|>assistant
+ This email was changed by the hacker.
+<|im_end|>
+<|im_start|>assistant
+ There was a picture in the attachment.
+<|im_end|>
+<|im_start|>assistant
+ Auch wenn wir Ihr Konto gefunden hätten.
+<|im_end|>
+<|im_start|>assistant
+ Es sieht so aus, als würden Sie eine falsche E-Mail-Adresse angeben.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir mit Ihrer PRS-ORG-ID helfen?
+<|im_end|>
+<|im_start|>assistant
+ Oder ein Benutzername für eine beliebige Plattform, der mit Ihrem PRS-ORG-Konto verknüpft ist?
+<|im_end|>
+<|im_start|>assistant
+ The username is ALPHANUMERICID.
+<|im_end|>
+<|im_start|>assistant
+ The email from the account has been changed: EMAIL
+<|im_end|>
+<|im_start|>assistant
+ My account was hacked and the email was changed, just to make it clear again.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe eine Bestätigungs-E-Mail gesendet, bitte prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Die E-Mail hat den Betreff "Besitzbestätigung für Ihr PRS-ORG-Konto" und Sie haben sie wahrscheinlich in Ihrem Posteingang oder Spam-Posteingang erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hello, I can’t get into my Sum up pos  what’s wrong with the app
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir bitte sagen, welche Fehlermeldung Sie beim Einloggen in Ihr Kassensystem sehen?
+<|im_end|>
+<|im_start|>assistant
+ When I go to the app, it shows add this device.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie versuchen, die App mit dem Kassensystem zu verbinden?
+<|im_end|>
+<|im_start|>assistant
+ The app is the PRS-ORG pos app
+<|im_end|>
+<|im_start|>assistant
+ I therefore did not understand the question.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie Ihre Anfrage bitte erläutern?
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte Ihre Anfrage erläutern?
+<|im_end|>
+<|im_start|>assistant
+ If I go to the app, it says “this device is not registered” then I can go to connect.
+<|im_end|>
+<|im_start|>assistant
+ Then there is QR code registration or manual input.
+<|im_end|>
+<|im_start|>assistant
+ I have no idea what to put here.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid, dass Sie dieses Problem haben.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte sagen, welches POS-Gerät Sie haben?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ The cash register system App
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir bitte sagen, ob es von unserer Website gekauft wurde?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ I am at the first operation of the PRS-ORG device 3G card terminal.
+<|im_end|>
+<|im_start|>assistant
+ The device is charged, the switch is pressed.
+<|im_end|>
+<|im_start|>assistant
+ The screen remains NAME-M, I am stuck at point 3 for the setup.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir sehr leid, dass das passiert ist, und ich helfe Ihnen gerne, das Problem zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte detaillierter erläutern, damit ich Sie bestmöglich unterstützen kann?
+<|im_end|>
+<|im_start|>assistant
+ I have a new device and I want to set it up.
+<|im_end|>
+<|im_start|>assistant
+ However, the screen remains NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I can’t select a language or select the connection.
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte mich für die Unannehmlichkeiten entschuldigen, lassen Sie mich die Details prüfen, damit ich Ihnen weiterhelfen kann.
+<|im_end|>
+<|im_start|>assistant
+ Bitte starten Sie den Kartenleser zunächst neu.
+<|im_end|>
+<|im_start|>assistant
+ Um den 3G-Kartenleser neu zu starten, führen Sie einfach die folgenden Schritte aus:
+<|im_end|>
+<|im_start|>assistant
+ Halten Sie die Power-Taste gedrückt.
+<|im_end|>
+<|im_start|>assistant
+ Die Meldung "Der Standby-Modus wird eingeschaltet.
+<|im_end|>
+<|im_start|>assistant
+ "Lang drücken, um das Gerät auszuschalten" wird angezeigt.
+<|im_end|>
+<|im_start|>assistant
+ Halten Sie die Power-Taste gedrückt, bis Sie die Meldung "Herunterfahren" sehen.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie die Power-Taste los, wenn der Bildschirm schwarz wird.
+<|im_end|>
+<|im_start|>assistant
+ Starten Sie den Kartenleser nach dem erfolgreichen Abschalten des Geräts neu.
+<|im_end|>
+<|im_start|>assistant
+ Dann schalten Sie es bitte wieder ein und versuchen Sie, es einzurichten.
+<|im_end|>
+<|im_start|>assistant
+ I pressed the power button and the screen went black immediately.
+<|im_end|>
+<|im_start|>assistant
+ I didn’t have to select to turn on or off the standby mode
+<|im_end|>
+<|im_start|>assistant
+ Das ist in Ordnung, bitte schalten Sie das Gerät erneut ein.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ I pressed the switch, the display turned on and stayed on NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ The device is connected to the power.
+<|im_end|>
+<|im_start|>assistant
+ The cable is orange at the bottom.
+<|im_end|>
+<|im_start|>assistant
+ Does this mean that the battery is not fully charged and therefore does not work?
+<|im_end|>
+<|im_start|>assistant
+ Ja, das könnte der Fall sein.
+<|im_end|>
+<|im_start|>assistant
+ Ich bitte Sie, das Gerät aufzuladen und dann erneut zu versuchen.
+<|im_end|>
+<|im_start|>assistant
+ Ich versichere Ihnen, dass es auf jeden Fall funktionieren wird.
+<|im_end|>
+<|im_start|>assistant
+ Okay, then I’ll try that.
+<|im_end|>
+<|im_start|>assistant
+ Otherwise, I will contact you again.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M, schön dich kennenzulernen!!
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Bitte sagen Sie mir, was genau das Problem ist, mit dem Sie dort zu kämpfen haben?
+<|im_end|>
+<|im_start|>assistant
+ I accidentally interrupted the download of the mentioned game, now I can’t download the game again.
+<|im_end|>
+<|im_start|>assistant
+ Please offer the download again
+<|im_end|>
+<|im_start|>assistant
+ I just bought the game via Paypal.
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie Probleme mit Spiel-Downloads?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I just bought the game Freeding Francy 2.
+<|im_end|>
+<|im_start|>assistant
+ I could not start the download.
+<|im_end|>
+<|im_start|>assistant
+ Who can I ask to start the game download again?
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne dabei, das Downloadproblem zu beheben, das Sie dort mit Freeding Francy 2 haben.
+<|im_end|>
+<|im_start|>assistant
+ Verwenden Sie die PRS-ORG-App zum Herunterladen?
+<|im_end|>
+<|im_start|>assistant
+ I can’t see a download button on the PRS-ORG-App page.
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ Just buy it again
+<|im_end|>
+<|im_start|>assistant
+ Ich empfehle Ihnen, den Cache der PRS-ORG-App zu leeren und dann erneut zu versuchen, den Download zu starten: URL
+<|im_end|>
+<|im_start|>assistant
+ Brauchen Sie Hilfe bei stép?
+<|im_end|>
+<|im_start|>assistant
+ Stellen Sie sicher, dass Sie Ihr Gerät nach dem Löschen der Caches neu starten.
+<|im_end|>
+<|im_start|>assistant
+ Es hilft, Änderungen durchzuführen.
+<|im_end|>
+<|im_start|>assistant
+ Es scheint, dass Sie von Ihrem Keyboard entfernt sind. Das ist für uns nicht gut. Ich bitte Sie, sich bitte an dieses Chatfenster zu wenden, da es wegen dessen bald getrennt werden könnte.
+<|im_end|>
+<|im_start|>assistant
+ So sieht das Chatfenster aus.
+<|im_end|>
+<|im_start|>assistant
+ I’ll try it with UP and Down the PC.
+<|im_end|>
+<|im_start|>assistant
+ Was meinst du mit "oben und unten am PC"?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ Who can change the VAT?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hi NAME-F, I’m NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems that an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Who can change the VAT?
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie sich darüber Sorgen machen.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich Ihnen gleich helfen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, wo Sie die Mehrwertsteuer hinzufügen möchten?
+<|im_end|>
+<|im_start|>assistant
+ I need 19% VAT on the invoices
+<|im_end|>
+<|im_start|>assistant
+ Bitte führen Sie die folgenden Schritte aus, um eigene Steuersätze hinzuzufügen:
+<|im_end|>
+<|im_start|>assistant
+ Tippen Sie in der PRS-ORG-App auf das Profilsymbol in der rechten oberen Ecke des Startbildschirms.
+<|im_end|>
+<|im_start|>assistant
+ Wählen Sie "Steuern" und tippen Sie bei iOS nur auf "Bearbeiten".
+<|im_end|>
+<|im_start|>assistant
+ Tippen Sie auf „Neues Steuerlabel eingeben“, um einen Namen für die Steuerklasse zu erstellen.
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie die Steuerrate ein.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie PRS-ORG verwenden, tippen Sie auf "Fertig," um Ihre Änderungen zu speichern.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG-Geräte speichern Änderungen automatisch.
+<|im_end|>
+<|im_start|>assistant
+ I don’t see the “Control” button in the list...
+<|im_end|>
+<|im_start|>assistant
+ Bitte korrigieren Sie die obigen Details in der PRS-ORG-App.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, that doesn’t help me.
+<|im_end|>
+<|im_start|>assistant
+ Can I talk to someone?
+<|im_end|>
+<|im_start|>assistant
+ Es tut uns leid, dass wir Ihnen keinen Rückruf anbieten können.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen aber gerne bei diesem Chat.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie noch mit einem Berater sprechen möchten, können Sie uns unter der Telefonnummer anrufen.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ We urgently need a recall on the payment links, they have not been working for almost a week!!!
+<|im_end|>
+<|im_start|>assistant
+ Please give me a phone number so I can reach someone.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir Leid, dass es so gekommen ist. Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Who is the limit of payment links?
+<|im_end|>
+<|im_start|>assistant
+ Sie können uns unter TELEFONNUMMER kontaktieren
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bitte bestätigen, ob Sie nicht in der Lage sind, den Zahlungslink zu generieren?
+<|im_end|>
+<|im_start|>assistant
+ But they are already generating, but not in the sum
+<|im_end|>
+<|im_start|>assistant
+ Sie können mit der Zahlungsabwicklung beginnen.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde Ihre Anfrage jedoch an das dafür zuständige Team weiterleiten und unser Team wird Sie weiter unterstützen.
+<|im_end|>
+<|im_start|>assistant
+ There are no details, so you can’t pay for it.
+<|im_end|>
+<|im_start|>assistant
+ Our customer has nearly 50,000 EUR with us.
+<|im_end|>
+<|im_start|>assistant
+ It has already been forwarded but we are not getting a proper answer
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte zwei Minuten Zeit geben, um die Details in unserem System zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie so geduldig waren.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid, dass ich so spät antworte.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie uns aus dem Mitarbeiterprofil kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Bitte kontaktieren Sie uns von Ihrem Hauptprofil aus, damit wir die Details für Sie überprüfen können.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hi NAME-M, I don’t understand exactly what an online shop means.
+<|im_end|>
+<|im_start|>assistant
+ I have an online shop but that is not what I meant, is it?
+<|im_end|>
+<|im_start|>assistant
+ Is there an online PRS-ORG shop?
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne heute, lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG ist darauf ausgerichtet, es Ihnen leichter zu machen, Ihre Artikel online zu verkaufen.
+<|im_end|>
+<|im_start|>assistant
+ Hier haben wir Antworten auf wichtige Fragen zur Verwendung Ihres PRS-ORG zusammengestellt.
+<|im_end|>
+<|im_start|>assistant
+ Für jede Transaktion in einem Online-Shop wird eine Transaktionsgebühr von 2,5 % erhoben.
+<|im_end|>
+<|im_start|>assistant
+ Es fallen keine zusätzlichen Abonnementgebühren oder Einrichtungsgebühren an.
+<|im_end|>
+<|im_start|>assistant
+ My question is, do I have to choose the online shop for the item when entering the item?
+<|im_end|>
+<|im_start|>assistant
+ De: where were the items displayed?
+<|im_end|>
+<|im_start|>assistant
+ Die Artikel werden in Ihrem Online-Shop angezeigt.
+<|im_end|>
+<|im_start|>assistant
+ But only I can see it, right?
+<|im_end|>
+<|im_start|>assistant
+ Nein, Ihre Kunden können das sehen
+<|im_end|>
+<|im_start|>assistant
+ I want to use the PRS-ORG device for popup stores and festivals, not for online sales
+<|im_end|>
+<|im_start|>assistant
+ But how do which messages come to an online shop?
+<|im_end|>
+<|im_start|>assistant
+ Is there a link or a phone number that I can call?
+<|im_end|>
+<|im_start|>assistant
+ Sie können über die App einen Online-Shop erstellen. Es handelt sich dabei um einen optionalen Service.
+<|im_end|>
+<|im_start|>assistant
+ Sie können diese Verknüpfung besuchen, um mehr über den Online-Shop zu erfahren: URL
+<|im_end|>
+<|im_start|>assistant
+ I was already there, and it didn’t help me.
+<|im_end|>
+<|im_start|>assistant
+ Is there a hotline?
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie möchten, können Sie uns unter TELEFONNUMMER anrufen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, welche weiteren Fragen Sie haben?
+<|im_end|>
+<|im_start|>assistant
+ damit ich mein Bestes geben kann, um sie zu beantworten?
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, welche weiteren Fragen Sie haben, damit ich versuche, Ihnen so gut wie möglich zu antworten?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ OK, thanks.
+<|im_end|>
+<|im_start|>assistant
+ I’ll try later, I have to go now.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind herzlich willkommen, kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, schön, dass du da bist.
+<|im_end|>
+<|im_start|>assistant
+ Wie geht es dir?
+<|im_end|>
+<|im_start|>assistant
+ My problem is that I can no longer log in to the PRS-ORG server.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie Ihr Anliegen bitte genauer erläutern?
+<|im_end|>
+<|im_start|>assistant
+ Then it is already linked to another account.
+<|im_end|>
+<|im_start|>assistant
+ (NAME-F) or
+<|im_end|>
+<|im_start|>assistant
+ There it says I already have a PRS-ORG account...
+<|im_end|>
+<|im_start|>assistant
+ I don’t have access to that or any more data from
+<|im_end|>
+<|im_start|>assistant
+ Wie ich verstanden habe, können Sie unser Spiel auf PRS-ORG nicht spielen, stimme ich richtig?
+<|im_end|>
+<|im_start|>assistant
+ Yes, you can’t play it online.
+<|im_end|>
+<|im_start|>assistant
+ Keine Sorge, ich werde mein Bestes tun, um Ihnen bei Ihrem Spielproblem weiterzuhelfen.
+<|im_end|>
+<|im_start|>assistant
+ Sie wissen, dass ich auch ein Spieler bin, ich habe PRS-ORG sehr viel gespielt, das schätze ich wirklich.
+<|im_end|>
+<|im_start|>assistant
+ Es ist mir eine große Ehre, mit Ihnen zu sprechen.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind eine sehr freundliche Person.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir bitte Ihre registrierte E-Mail-Adresse mit dem PRS-ORG-Konto nennen?
+<|im_end|>
+<|im_start|>assistant
+ Now I have another error message when logging in
+<|im_end|>
+<|im_start|>assistant
+ The login details are incorrect or have expired.
+<|im_end|>
+<|im_start|>assistant
+ Please try again or reset your password.
+<|im_end|>
+<|im_start|>assistant
+ I have already tried that several times...
+<|im_end|>
+<|im_start|>assistant
+ It doesn’t work either
+<|im_end|>
+<|im_start|>assistant
+ Can’t you just delete all my PRS-ORG links.
+<|im_end|>
+<|im_start|>assistant
+ E.g. clubs.
+<|im_end|>
+<|im_start|>assistant
+ Bitte geben Sie die E-Mail-Adresse an.
+<|im_end|>
+<|im_start|>assistant
+ Sind wir noch verbunden?
+<|im_end|>
+<|im_start|>assistant
+ Da ich keine Antwort von Ihnen erhalten habe, wird die Chat-Sitzung hier automatisch beendet.
+<|im_end|>
+<|im_start|>assistant
+ Weitere Informationen oder Hilfeartikel finden Sie immer in unserer Wissensdatenbank-URL.
+<|im_end|>
+<|im_start|>assistant
+ Ihre Sorge ist jetzt nur noch eine Frage der Zeit. Bitte stellen Sie Ihre Anwesenheit sicher, bis dahin lächeln Sie weiter und verbreiten Sie ein Lächeln, viel Erfolg.
+<|im_end|>
+<|im_start|>assistant
+ Ich notiere einfach alles aus diesem Gespräch.
+<|im_end|>
+<|im_start|>assistant
+ Kontaktieren Sie uns jederzeit, und wir werden den Vorgang fortsetzen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello,
+<|im_end|>
+<|im_start|>assistant
+ I have a problem with the Mobile Game PRS-ORG on my PRS-ORG phone.
+<|im_end|>
+<|im_start|>assistant
+ I would like to link this PRS-ORG account with the game.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, I always get the message that the game is already linked to another account.
+<|im_end|>
+<|im_start|>assistant
+ Can you change that and link it to this account?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, schön, dass Sie da sind.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, es geht dir gut, also, du bekommst den Fehler, wo es heißt, dass das Spiel bereits mit einem anderen Konto verknüpft ist, richtig?
+<|im_end|>
+<|im_start|>assistant
+ Yes, it is correct.
+<|im_end|>
+<|im_start|>assistant
+ Can you delete this link so I can link this PRS-ORG account?
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe das.
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich keine Sorgen, ich werde mein Bestes tun, um Ihnen bei dem Spiel zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich wissen, ob Ihr Spiel mit dem PRS-ORG-Konto verknüpft ist?
+<|im_end|>
+<|im_start|>assistant
+ No, it is not.
+<|im_end|>
+<|im_start|>assistant
+ I would like to link it but it doesn’t work.
+<|im_end|>
+<|im_start|>assistant
+ It gives an error message that the game is already linked to another account.
+<|im_end|>
+<|im_start|>assistant
+ En: Ja, ich habe es bekommen, aber das Hauptproblem ist, dass wir mit dem Tool Probleme haben, um die Details von unserer Seite aus zu überprüfen.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie sich nach einigen Stunden mit uns in Verbindung setzen, da wir alle mit dem Problem der Werkzeuge zu kämpfen haben?
+<|im_end|>
+<|im_start|>assistant
+ Okay, I can do that.
+<|im_end|>
+<|im_start|>assistant
+ Then please don’t close the case, then I would continue here later.
+<|im_end|>
+<|im_start|>assistant
+ Also, ich dachte, wenn Sie es zulassen, kann ich diesen Fall für Sie warten lassen, so müssen Sie nicht wieder erklären.
+<|im_end|>
+<|im_start|>assistant
+ Sie müssen nicht von vorne anfangen.
+<|im_end|>
+<|im_start|>assistant
+ Sie können den Berater einfach bitten, den Prozess zu starten.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde hier Notizen hinterlassen, damit mein nächster Berater schon weiß, was zu tun ist.
+<|im_end|>
+<|im_start|>assistant
+ Klingt gut?
+<|im_end|>
+<|im_start|>assistant
+ Sobald das Problem mit dem Tool behoben ist, bekommst du dein Konto sicher zu 1000 % zurück.
+<|im_end|>
+<|im_start|>assistant
+ Sie waren während der gesamten Sitzung sehr nett und höflich.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich wissen, ob ich Ihnen heute noch weiterhelfen kann?
+<|im_end|>
+<|im_start|>assistant
+ Perfect, then we’ll do it this way and you’ll continue here later
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help.
+<|im_end|>
+<|im_start|>assistant
+ Gerne und setze den Fall einfach fort und helfe dir weiter.
+<|im_end|>
+<|im_start|>assistant
+ I bought the PRS-ORG Set and connected it to PRS-ORG mobile.
+<|im_end|>
+<|im_start|>assistant
+ Leader, I can’t open the link bonus.
+<|im_end|>
+<|im_start|>assistant
+ The player NAME-M is in there.
+<|im_end|>
+<|im_start|>assistant
+ I need it, as some of the PRS-ORG are linked with the app
+<|im_end|>
+<|im_start|>assistant
+ The link worked as well
+<|im_end|>
+<|im_start|>assistant
+ It shows me my training results and I can do the challenges accordingly
+<|im_end|>
+<|im_start|>assistant
+ Can you unlock the linking bonus for me?
+<|im_end|>
+<|im_start|>assistant
+ Oh, also Sie haben die App verknüpft, aber keinen NAME-M erhalten?
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne dabei.
+<|im_end|>
+<|im_start|>assistant
+ Um zu bestätigen, haben Sie Ihr Spiel auch schon einmal mit dem Spiel verbunden, um das Item zu erhalten, oder ist das der erste Mal?
+<|im_end|>
+<|im_start|>assistant
+ At PRS-ORG, successful connection is combined with the PRS-ORG app.
+<|im_end|>
+<|im_start|>assistant
+ And I can synchronize my training success
+<|im_end|>
+<|im_start|>assistant
+ And I can synchronize my training success
+<|im_end|>
+<|im_start|>assistant
+ The first time
+<|im_end|>
+<|im_start|>assistant
+ Okay, dan viel mir das ja auch gleich auf.
+<|im_end|>
+<|im_start|>assistant
+ I bought the inserts last week from PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ In diesem Fall muss ich den Fall an unsere zuständige Mannschaft weiterleiten, die den Artikel hinzufügen kann, wenn Sie ihn nicht im Spiel erhalten haben.
+<|im_end|>
+<|im_start|>assistant
+ Sie erhalten eine E-Mail, wenn der Vorgang abgeschlossen ist.
+<|im_end|>
+<|im_start|>assistant
+ Die Antwortzeit hängt von der Komplexität des Falles und der Warteschlange ab.
+<|im_end|>
+<|im_start|>assistant
+ Bitte setzen Sie den Fall nicht fort, da dies den Fall wieder an uns zurückbringen würde.
+<|im_end|>
+<|im_start|>assistant
+ Falls erforderlich, erstellen Sie einen neuen Fall.
+<|im_end|>
+<|im_start|>assistant
+ OK, so I should just wait then?
+<|im_end|>
+<|im_start|>assistant
+ Ja, für die Antwort unseres Teams.
+<|im_end|>
+<|im_start|>assistant
+ Bitte teilen Sie unterdessen Ihre Spieler-ID mit.
+<|im_end|>
+<|im_start|>assistant
+ Ja, für die Antwort unseres Teams.
+<|im_end|>
+<|im_start|>assistant
+ Bitte teilen Sie auch Ihre Spieler-ID mit.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde den Fall jetzt eskalieren.
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie noch eine andere Frage für mich?
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hi NAME-F :)
+<|im_end|>
+<|im_start|>assistant
+ Du, we ordered a Sum Up terminal for you via the company PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ We use a POS software called PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ The connection works, but we get the error message “Server Error” when we try to complete the checkout.
+<|im_end|>
+<|im_start|>assistant
+ Is there a general problem right now?
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass dies für Sie ein Anliegen ist, lassen Sie mich das gleich prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte zwei Minuten Zeit geben, um die Details für Sie zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ But surely
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie so geduldig waren.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bitte bestätigen, ob Sie sich auf PRS-ORG beziehen?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG is the partner
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid, aber könnten Sie bitte Ihre Frage erläutern?
+<|im_end|>
+<|im_start|>assistant
+ I am in my PRS-ORG system.
+<|im_end|>
+<|im_start|>assistant
+ I just connected the PRS-ORG terminal there.
+<|im_end|>
+<|im_start|>assistant
+ With the test account EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, when attempting to test a card payment, the error message “Server Error” is displayed.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Klarstellung.
+<|im_end|>
+<|im_start|>assistant
+ In dieser Situation muss ich einen Fall für Sie erstellen und bearbeiten und ihn an unsere zuständige Abteilung weiterleiten. Diese wird sich mit der Angelegenheit befassen und sich so schnell wie möglich bei Ihnen unter der registrierten E-Mail-Adresse melden.
+<|im_end|>
+<|im_start|>assistant
+ Bitte seien Sie versichert, dass dies ein Fall mit hoher Priorität ist und dass sie sich so schnell wie möglich damit befassen sollten.
+<|im_end|>
+<|im_start|>assistant
+ Please use the following email: EMAIL
+<|im_end|>
+<|im_start|>assistant
+ The email you entered is just a local test account.
+<|im_end|>
+<|im_start|>assistant
+ Leider können wir Ihnen die E-Mail nur an Ihre registrierte E-Mail-Adresse senden.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie uns bei weiteren Fragen gerne per Chat oder E-Mail kontaktieren und unseren Support-Bereich - URL - besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für das Chatten und einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ The link sent does not work
+<|im_end|>
+<|im_start|>assistant
+ Neither never
+<|im_end|>
+<|im_start|>assistant
+ I won’t receive a second one.
+<|im_end|>
+<|im_start|>assistant
+ Problem: I can’t reset my password
+<|im_end|>
+<|im_start|>assistant
+ Good morning
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne weiter.
+<|im_end|>
+<|im_start|>assistant
+ Die von Ihnen angegebene E-Mail-Adresse ist nicht mit einem PRS-ORG-Konto verknüpft.
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie eine andere E-Mail-Adresse, die Ihr PRS-ORG-Konto enthält?
+<|im_end|>
+<|im_start|>assistant
+ Oder die Nummer des Belegs aus einem Bestätigungs-E-Mail von einem kürzlichen Einkauf?
+<|im_end|>
+<|im_start|>assistant
+ When I try to use the email to create a new account, it says there is already an account
+<|im_end|>
+<|im_start|>assistant
+ So I can’t use the email address.
+<|im_end|>
+<|im_start|>assistant
+ I don’t quite understand why
+<|im_end|>
+<|im_start|>assistant
+ I don’t know if I have an account or not.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe die Rechnung von meiner Seite aus nicht.
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie diese E-Mail-Adresse für einen anderen PRS-ORG-Service verwendet?
+<|im_end|>
+<|im_start|>assistant
+ Wie sind PRS-ORG oder URL?
+<|im_end|>
+<|im_start|>assistant
+ Can I sync the ebooks from PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ Ich weiß nicht, was Sie mit "NAME-F" meinen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M
+<|im_end|>
+<|im_start|>assistant
+. Ich hoffe, du machst es gut heute.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ Also yesterday season 1 appeared in batttlefield
+<|im_end|>
+<|im_start|>assistant
+ And in the PRS-ORG I don’t get any rewards that are below level 5.
+<|im_end|>
+<|im_start|>assistant
+ That means : no premium content, not the new specialist and the other stuff
+<|im_end|>
+<|im_start|>assistant
+ Although I am level 14 in PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie keine Premium-Pass-Update-Prämien erhalten haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde sicher die Details für Sie prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich bitte Ihre PSN-ID wissen?
+<|im_end|>
+<|im_start|>assistant
+ What does that mean for me, so I don’t have to do anything anymore?
+<|im_end|>
+<|im_start|>assistant
+ And that will be fixed?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihr Problem ausführlich mit unserem Spielteam diskutiert und laut den neuesten Informationen, die wir vom Spielteam erhalten haben, haben sie ähnliche Berichte von anderen Spielern erhalten und arbeiten fleißig an einer Lösung.
+<|im_end|>
+<|im_start|>assistant
+ Sie haben mich gebeten, Sie zu empfehlen. Bitte warten Sie noch eine Weile.
+<|im_end|>
+<|im_start|>assistant
+ Sie erhalten auch alle Updates hier URL.
+<|im_end|>
+<|im_start|>assistant
+ Weil Sie sehr hart dafür gearbeitet haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde dies auch in Ihrem Fall erwähnen, damit es so schnell wie möglich gelöst wird.
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte auch, dass Sie das Spiel genießen und das Beste haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich überweise Ihre Kontoinformationen an unsere spezialisierte Mannschaft, damit sie das mit allen betroffenen Konten überprüfen kann und sobald es behoben ist, erhalten Sie die Münzen im Spiel.
+<|im_end|>
+<|im_start|>assistant
+ Okay, thanks.
+<|im_end|>
+<|im_start|>assistant
+ Is it that the chat is over?
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ I wish you a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ I would like to make a virtual payment.
+<|im_end|>
+<|im_start|>assistant
+ Greetings NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Um zu bestätigen, meinen Sie PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ I would like to activate my new PRS-ORG device for virtual payment.
+<|im_end|>
+<|im_start|>assistant
+ You received my trade registration number when you ordered.
+<|im_end|>
+<|im_start|>assistant
+ Greetings NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne dabei.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie diesen Link: URL
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie die erforderlichen Unterlagen an EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Nachdem Sie das Dokument gesendet haben, wird sich unser Team so schnell wie möglich bei Ihnen melden.
+<|im_end|>
+<|im_start|>assistant
+ Registration documents issued by official bodies.
+<|im_end|>
+<|im_start|>assistant
+ Who do I get this from?
+<|im_end|>
+<|im_start|>assistant
+ What do I have to send them this under?
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie die Dokumente senden können, die Sie senden können, und Sie haben unser Team wird sich so schnell wie möglich bei Ihnen melden.
+<|im_end|>
+<|im_start|>assistant
+ Mit Zahlungslinks können Sie die Zahlung aus der Ferne akzeptieren.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass diese Funktion in Ihrem Profil aktiviert ist, sodass Sie sie verwenden können.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Who do I contact to activate it?
+<|im_end|>
+<|im_start|>assistant
+ Um zu bestätigen, meinen Sie PRS-ORG oder Zahlungslinks?
+<|im_end|>
+<|im_start|>assistant
+ Can you send me the link.
+<|im_end|>
+<|im_start|>assistant
+ Zahlungslinks sind eine einfache, aber flexible Möglichkeit, um Online-Zahlungen aus der Ferne zu akzeptieren.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie diesen Link: URL
+<|im_end|>
+<|im_start|>assistant
+ Sie können bereits aktivierte Zahlungslinks verwenden.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie uns bei weiteren Fragen jederzeit kontaktieren und unseren Online-Support-Bereich besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ I like to buy the games directly on PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, I am only offered a single purchase for the game (€1.99) and a single purchase for the DLC bundle (€9.99), which is a total of €11.98.
+<|im_end|>
+<|im_start|>assistant
+ On PRS-ORG there is a Complete version for 4.56€.
+<|im_end|>
+<|im_start|>assistant
+ Who can I buy this price from PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ Keine Sorge!
+<|im_end|>
+<|im_start|>assistant
+ Ich werde versuchen, Ihnen bei der Aktualisierung zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte Sie darüber informieren, dass PRS-ORG und PRS-ORG völlig unterschiedliche Plattformen sind, daher können die auf beiden angezeigten Preise variieren und
+<|im_end|>
+<|im_start|>assistant
+ Oder es gibt derzeit keine Informationen dazu, da das Spiel, auf das Sie sich beziehen, nicht mehr verfügbar ist.
+<|im_end|>
+<|im_start|>assistant
+ That means PRS-ORG would rather I buy the games from PRS-ORG than from PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ I find that surprising.
+<|im_end|>
+<|im_start|>assistant
+ Es könnte daran liegen, dass
+<|im_end|>
+<|im_start|>assistant
+ Das Spiel wurde eingestellt.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie es noch nicht gekauft haben, können Sie
+<|im_end|>
+<|im_start|>assistant
+ Kaufen Sie es bei PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Okay, thanks for the info!
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ No, that was it.
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day!
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG Hilfe kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Als Referenz für die Zukunft können Sie uns unter der URL besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Habt einen schönen Tag und bleibt gesund.
+<|im_end|>
+<|im_start|>assistant
+ Hello everyone
+<|im_end|>
+<|im_start|>assistant
+ Short question
+<|im_end|>
+<|im_start|>assistant
+ I am taking over a new business and I would like to continue working with PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Can I use the app on my mobile to select both companies as needed and make payments?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your feedback and support.
+<|im_end|>
+<|im_start|>assistant
+ Greetings NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne heute, lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Es freut mich zu hören, dass Sie ein neues Geschäft eröffnen und PRS-ORG dafür verwenden möchten.
+<|im_end|>
+<|im_start|>assistant
+ In dieser Situation werde ich Sie bitten, ein neues Profil für Ihr neues Unternehmen zu erstellen.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I am aware of that.
+<|im_end|>
+<|im_start|>assistant
+ All information about opening a profile in.
+<|im_end|>
+<|im_start|>assistant
+ Company entry and bank details will be sent to you after the takeover is completed in order to open a new profile with you.
+<|im_end|>
+<|im_start|>assistant
+ But can I then use the PRS-ORG between the two companies to make payments afterwards, depending on which of the two shops I am in?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Details.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte zwei Minuten Zeit geben, um die Details in unserem System zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe geprüft, und in dieser Situation müssen Sie sich bei Ihrem ersten Profil in der PRS-ORG-App abmelden und sich bei dem anderen anmelden.
+<|im_end|>
+<|im_start|>assistant
+ Okay, I thought so.
+<|im_end|>
+<|im_start|>assistant
+ It’s okay for me.
+<|im_end|>
+<|im_start|>assistant
+ I will send you the necessary documents for the new profile opening promptly after the takeover is completed.
+<|im_end|>
+<|im_start|>assistant
+ Where can I send the application with the details of the new profile opening?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihr Verständnis.
+<|im_end|>
+<|im_start|>assistant
+ Sie können uns die Dokumente über Ihre registrierte E-Mail-Adresse an EMAIL senden.
+<|im_end|>
+<|im_start|>assistant
+ Perfect
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your support and the extensive information.
+<|im_end|>
+<|im_start|>assistant
+ Best regards
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Sie sind herzlich willkommen!
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, ich konnte Ihre Bedenken beantworten.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Otherwise everything is okay.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen, wenn Sie Fragen haben, kontaktieren Sie uns bitte über den Live-Chat und besuchen Sie unseren Online-Support-Bereich.
+<|im_end|>
+<|im_start|>assistant
+ Zusätzlich werden Sie nach Beendigung des Chats aufgefordert, eine kurze Umfrage auszufüllen, um meine Arbeit und meine Leistung in diesem Chat zu bewerten.
+<|im_end|>
+<|im_start|>assistant
+ Ich würde mich sehr freuen, wenn Sie sich eine Minute Zeit nehmen würden, um die Umfrage auszufüllen.
+<|im_end|>
+<|im_start|>assistant
+ Einen schönen Tag noch!
+<|im_end|>
+<|im_start|>assistant
+ 5 ist die höchste und 1 die niedrigste Stufe.
+<|im_end|>
+<|im_start|>assistant
+ Einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ The books of the Inheritance trilogy by N.K.
+<|im_end|>
+<|im_start|>assistant
+ Jemisin (English editions) are not correctly assigned to the series.
+<|im_end|>
+<|im_start|>assistant
+ Book 1 (The Hundred Thousand Kingdoms) is marked as #4 in the series, Book 2 (The Broken Kingdoms) as #6 and Book 3 (The Kingdom of Gods) as #5.
+<|im_end|>
+<|im_start|>assistant
+ There are no books with the numbering #1-3.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ The three mentioned books on March 20th
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne weiter.
+<|im_end|>
+<|im_start|>assistant
+ Erlauben Sie mir eine Minute, während ich Ihr Konto überprüfe.
+<|im_end|>
+<|im_start|>assistant
+ Wenn ich das richtig verstehe, entsprechen die Buchcover nicht dem Inhalt.
+<|im_end|>
+<|im_start|>assistant
+ Richtig?
+<|im_end|>
+<|im_start|>assistant
+ No, the covers are correct.
+<|im_end|>
+<|im_start|>assistant
+ The classification in a series, specifically the numbering, is wrong
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank
+<|im_end|>
+<|im_start|>assistant
+ Ich werde es unserem Entwicklerteam melden. Wenn es eine Lösung gibt, werden wir uns per E-Mail mit Ihnen in Verbindung setzen.
+<|im_end|>
+<|im_start|>assistant
+ Ich entschuldige mich für die Unannehmlichkeiten.
+<|im_end|>
+<|im_start|>assistant
+ No problem, and it won’t cause any inconvenience.
+<|im_end|>
+<|im_start|>assistant
+ I know the right order.
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ And have a nice evening 🙂
+<|im_end|>
+<|im_start|>assistant
+ Es freut mich.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ No, that was it.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben, es hat mich gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:I am now going to transfer you to one of our support staff who will take care of the return of your device.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hello
+<|im_end|>
+<|im_start|>assistant
+ I would like to return the items.
+<|im_end|>
+<|im_start|>assistant
+ Um zu bestätigen, ob Sie Ihren Kartenleser zurückgeben möchten, stimmen Sie dem zu?
+<|im_end|>
+<|im_start|>assistant
+ Card terminal and lite system
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne sofort bei der Lösung des Problems.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich den Prozess Schritt für Schritt erklären.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, warum Sie das Gerät zurücksenden?
+<|im_end|>
+<|im_start|>assistant
+ Too expensive and
+<|im_end|>
+<|im_start|>assistant
+ I want the voucher to come out immediately after typing in the order
+<|im_end|>
+<|im_start|>assistant
+ But this doesn’t work on your system.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Details.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte die Seriennummer Ihres Geräts nennen?
+<|im_end|>
+<|im_start|>assistant
+ Sie finden es auf der Rückseite des Geräts.
+<|im_end|>
+<|im_start|>assistant
+ Hallo, sind Sie da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie uns bei weiteren Fragen jederzeit kontaktieren und unseren Online-Support-Bereich besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Hello?
+<|im_end|>
+<|im_start|>assistant
+ Password reset
+<|im_end|>
+<|im_start|>assistant
+ NAME-M: The God Emperor of the Desert Planet
+<|im_end|>
+<|im_start|>assistant
+ Hallo!
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne weiter!
+<|im_end|>
+<|im_start|>assistant
+ I have unfortunately entered the wrong password several times, half of which has locked my account.
+<|im_end|>
+<|im_start|>assistant
+ If I choose the function for a password reset, I do not receive an email from PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Welche Anmeldungsoption wählen Sie zum Anmelden?
+<|im_end|>
+<|im_start|>assistant
+ From the PRS-ORG app on my computer, directly at PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie die Spam-Sektion in Ihrem E-Mail-Postfach überprüft?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I didn’t find anything there either.
+<|im_end|>
+<|im_start|>assistant
+ Bitte folgen Sie dem folgenden Link: URL
+<|im_end|>
+<|im_start|>assistant
+ Wie geht es denn?
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much, it worked.
+<|im_end|>
+<|im_start|>assistant
+ I will now try to register my new E-Reader PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass es funktioniert!!
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben, es hat mich gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ The registration with my new e-reader has now also worked.
+<|im_end|>
+<|im_start|>assistant
+ I wish you a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my PRS-ORG mostly can’t find a network and takes forever to connect if it does at all.
+<|im_end|>
+<|im_start|>assistant
+ I was given the map, which was bai.
+<|im_end|>
+<|im_start|>assistant
+ What can I do?
+<|im_end|>
+<|im_start|>assistant
+ As it works at the moment, it is hardly usable.
+<|im_end|>
+<|im_start|>assistant
+ 80% of card payments also don’t even go through, even if the device has a connection at all.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir sehr leid, dass Sie dieses Problem haben.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte sagen, seit wann Sie dieses Problem haben?
+<|im_end|>
+<|im_start|>assistant
+ Since the beginning (around
+<|im_end|>
+<|im_start|>assistant
+ (2 years), we don’t really use it anymore because it works so poorly.
+<|im_end|>
+<|im_start|>assistant
+ I only dug it out again because Christmas markets and other devices require it.
+<|im_end|>
+<|im_start|>assistant
+ But every time I have this thing in my hand, I get angry about it.
+<|im_end|>
+<|im_start|>assistant
+ Ich kann verstehen, dass das für Sie sehr beunruhigend sein muss.
+<|im_end|>
+<|im_start|>assistant
+ Sei versichert, dass ich mein Bestes tun werde, um Ihnen bei dieser Angelegenheit zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Ich schicke Ihnen jetzt eine E-Mail mit einigen Schritten zur Fehlerbehebung.
+<|im_end|>
+<|im_start|>assistant
+ Durch die E-Mail ist es einfacher für Sie, die Schritte durchzuführen.
+<|im_end|>
+<|im_start|>assistant
+ Sind wir noch verbunden?
+<|im_end|>
+<|im_start|>assistant
+ Our email address is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Bestätigung.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ So far, I have not received any email
+<|im_end|>
+<|im_start|>assistant
+ Ich habe es an Ihre E-Mail-Adresse gesendet.
+<|im_end|>
+<|im_start|>assistant
+ Sie werden es bald genug erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie unsere Support-Seite (URL) besuchen und uns über den Chat, per E-Mail (E-MAIL) oder telefonisch (030 - 3080 9902) kontaktieren, wenn Sie weitere Fragen haben sollten.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für das Chatten und einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ Support staff
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hello NAME-M, nice to see you again 🤖 How can I help you?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ hi
+<|im_end|>
+<|im_start|>assistant
+ I have a second PRS-ORG device for my new branch.
+<|im_end|>
+<|im_start|>assistant
+ Now there is a problem with the address.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bestätigen, ob Sie die Adresse ändern möchten?
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ I entered a different address.
+<|im_end|>
+<|im_start|>assistant
+ But now I can’t use the PRS-ORG device anymore.
+<|im_end|>
+<|im_start|>assistant
+ Limit 5000€
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihr Konto geprüft und konnte sehen, dass es leider nicht vollständig verifiziert ist.
+<|im_end|>
+<|im_start|>assistant
+ Ich empfehle Ihnen, Ihre E-Mails oder den SPAM-Ordner zu überprüfen. Sie haben möglicherweise E-Mails von uns erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Die Verifizierung ist erforderlich, um die Sicherheit Ihres Kontos aufrechtzuerhalten.
+<|im_end|>
+<|im_start|>assistant
+ Sobald dies erledigt ist, helfen wir Ihnen gerne bei den Vorteilen von unbegrenzten Transaktionen.
+<|im_end|>
+<|im_start|>assistant
+ What do I need to do to verify my account?
+<|im_end|>
+<|im_start|>assistant
+ Bitte antworten Sie auf die E-Mail, die Sie von unserem Team erhalten haben, damit unser Team das Profil überprüfen kann.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ I have already uploaded a document.
+<|im_end|>
+<|im_start|>assistant
+ Isn’t that enough?
+<|im_end|>
+<|im_start|>assistant
+ Bitte prüfen Sie, ob Sie eine E-Mail von unserem Team erhalten haben, um die Dokumente bereitzustellen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte antworten Sie darauf.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie uns bei weiteren Fragen jederzeit kontaktieren und unseren Online-Supportcenter besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Please, employees
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hi NAME-F, I’m NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hello, I have a question...
+<|im_end|>
+<|im_start|>assistant
+ We applied for a new credit card, the card was sent by post, but unfortunately we do not have a PIN or the activation code for the new card...
+<|im_end|>
+<|im_start|>assistant
+ Ich entschuldige mich für die Unannehmlichkeiten, die Ihnen dadurch entstanden sind.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich kurz die Details prüfen, damit ich Ihnen weiterhelfen kann.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me something about where it stays maybe...
+<|im_end|>
+<|im_start|>assistant
+ OK
+<|im_end|>
+<|im_start|>assistant
+ Sobald Sie die Karte erhalten haben, müssen Sie sie aktivieren und einen PIN festlegen, bevor Sie die Karte verwenden können.
+<|im_end|>
+<|im_start|>assistant
+ So wird es gemacht.
+<|im_end|>
+<|im_start|>assistant
+ 1
+<|im_end|>
+<|im_start|>assistant
+ Klicken Sie auf Ihrer PRS-ORG-Datei im linken Menü auf die Registerkarte "Business Account".
+<|im_end|>
+<|im_start|>assistant
+ 2
+<|im_end|>
+<|im_start|>assistant
+ Wählen Sie neben dem Schritt "PRS-ORG aktivieren" in der Aktivierungs-Checkliste die Option "Aktivieren."
+<|im_end|>
+<|im_start|>assistant
+ 3
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie die letzten vier Ziffern der langen Kartennummer ein und klicken Sie auf "Aktivieren".
+<|im_end|>
+<|im_start|>assistant
+ Yes, I understand that.
+<|im_end|>
+<|im_start|>assistant
+ 4
+<|im_end|>
+<|im_start|>assistant
+ Legen Sie einen PIN-Code fest, indem Sie Ihre gewünschte PIN-Nummer eingeben und klicken Sie auf "PIN festlegen".
+<|im_end|>
+<|im_start|>assistant
+ But we haven’t received anything yet.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bitte bestätigen, ob Sie das PRS-ORG erhalten haben?
+<|im_end|>
+<|im_start|>assistant
+ Yes...
+<|im_end|>
+<|im_start|>assistant
+ I thought there would be another letter with an activation code... now I know, thank you very much for your help
+<|im_end|>
+<|im_start|>assistant
+ That was it... PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Sie sind herzlich willkommen!
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie uns bei weiteren Fragen jederzeit kontaktieren und unseren Online-Support-Bereich besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I bought a PRS-ORG payment device, but I suspect that the battery is not in perfect condition.
+<|im_end|>
+<|im_start|>assistant
+ It never charges up to 100% and then shows either 35% or 27%
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F!
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir sehr leid, dass Sie dieses Problem haben.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte versuchen, ein anderes Ladekabel zu verwenden?
+<|im_end|>
+<|im_start|>assistant
+ I have already tried that.
+<|im_end|>
+<|im_start|>assistant
+ Do I have to connect the cable to the card reader and the bond printer individually to charge or does it charge together?
+<|im_end|>
+<|im_start|>assistant
+ Sie können es einzeln und zusammen laden.
+<|im_end|>
+<|im_start|>assistant
+ Sie können es einzeln und zusammen laden.
+<|im_end|>
+<|im_start|>assistant
+ Okay, but then something is definitely wrong with the battery.
+<|im_end|>
+<|im_start|>assistant
+ What should I do?
+<|im_end|>
+<|im_start|>assistant
+ Bitte seien Sie versichert, dass ich dieses Problem an unsere engagierte Mannschaft weiterleiten und sie sich per E-Mail oder Telefon mit Ihnen in Verbindung setzen wird, um Ihnen auf die bestmögliche Weise zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte die Seriennummer des Kartenlesegeräts nennen?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich keine Antwort von Ihnen erhalte, muss ich den Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, besuchen Sie bitte unseren Support-Bereich und kontaktieren Sie uns über den Chat, E-Mail oder Telefon.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Good day
+<|im_end|>
+<|im_start|>assistant
+ I have a problem with my PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Hallo, schön, dass Sie da sind.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, du machst es heute gut.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte das Problem etwas genauer erläutern?
+<|im_end|>
+<|im_start|>assistant
+ It always goes into offline mode because it doesn’t finish the update
+<|im_end|>
+<|im_start|>assistant
+ Also a new registration did not help, nor did a restart of PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ A notification always comes up saying an update is available
+<|im_end|>
+<|im_start|>assistant
+ But it does not have the update
+<|im_end|>
+<|im_start|>assistant
+ Who can I manually update it?
+<|im_end|>
+<|im_start|>assistant
+ Start
+<|im_end|>
+<|im_start|>assistant
+ Wie ich verstehe, brauchen Sie Hilfe, um auf die neue PRS-ORG zuzugreifen.
+<|im_end|>
+<|im_start|>assistant
+ Ich versichere Ihnen, dass ich hier bin, um zu helfen!
+<|im_end|>
+<|im_start|>assistant
+ Sorry for the inconvenience, but we had to disconnect your connection because a required update has taken effect.
+<|im_end|>
+<|im_start|>assistant
+ Please exit your game and restart PRS-ORG to get the latest update and go online again.
+<|im_end|>
+<|im_start|>assistant
+ But it can’t
+<|im_end|>
+<|im_start|>assistant
+ Bitte versuchen Sie die folgenden Schritte.
+<|im_end|>
+<|im_start|>assistant
+ Als Administrator PRS-ORG verwenden.
+<|im_end|>
+<|im_start|>assistant
+ Schließen Sie alle Hintergrund-Apps außer der PRS-ORG.URL.
+<|im_end|>
+<|im_start|>assistant
+ Deinstallieren und installieren Sie die neueste Version von PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Yes who do I get the latest version of PRS-ORG from
+<|im_end|>
+<|im_start|>assistant
+ If I reinstall PRS-ORG, do I then also have to reinstall all the games? :(
+<|im_end|>
+<|im_start|>assistant
+ Nein, Sie müssen nur die PRS-ORG neu installieren.
+<|im_end|>
+<|im_start|>assistant
+ Do I have to uninstall it first?
+<|im_end|>
+<|im_start|>assistant
+ The faith worked :)
+<|im_end|>
+<|im_start|>assistant
+ Ich freue mich, dass ich Ihnen bei Ihrem Problem helfen konnte.
+<|im_end|>
+<|im_start|>assistant
+ Das wäre ohne Ihre Mitarbeit nicht möglich gewesen.
+<|im_end|>
+<|im_start|>assistant
+ Gibt es sonst noch etwas, mit dem ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ No, thank you, that was everything :)
+<|im_end|>
+<|im_start|>assistant
+ Es hat uns gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie in Zukunft weitere Unterstützung benötigen, kontaktieren Sie uns bitte.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG Hilfe kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Habt einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hi NAME-N, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Good morning.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, sehr nett, Sie kennenzulernen.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich helfen?
+<|im_end|>
+<|im_start|>assistant
+ My PRS-ORG account was hacked on Saturday evening.
+<|im_end|>
+<|im_start|>assistant
+ My players and coins are all gone.
+<|im_end|>
+<|im_start|>assistant
+ Oh, ich verstehe, ich werde Ihnen sicherlich helfen, das Konto für Sie zu sichern und nach dem fehlenden Inhalt zu suchen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich bitte die E-Mail-Adresse für das PRS-ORG-Konto erfahren?
+<|im_end|>
+<|im_start|>assistant
+ The email address associated with the account was: EMAIL
+<|im_end|>
+<|im_start|>assistant
+ I think the hacker changed the address
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mir die E-Mail mitgeteilt haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe eine Bestätigungs-E-Mail gesendet, bitte prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Die E-Mail hat den Betreff "Besitzbestätigung für Ihr PRS-ORG-Konto" und Sie haben sie wahrscheinlich in Ihrem Posteingang oder Spam-Posteingang erhalten.
+<|im_end|>
+<|im_start|>assistant
+ 790940
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie den Code mit mir geteilt haben.
+<|im_end|>
+<|im_start|>assistant
+ Dies ist die E-Mail, die ich im Konto sehen kann: E-MAIL
+<|im_end|>
+<|im_start|>assistant
+, wenn dies nicht Ihre E-Mail-Adresse ist, teilen Sie bitte die E-Mail mit, auf die Sie sich für die Aktualisierung des Kontos anmelden möchten?
+<|im_end|>
+<|im_start|>assistant
+ Who could that be?
+<|im_end|>
+<|im_start|>assistant
+ That’s obviously a hacker email, right?
+<|im_end|>
+<|im_start|>assistant
+ How was the changed?
+<|im_end|>
+<|im_start|>assistant
+ Please change to EMAIL
+<|im_end|>
+<|im_start|>assistant
+ I never wanted to change my email!!!
+<|im_end|>
+<|im_start|>assistant
+ Klar, lasse es dir überprüfen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich wissen, ob Sie das Kennwort für das Konto zurückgesetzt haben?
+<|im_end|>
+<|im_start|>assistant
+ I didn’t change the password.
+<|im_end|>
+<|im_start|>assistant
+ Es gibt bereits ein PRS-ORG-Konto mit der E-Mail-Adresse, die Sie angegeben haben. Können Sie bitte eine andere E-Mail-Adresse angeben, die ich für Sie aktualisiere?
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, diese Chatverbindung ist noch aktiv?
+<|im_end|>
+<|im_start|>assistant
+ Ich will Sie nicht unter Druck setzen, aber wir sind seit 4 Minuten inaktiv.
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte sichergehen, dass unser Chat noch verbunden ist.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie nicht innerhalb von 1 Minute antworten können, wird dieser Chat automatisch geschlossen.
+<|im_end|>
+<|im_start|>assistant
+ Hello, I bought a book on Monday evening and it hasn’t arrived yet.
+<|im_end|>
+<|im_start|>assistant
+ I have restarted, repaired and synchronized the PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ The book is not there.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ On 25.01.2021,  already purchased books "The Mirror Saga" and "Essence of the Gods"
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, es wird mir eine Freude sein, Ihnen zu helfen
+<|im_end|>
+<|im_start|>assistant
+ Kann ich den Titel des Buches haben, das Sie gekauft haben und das Sie nicht finden können?
+<|im_end|>
+<|im_start|>assistant
+ The new book is called “Magic of the Elements”, that is not out yet.
+<|im_end|>
+<|im_start|>assistant
+ All the parts in a book
+<|im_end|>
+<|im_start|>assistant
+ In meinen Informationen steht, dass der Status des Buches "Lesen" ist
+<|im_end|>
+<|im_start|>assistant
+ What status, I only have the preview, the book is missing.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich bitte wissen, welches Lesegerät Sie haben?
+<|im_end|>
+<|im_start|>assistant
+ I use the PRS-ORG app on my tablet.
+<|im_end|>
+<|im_start|>assistant
+ Before that I had a PRS-ORG eRaeder,  which is unfortunately broken.
+<|im_end|>
+<|im_start|>assistant
+ Also nutzen Sie die PRS-ORG-App, ist es für PRS-ORG oder PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG, a Samsung tab
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank
+<|im_end|>
+<|im_start|>assistant
+ Bitte gehen Sie zur Startseite
+<|im_end|>
+<|im_start|>assistant
+ Und tippen Sie oben im Bildschirm auf das Menüsymbol mit drei Balken.
+<|im_end|>
+<|im_start|>assistant
+ Tippen Sie auf „Einstellungen“.
+<|im_end|>
+<|im_start|>assistant
+ Tippen Sie auf „Aus PRS-ORG ausloggen“.
+<|im_end|>
+<|im_start|>assistant
+ Tippen Sie auf „Weiter“.
+<|im_end|>
+<|im_start|>assistant
+ Nachdem Sie sich bei der PRS-ORG-App abgemeldet haben, tippen Sie auf „Anmelden“ und führen Sie die Schritte auf dem Bildschirm aus, um sich erneut anzumelden.
+<|im_end|>
+<|im_start|>assistant
+ Do I do that?
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ I tried to connect my account with PRS-ORG a few days ago, but they didn’t transfer 0.01€ to my account and when someone gave me a small tip online, it wasn’t credited to my account, but was refunded after a week or so, it was only two euros, but both times it was a bit unlucky?
+<|im_end|>
+<|im_start|>assistant
+ I tried to connect my account with PRS-ORG a few days ago, but they didn’t transfer 0.01€ to my account and when someone gave me a small tip online, it wasn’t credited to my account, but was refunded after a week or so, it was only two euros, but both times it was a bit unlucky?
+<|im_end|>
+<|im_start|>assistant
+ Iban was correctly entered both times.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid, dass Sie dieses Problem haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde mein Bestes tun, um Ihnen dabei zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich bitte bestätigen, ob Sie sich auf die Überweisung mit Ihrem Geschäftskonto oder den Kartenleser beziehen?
+<|im_end|>
+<|im_start|>assistant
+ It was online transfers that were executed without a card terminal from another bank and PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Is there a minimum amount for a business account that needs to be transferred?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie das geklärt haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe die Details für Sie geprüft und konnte sehen, dass unser Team Ihnen am  26.09.2022 eine E-Mail zu Ihrem Profil geschickt hat.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie diese E-Mail für weitere Erläuterungen dazu.
+<|im_end|>
+<|im_start|>assistant
+ Okay, then I need to find my login data.
+<|im_end|>
+<|im_start|>assistant
+ Sie können die E-Mail-Postfächer für die registrierte E-Mail-Adresse mit diesem Profil überprüfen, und Sie können die E-Mails überprüfen, die von unserem Team an Sie gesendet wurden.
+<|im_end|>
+<|im_start|>assistant
+ Bitte antworten Sie auf die E-Mail unseres Teams, damit sie sich weiter darum kümmern.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ The ebook
+<|im_end|>
+<|im_start|>assistant
+ Hello, I bought my first ebook/comic from you.
+<|im_end|>
+<|im_start|>assistant
+ Now I wanted to transfer it to my ebook reader.
+<|im_end|>
+<|im_start|>assistant
+ I am new to the PRS-ORG stuff.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, I added the book without a PRS-ORG account.
+<|im_end|>
+<|im_start|>assistant
+ After I have logged in correctly, I now get the message: e_lic_already_fulfilled_by_another_user
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne weiter.
+<|im_end|>
+<|im_start|>assistant
+ Ist Ihr Lesegerät ein PRS-ORG-Gerät oder eines anderen Herstellers?
+<|im_end|>
+<|im_start|>assistant
+ It is not a PRS-ORG device.
+<|im_end|>
+<|im_start|>assistant
+ It is a Pocketbook
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ Ich kann versuchen, die DRM-Lizenz des Buches zurückzusetzen.
+<|im_end|>
+<|im_start|>assistant
+ Einen Moment bitte.
+<|im_end|>
+<|im_start|>assistant
+ That would be great, thank you very much.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe die DRM-Lizenz des Buches wiederhergestellt.
+<|im_end|>
+<|im_start|>assistant
+ Bitte laden Sie die Datei "PRS-ORG" erneut herunter.
+<|im_end|>
+<|im_start|>assistant
+ aber löschen Sie zuerst die Kopie, die Sie auf PRS-ORG haben.
+<|im_end|>
+<|im_start|>assistant
+ Made by many thanks.
+<|im_end|>
+<|im_start|>assistant
+ I’ll do the same thing.
+<|im_end|>
+<|im_start|>assistant
+ Bitte nehmen Sie sich Zeit.
+<|im_end|>
+<|im_start|>assistant
+ Bitte informieren Sie mich, wenn Sie beim Übertragen des Buches auf Ihr Taschenbuchgerät Erfolg hatten.
+<|im_end|>
+<|im_start|>assistant
+ Yes, it worked, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben, es hat mich gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Device is not working
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hi NAME-M, I’m NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:As I understand it, there are problems with your card terminal.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:To make sure, can you describe this in more detail, NAME-M?
+<|im_end|>
+<|im_start|>assistant
+ In this case, one of our support staff can better help you solve the problem.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I’ll transfer you.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir Leid zu hören, dass Sie Probleme mit Ihrem Gerät haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde mein Bestes tun, um Ihnen zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte Ihre Anfrage erläutern?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Since yesterday, the card reader is not working.
+<|im_end|>
+<|im_start|>assistant
+ It shows “Payment declined”.
+<|im_end|>
+<|im_start|>assistant
+ The customer service wanted our trade register number (51151).
+<|im_end|>
+<|im_start|>assistant
+ I have already passed this on.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass dies für Sie ein Anliegen ist, lassen Sie mich das gleich prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie so geduldig waren.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe die Details geprüft und sehe, dass Ihr Konto leider nicht vollständig verifiziert ist.
+<|im_end|>
+<|im_start|>assistant
+ Die Verifizierung ist erforderlich, um die Sicherheit Ihres Kontos aufrechtzuerhalten.
+<|im_end|>
+<|im_start|>assistant
+ Sobald dies erledigt ist, helfen wir Ihnen gerne bei den Vorteilen von unbegrenzten Transaktionen.
+<|im_end|>
+<|im_start|>assistant
+ Who do I verify my account with?
+<|im_end|>
+<|im_start|>assistant
+ I am currently at a trade fair and therefore urgently need the device.
+<|im_end|>
+<|im_start|>assistant
+ My customers can’t pay otherwise.
+<|im_end|>
+<|im_start|>assistant
+ Da Sie die Limite für die vorherige Überprüfung erreicht haben, können Sie keine Transaktionen durchführen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie uns die folgenden Unterlagen per E-Mail an EMAIL:
+<|im_end|>
+<|im_start|>assistant
+ 1
+<|im_end|>
+<|im_start|>assistant
+ Legale Identifizierung - ID - (z. B. die Fotoseite Ihres Reisepasses mit der Unterschriftenseite oder beide Seiten Ihres Führerscheins).
+<|im_end|>
+<|im_start|>assistant
+ 2
+<|im_end|>
+<|im_start|>assistant
+ Nachweis des Wohnadresses - (z. B. Stromrechnungen, Bankauszüge oder Mietverträge, die innerhalb der letzten 6 Monate datiert sind).
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Do I need to add any explanation or does the team know?
+<|im_end|>
+<|im_start|>assistant
+ Sie können den Betreff mit "Onboarding-Verifizierungsdokumente" angeben.
+<|im_end|>
+<|im_start|>assistant
+ Bitte seien Sie versichert, dass ich den Prozess für Sie beschleunigen werde.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-N, ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich helfen?
+<|im_end|>
+<|im_start|>assistant
+ My account got a warning yesterday and my coins were deleted because I have pushed coins.
+<|im_end|>
+<|im_start|>assistant
+ I have realized this mistake and the punishment is fair.
+<|im_end|>
+<|im_start|>assistant
+ However, the message said that if I continue, I will face further consequences.
+<|im_end|>
+<|im_start|>assistant
+ However, I did not proceed and this morning there was a transfer ban on my account and I do not quite understand
+<|im_end|>
+<|im_start|>assistant
+ My email address is: EMAIL
+<|im_end|>
+<|im_start|>assistant
+ And my ID is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Gut!
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mir Ihre Anfrage mitgeteilt haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihr PRS-ORG-Konto geprüft und festgestellt, dass es eine Sanktion auf Ihrem Konto gibt, also keine Sorge, was ich tun kann, ist, dass ich Ihnen helfen kann, einen Disput mit dem Team für Nutzungsbedingungen zu eröffnen, und sie werden Ihnen nach einer Untersuchung bei der Lösung Ihres Problems mit der verknüpften E-Mail helfen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Also, as I said.
+<|im_end|>
+<|im_start|>assistant
+ I pushed coins and got my punishment for it.
+<|im_end|>
+<|im_start|>assistant
+ But then I didn’t go any further and still got the bank punishment
+<|im_end|>
+<|im_start|>assistant
+ That is what surprises me
+<|im_end|>
+<|im_start|>assistant
+ The first punishment was totally fair
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich darüber keine Sorgen.
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte Ihnen hiermit ehrlich sagen, dass Ihr Fall bearbeitet wird und von meinem Team sorgfältig behandelt wird.
+<|im_end|>
+<|im_start|>assistant
+ Es wurde aufgrund des Warteschlange-Status verzögert, und Sie sollten so schnell wie möglich eine Rückmeldung von unserem betroffenen Team erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Maybe my can change the permanent ban to a time-limited ban
+<|im_end|>
+<|im_start|>assistant
+ OK
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie gewartet haben!
+<|im_end|>
+<|im_start|>assistant
+ Ich habe einen Fall erstellt, und die Fallsnummer lautet "PHONENUMBER"
+<|im_end|>
+<|im_start|>assistant
+ „.
+<|im_end|>
+<|im_start|>assistant
+ Ich bitte Sie, etwas Zeit zu warten, und Sie werden bald eine E-Mail von unserem Nutzungsbedingungen-Team erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Außerdem möchte ich Sie bitten, die oben genannte Fallnummer nicht zu öffnen, da dies den Fall aus der Warteschlange entfernt und Sie den Status des Falles unter URL überprüfen können, indem Sie dort im Abschnitt „Meine Fälle“ nach weiteren Updates suchen.
+<|im_end|>
+<|im_start|>assistant
+ Verlieren Sie auch nicht die Hoffnung.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe gesehen, dass viele Spieler ihre Konten zurückbekommen haben, das ist auch meinem Bruder passiert, und er hat auch sein Konto zurückbekommen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihr Verständnis.
+<|im_end|>
+<|im_start|>assistant
+ Können wir Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Ok, thanks for your help
+<|im_end|>
+<|im_start|>assistant
+ Es hat mir Spaß gemacht, mit Ihnen zu sprechen, noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG Hilfe kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo, ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich heute unterstützen?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ The problem is as follows: After I installed the last Christmas update, the game no longer worked.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, ich werde mein Bestes tun, um Ihnen bei der Spielstart zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir bitte sagen, ob Sie einen Fehler erhalten?
+<|im_end|>
+<|im_start|>assistant
+ Wie ich überprüft habe, ist unser Team sich bewusst, dass das Spiel nach der Aktualisierung nicht funktioniert, und unser Team arbeitet daran, das Problem zu beheben. Ich bitte Sie, etwas Zeit zu warten, bis es behoben ist.
+<|im_end|>
+<|im_start|>assistant
+ I would like to say that I deleted the game after two days of unsuccessful attempts to start it and reinstalled it (the reinstallation was almost 3GB in size).
+<|im_end|>
+<|im_start|>assistant
+ This method has worked several times.
+<|im_end|>
+<|im_start|>assistant
+ After the last reinstallation, the game started at the very beginning, unfortunately.
+<|im_end|>
+<|im_start|>assistant
+ I have always played anonymously.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Seitdem habe ich geprüft, dass unsere Mannschaft weiß, dass das Spiel nach der Aktualisierung nicht funktioniert, und dass die Mannschaft daran arbeitet, das Problem zu beheben.
+<|im_end|>
+<|im_start|>assistant
+ Bitte warten Sie, bis es behoben wurde.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Es sieht so aus, als wären Sie vom Keyboard entfernt. Bitte lassen Sie mich wissen, ob wir noch verbunden sind.
+<|im_end|>
+<|im_start|>assistant
+ Maybe it will help them if they know that I played the game yesterday about
+<|im_end|>
+<|im_start|>assistant
+ I deleted it at 16:00 and immediately downloaded it again (2.9 GB) and installed it.
+<|im_end|>
+<|im_start|>assistant
+ Since I have been playing for more than 8 years, it would be nice if I could continue playing with my old game progress.
+<|im_end|>
+<|im_start|>assistant
+ Das verstehe ich, aber vertraue mir, unsere Mannschaft arbeitet daran, es wird so schnell wie möglich behoben.
+<|im_end|>
+<|im_start|>assistant
+ Machen Sie sich keine Sorgen, unser bestes Team arbeitet daran, und es wird behoben werden.
+<|im_end|>
+<|im_start|>assistant
+ Keine Sorge, unser bestes Team arbeitet daran, und es wird behoben.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your efforts.
+<|im_end|>
+<|im_start|>assistant
+ Who is going to continue now?
+<|im_end|>
+<|im_start|>assistant
+ Sie müssen warten, bis es repariert ist. Weitere Informationen finden Sie unter den Social-Media-Konten.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ NAME-F
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-F, schön, dass du da bist.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, Sie sind gut und gesund dort.
+<|im_end|>
+<|im_start|>assistant
+ Es scheint, dass Sie das Spiel nicht starten können?
+<|im_end|>
+<|im_start|>assistant
+ Yes, unfortunately not.
+<|im_end|>
+<|im_start|>assistant
+ The instructions by email have not been able to help us.
+<|im_end|>
+<|im_start|>assistant
+ The problem is not the anti-cheat window with us.
+<|im_end|>
+<|im_start|>assistant
+ Instead, the safe start on the computer is not possible.
+<|im_end|>
+<|im_start|>assistant
+ Another error message will open.
+<|im_end|>
+<|im_start|>assistant
+ Therefore, unfortunately, this guide won’t help.
+<|im_end|>
+<|im_start|>assistant
+ There are some specified settings that are not available,
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich keine Sorgen, ich werde sicherlich die Details zu Ihrem Problem prüfen und Ihnen alle möglichen Hilfe bieten.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich wissen, ob Sie das Spiel auf PRS-ORG oder auf PRS-ORG App spielen?
+<|im_end|>
+<|im_start|>assistant
+ The game was downloaded from PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Playing could be done via PRS-ORG or PRS-ORG App if it would work.
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie versucht, die PRS-ORG-App und die PRS-ORG-App zu deinstallieren und dann erneut zu installieren?
+<|im_end|>
+<|im_start|>assistant
+ No, not yet.
+<|im_end|>
+<|im_start|>assistant
+ Should we delete the PRS-ORG app and then reinstall it?
+<|im_end|>
+<|im_start|>assistant
+ Ja, bitte versuche das und lass es mich wissen, ob es funktioniert.
+<|im_end|>
+<|im_start|>assistant
+ Irgendein Erfolg?
+<|im_end|>
+<|im_start|>assistant
+ Sind wir verbunden?
+<|im_end|>
+<|im_start|>assistant
+ No, unfortunately not.
+<|im_end|>
+<|im_start|>assistant
+ We have reinstalled the app.
+<|im_end|>
+<|im_start|>assistant
+ And it comes up again with the error message "Security Violation - Secure boot is not enabled on this computer."
+<|im_end|>
+<|im_start|>assistant
+ After that, other pop-up windows with the corresponding messages will follow.
+<|im_end|>
+<|im_start|>assistant
+ Gehen Sie zu "Eigenschaften" > "Kompatibilität."
+<|im_end|>
+<|im_start|>assistant
+ Aktivieren Sie das Kontrollkästchen neben "Das Programm als Administrator ausführen."
+<|im_end|>
+<|im_start|>assistant
+ Tunen Sie dieselbe Einstellung für den Launcher an, den Sie verwenden, entweder PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Um auf der sicheren Seite zu sein, starten Sie den PC neu.
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie das.
+<|im_end|>
+<|im_start|>assistant
+ Where under Properties in the app or on the PC
+<|im_end|>
+<|im_start|>assistant
+ Found.
+<|im_end|>
+<|im_start|>assistant
+ Then we will test it now.
+<|im_end|>
+<|im_start|>assistant
+ Thank you!
+<|im_end|>
+<|im_start|>assistant
+ Sie sind jederzeit willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie dort Erfolg gehabt?
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche euch allen viel Glück und hoffe das Beste für euch.
+<|im_end|>
+<|im_start|>assistant
+ Wenn das Problem weiterhin besteht, kontaktieren Sie uns bitte erneut, und wir helfen Ihnen gerne weiter.
+<|im_end|>
+<|im_start|>assistant
+ Schön mit Ihnen heute zu plaudern.
+<|im_end|>
+<|im_start|>assistant
+ Bevor ich diese Chat-Sitzung beenden werde, möchte ich Sie bitten, sich gut um sich selbst zu kümmern.
+<|im_end|>
+<|im_start|>assistant
+ Für weitere Hilfe kontaktieren Sie uns bitte unter URL.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG Hilfe kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Einen schönen Tag und bleiben Sie sicher!
+<|im_end|>
+<|im_start|>assistant
+ Please check previous requests.
+<|im_end|>
+<|im_start|>assistant
+ I opened ports, set up LAN, updated console and did everything I could
+<|im_end|>
+<|im_start|>assistant
+ My players are slower and less reactive than the opponent’s.
+<|im_end|>
+<|im_start|>assistant
+ I have the fastest players and the highest rating.
+<|im_end|>
+<|im_start|>assistant
+ Who could that be?
+<|im_end|>
+<|im_start|>assistant
+ We are talking about PRS-ORG, just in case that silly question comes up
+<|im_end|>
+<|im_start|>assistant
+ Keine Sorge.
+<|im_end|>
+<|im_start|>assistant
+ Wir werden sicher prüfen, warum Sie dieses Problem haben und wie es behoben werden kann.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich die PRS-ORG und die E-Mail-Adresse kennen, die mit Ihrem PRS-ORG-Konto verknüpft sind?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank.
+<|im_end|>
+<|im_start|>assistant
+ Einen Moment, während ich den Account prüfe.
+<|im_end|>
+<|im_start|>assistant
+ Wir haben gerade Ihr Konto geprüft und es ist vollkommen in Ordnung.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir bitte mitteilen, welche Ports Sie im Spiel geöffnet haben?
+<|im_end|>
+<|im_start|>assistant
+ What a load of rubbish!
+<|im_end|>
+<|im_start|>assistant
+ Of course my account is in order.
+<|im_end|>
+<|im_start|>assistant
+ The ports that are intended.
+<|im_end|>
+<|im_start|>assistant
+ I am not stupid
+<|im_end|>
+<|im_start|>assistant
+ I expect an explanation
+<|im_end|>
+<|im_start|>assistant
+ Sie haben gesagt, dass Sie Ihre Ports öffnen.
+<|im_end|>
+<|im_start|>assistant
+ Es gibt viele Ports, die Sie öffnen können.
+<|im_end|>
+<|im_start|>assistant
+ Ich bitte um den von Ihnen geöffneten Port im Spiel.
+<|im_end|>
+<|im_start|>assistant
+ Are you okay?
+<|im_end|>
+<|im_start|>assistant
+ I expect a clarification
+<|im_end|>
+<|im_start|>assistant
+ Welche Klarstellung suchen Sie?
+<|im_end|>
+<|im_start|>assistant
+ I now even have a 100Mbps internet connection
+<|im_end|>
+<|im_start|>assistant
+ Sind wir noch verbunden?
+<|im_end|>
+<|im_start|>assistant
+ Da ich keine Antwort von Ihnen erhielt, musste ich unseren Chat heute beenden.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie noch Hilfe benötigen, kontaktieren Sie uns unter URL.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie uns kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Gute Reise und pass auf dich auf
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ My problem is that I have an old PRS-ORG account, but I can’t access it anymore because the email address no longer exists.
+<|im_end|>
+<|im_start|>assistant
+ Back then the address was EMAIL and it included PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Now I wanted to log in, but I don’t remember the password anymore
+<|im_end|>
+<|im_start|>assistant
+ I have tried it several times but unfortunately I don’t know it
+<|im_end|>
+<|im_start|>assistant
+ My current account is on EMAIL and I bought PRS-ORG today via PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mir mitteilen, dass Sie sich nicht einloggen können.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe dir auf jeden Fall.
+<|im_end|>
+<|im_start|>assistant
+ Bitte helfen Sie mir mit der E-Mail-ID, die mit Ihrem PRS-ORG-Konto verknüpft ist.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL BUT I no longer have access to this mail
+<|im_end|>
+<|im_start|>assistant
+ The one that was deleted years ago
+<|im_end|>
+<|im_start|>assistant
+ Therefore it would be great if the old account could be migrated to the new one.
+<|im_end|>
+<|im_start|>assistant
+ Da Sie keinen Zugriff auf die mit Ihrem PRS-ORG-Konto verknüpfte E-Mail-Adresse haben, benötige ich einige Informationen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie, dass die richtige Schreibweise des Begriffs entscheidend ist, ob die Antwort als korrekt angesehen wird.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie, dass ich die Kontowiederherstellung nur einmal durchführen kann. Bitte versuchen Sie daher, alle erforderlichen Informationen bereitzustellen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte teilen Sie die unten genannten Details mit:
+<|im_end|>
+<|im_start|>assistant
+ IP-Adresse (das Netzwerk, in dem du spielst): - [IP-Adresse]
+<|im_end|>
+<|im_start|>assistant
+ Geburtsdatum (während der Kontoerstellung angegeben): - [Geburtsdatum]
+<|im_end|>
+<|im_start|>assistant
+ Einmalige Bestellung auf Rechnung und Kaufdatum (Monat/Jahr): - [erworbenes Produkt und Datum]
+<|im_end|>
+<|im_start|>assistant
+ Letzte 4 Ziffern der Kreditkarte: - [letzte 4 Ziffern]
+<|im_end|>
+<|im_start|>assistant
+ Rechnungsadresse: - [Adresse]
+<|im_end|>
+<|im_start|>assistant
+ Telefonnummer: - [Telefonnummer]
+<|im_end|>
+<|im_start|>assistant
+ P-Address (the network you are playing on): - 127.0.0.0
+<|im_end|>
+<|im_start|>assistant
+ Date of birth (provided during account creation): 18.06.1985 [Geburtsdatum]
+<|im_end|>
+<|im_start|>assistant
+ A purchase on account and purchase date (month/year): - PRS-ORG - I don’t know the exact purchase date
+<|im_end|>
+<|im_start|>assistant
+ The last 4 digits of the credit card: was bought at the time via Paypal and has also been changed several times.
+<|im_end|>
+<|im_start|>assistant
+ Billing address: - At that time (Felsäckerweg 15, Billigheim, now Am Neck 20 Gemmrigheim)
+<|im_end|>
+<|im_start|>assistant
+ Telephone number - PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ Bitte geben Sie mir ein paar Minuten Zeit, um das zu prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie angemeldet sind.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe versucht, Ihr Konto mit den bereitgestellten Informationen zu verifizieren, konnte das aber nicht tun. Bitte geben Sie daher weitere Informationen an oder wenden Sie sich an einen Freund, wenn Ihnen jemand bei der Einrichtung Ihres PRS-ORG-Kontos geholfen hat, und kontaktieren Sie uns erneut, indem Sie eine neue Sitzung starten.
+<|im_end|>
+<|im_start|>assistant
+ Damage because I would like to have my old account back
+<|im_end|>
+<|im_start|>assistant
+ Can you at least put the old account on a new email address so I can reset the password?
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe und ich habe es versucht, aber es war nicht erfolgreich. Sie können jedoch erneut versuchen, indem Sie einige weitere Details eingeben und uns dann erneut kontaktieren, indem Sie die neue Sitzung starten.
+<|im_end|>
+<|im_start|>assistant
+ Es ist nicht so, dass Sie Ihr PRS-ORG-Konto dauerhaft verloren haben.
+<|im_end|>
+<|im_start|>assistant
+ Sie können es erneut versuchen.
+<|im_end|>
+<|im_start|>assistant
+ Versuche auch, den E-Mail-Anbieter zu kontaktieren und zu versuchen, den Zugriff auf die zugehörige E-Mail zu erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, I am NAME-M, your virtual assistant 🤖 One moment, I am now forwarding you to a support agent.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Technician required
+<|im_end|>
+<|im_start|>assistant
+ Ich bin hier, um Ihnen zu helfen. Könnten Sie mir bitte Ihr Anliegen erklären?
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, we are unable to connect the printer with the PRS-ORG cash register system.
+<|im_end|>
+<|im_start|>assistant
+ And need a technician for that
+<|im_end|>
+<|im_start|>assistant
+ I have tried everything possible.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, welches Kassensystem Sie verwenden?
+<|im_end|>
+<|im_start|>assistant
+ Where can I see it?
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bitte bestätigen, ob Sie eine POS Lite oder eine POS/
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bitte bestätigen, ob Sie eine POS Lite oder eine POS bestellt haben?
+<|im_end|>
+<|im_start|>assistant
+ Ixh unfortunately does not know what that is
+<|im_end|>
+<|im_start|>assistant
+ Can someone call me?
+<|im_end|>
+<|im_start|>assistant
+ PHONE NUMBER
+<|im_end|>
+<|im_start|>assistant
+ Keine Probleme.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, welche Drucker Sie haben?
+<|im_end|>
+<|im_start|>assistant
+ Wir haben ein eigenes Team für Anrufe.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne mit unserem Support-Kontakt.
+<|im_end|>
+<|im_start|>assistant
+ Rufen Sie uns unter der PHONENUMBER an.
+<|im_end|>
+<|im_start|>assistant
+ Unser Team hilft Ihnen gerne weiter.
+<|im_end|>
+<|im_start|>assistant
+ The Brother
+<|im_end|>
+<|im_start|>assistant
+ Another problem
+<|im_end|>
+<|im_start|>assistant
+ Hello, our PRS-ORG system rejects all transactions.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hi NAME-F, I’m NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+<|im_end|>
+<|im_start|>assistant
+ {Alex:Charged card twice by mistake,Charged card despite failed payment,I can’t see the transaction,PRS-ORG Pay/PRS-ORG,Other problem}
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ In this case, one of our support staff can better help you solve the problem.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I’ll transfer you.
+<|im_end|>
+<|im_start|>assistant
+ NAME-F: I’m sorry to hear that, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What kind of problem are you having with accepting a payment?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hello, our device is no longer accepting payments.
+<|im_end|>
+<|im_start|>assistant
+ Ich entschuldige mich aufrichtig für die Unannehmlichkeiten, die mir zugefügt wurden.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe Ihre Sorge vollkommen.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir Leid, dass Sie dieses Problem haben.
+<|im_end|>
+<|im_start|>assistant
+ Darf ich den Chat für zwei Minuten unterbrechen, um diese Details für Sie zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ De: NAME-M that’s no problem.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihr Konto geprüft und konnte sehen, dass es leider nicht vollständig verifiziert ist.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihr Konto geprüft und konnte sehen, dass es leider nicht vollständig verifiziert ist.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe geprüft und festgestellt, dass unsere engagierte Mannschaft sich damit befasst.
+<|im_end|>
+<|im_start|>assistant
+ Die vorherige E-Mail, die Sie gesendet haben, hat dieses Problem bereits aufgearbeitet.
+<|im_end|>
+<|im_start|>assistant
+ Oh, that’s why we haven’t received a payment report by email since yesterday?
+<|im_end|>
+<|im_start|>assistant
+ Ich habe geprüft und festgestellt, dass unsere engagierte Mannschaft sich damit befasst.
+<|im_end|>
+<|im_start|>assistant
+ Die vorherige E-Mail, die Sie gesendet haben, hat dieses Problem bereits aufgearbeitet.
+<|im_end|>
+<|im_start|>assistant
+ Who long does the verification process take?
+<|im_end|>
+<|im_start|>assistant
+ The last problem has already been solved, we know that already
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe vollkommen, dass das für Sie wichtig ist.
+<|im_end|>
+<|im_start|>assistant
+ Das engagierte Team arbeitet jedoch an Ihrem Problem und versucht, es für Sie zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass dies für Sie wichtig ist.
+<|im_end|>
+<|im_start|>assistant
+ Ich füge auch einen Hinweis hinzu, dass Sie uns erneut kontaktiert haben, um eine Aktualisierung zu erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Da die Probleme von einem dedizierten Team behoben werden, werden Sie höchstwahrscheinlich per E-Mail kontaktiert, aber falls nötig, wird das Team Sie auch telefonisch kontaktieren, um das Problem zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass dies für Sie ein Anliegen ist.
+<|im_end|>
+<|im_start|>assistant
+ Seien Sie versichert, dass das engagierte Team sich so schnell wie möglich mit Ihnen in Verbindung setzen wird.
+<|im_end|>
+<|im_start|>assistant
+ Seien Sie unbesorgt, Sie erhalten eine E-Mail-Bestätigung über die Aktualisierung des Problems, und sobald das Problem behoben ist, können Sie Transaktionen durchführen.
+<|im_end|>
+<|im_start|>assistant
+ Sei versichert, dass Sie eine E-Mail-Bestätigung über die Aktualisierung des Problems erhalten, und sobald das Problem behoben ist, können Sie versuchen, Transaktionen durchzuführen.
+<|im_end|>
+<|im_start|>assistant
+ Okay, in what way are we not completely verified?
+<|im_end|>
+<|im_start|>assistant
+ In the ice position, it says that I am verified.
+<|im_end|>
+<|im_start|>assistant
+ Ich entschuldige mich aufrichtig für die Unannehmlichkeiten, die mir zugefügt wurden.
+<|im_end|>
+<|im_start|>assistant
+ Dear Ladies and Gentlemen,
+<|im_end|>
+<|im_start|>assistant
+ I downloaded a book from the public library this morning and loaded it onto the eReader.
+<|im_end|>
+<|im_start|>assistant
+ When I opened the book, I received the following message:
+<|im_end|>
+<|im_start|>assistant
+ Your eReader is not authorized to open this book.
+<|im_end|>
+<|im_start|>assistant
+ This book is protected by PRS-ORG (DRM).
+<|im_end|>
+<|im_start|>assistant
+ You need to reactivate your eReader with your PRS-ORG ID via PRS-ORG Digital Editions (PRS-ORG).
+<|im_end|>
+<|im_start|>assistant
+ Please visit URL for more information.
+<|im_end|>
+<|im_start|>assistant
+ I found nothing on your website.
+<|im_end|>
+<|im_start|>assistant
+ Can you please help me further.
+<|im_end|>
+<|im_start|>assistant
+ So far I haven’t had any problems.
+<|im_end|>
+<|im_start|>assistant
+ Best regards
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben. Können Sie bitte die E-Mail-Adresse Ihres PRS-ORG-Kontos angeben?
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid, aber aus Qualitätsgründen muss ich diesen Chat schließen, wenn ich in 2 Minuten keine Antwort erhalte.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben, es hat mich gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Dear Mr NAME-M
+<|im_end|>
+<|im_start|>assistant
+ My email on the PRS-ORG is
+<|im_end|>
+<|im_start|>assistant
+ Aus Sicherheitsgründen möchten wir Sie bitten, entweder das Datum Ihrer letzten Einkaufsaktion oder den Titel eines der eBooks/Hörbücher in Ihrem Konto zu bestätigen.
+<|im_end|>
+<|im_start|>assistant
+ Sie haben seit einiger Zeit keine Antwort gegeben.
+<|im_end|>
+<|im_start|>assistant
+ Brauchen Sie noch Hilfe?
+<|im_end|>
+<|im_start|>assistant
+ Da Sie seit einiger Zeit nicht mehr geantwortet haben, muss ich den Chat aus Qualitätsgründen schließen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie später Hilfe benötigen, kontaktieren Sie uns bitte erneut.
+<|im_end|>
+<|im_start|>assistant
+ The title of the eBook is: One Dead.
+<|im_end|>
+<|im_start|>assistant
+ I downloaded it from the public library this morning.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie gewartet haben
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid, dass Sie dieses Problem haben. Ich werde mein Bestes tun, um Ihnen zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ In diesem Fall können Sie zunächst versuchen, das betroffene Buch zu entfernen, dann Ihr Lesegerät in ADE zu deautorisieren und es erneut zu autorisieren und das Buch erneut von der ursprünglichen Quelle herunterzuladen und es noch einmal zu übertragen
+<|im_end|>
+<|im_start|>assistant
+ Ich gehe mit dir weiter
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch online?
+<|im_end|>
+<|im_start|>assistant
+ Ich schließe diesen Chat jetzt, da keine Antwort erhalten wurde.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne weiter per E-Mail oder Sie können uns zu einem für Sie besseren Zeitpunkt erneut kontaktieren.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG eBooks von PRS-ORG kontaktiert haben, es hat mich gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Thank you and have a nice day
+<|im_end|>
+<|im_start|>assistant
+ Sorry for not answering immediately.
+<|im_end|>
+<|im_start|>assistant
+ I am at work and can not answer immediately.
+<|im_end|>
+<|im_start|>assistant
+ I will try it in the evening when I get back home.
+<|im_end|>
+<|im_start|>assistant
+ If it still doesn’t work, I’ll get back to you.
+<|im_end|>
+<|im_start|>assistant
+ Zu Ihrer Information sende ich Ihnen eine Abschrift unseres Gesprächs.
+<|im_end|>
+<|im_start|>assistant
+ Sollten Sie weitere Fragen oder Bedenken haben, können Sie jederzeit auf diese E-Mail antworten, und wir können Ihnen weiterhelfen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG eBooks von PRS-ORG kontaktiert haben, es hat mich gefreut, Ihnen heute helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie uns kontaktiert haben, um PRS-ORG zu starten?
+<|im_end|>
+<|im_start|>assistant
+ Yes that is correct.
+<|im_end|>
+<|im_start|>assistant
+ I can’t log in to the game properly.
+<|im_end|>
+<|im_start|>assistant
+ I am getting an error code of 3.0.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie ein Problem beim Starten des Spiels haben.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich prüfen, was am besten zu machen ist.
+<|im_end|>
+<|im_start|>assistant
+ Zunächst möchte ich mich für die Unannehmlichkeiten entschuldigen.
+<|im_end|>
+<|im_start|>assistant
+ Ich ermittelt, bitte bleib mit uns in Verbindung.
+<|im_end|>
+<|im_start|>assistant
+ If it helps, I have already restarted the phone, and tried to log in over W-LAN and mobile data.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, without success.
+<|im_end|>
+<|im_start|>assistant
+ Das Spielteam hat uns gerade mitgeteilt, dass es sich um ein meldepflichtiges Problem handelt und das Team bald eine Lösung veröffentlichen wird.
+<|im_end|>
+<|im_start|>assistant
+ Nach der Fehlerbehebung können Sie das Spiel starten.
+<|im_end|>
+<|im_start|>assistant
+ Great, then everything should work again tomorrow.
+<|im_end|>
+<|im_start|>assistant
+ Thank you and have a nice evening.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie möchten, können wir das Problem an unsere Mannschaft weiterleiten, damit sie es für Sie lösen kann.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann das schon besser?
+<|im_end|>
+<|im_start|>assistant
+ Yes, please escalate the issue.
+<|im_end|>
+<|im_start|>assistant
+ Unsere Mitarbeiter werden Sie innerhalb der nächsten Arbeitsstunden/Tage per E-Mail kontaktieren, da die Kontaktspeed von unserem Team abhängt von der Anzahl der Fälle, die in der Warteschlange vorhanden sind.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie so verständnisvoll sind.
+<|im_end|>
+<|im_start|>assistant
+ Glauben Sie mir, ich habe noch nie jemanden so ruhig und geduldig geholfen.
+<|im_end|>
+<|im_start|>assistant
+ Es war schön, heute mit Ihnen zu plaudern.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen heute noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you, then I will wait for the email and hope that the problem will be fixed soon.
+<|im_end|>
+<|im_start|>assistant
+ Other than that, I have nothing else.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Es freut mich, Ihnen heute helfen zu können!
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Einen schönen Tag und bleiben Sie gesund!
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-F,
+<|im_end|>
+<|im_start|>assistant
+ I used my private email address for the sake of simplicity when registering.
+<|im_end|>
+<|im_start|>assistant
+ I want to change this to EMAIL now
+<|im_end|>
+<|im_start|>assistant
+ Can you change that for me please?
+<|im_end|>
+<|im_start|>assistant
+ Möchten Sie Ihre registrierte E-Mail-Adresse ändern?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ Ich freue mich, dass Sie uns darüber kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich Ihnen kurz die Details erklären.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie Ihre E-Mail-Adresse ändern möchten, senden Sie uns bitte eine E-Mail von Ihrer registrierten E-Mail-Adresse mit der Bitte um eine Änderung.
+<|im_end|>
+<|im_start|>assistant
+ Bitte geben Sie in der E-Mail sowohl das alte als auch das neue E-Mail-Konto an.
+<|im_end|>
+<|im_start|>assistant
+ To which email address should I send the request for change?
+<|im_end|>
+<|im_start|>assistant
+ Nachdem die E-Mail gesendet wurde, rufen Sie uns bitte unter TELEFONNUMMER an, um zu überprüfen, ob die Änderung von Ihnen angefordert wurde.
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie uns eine E-Mail an EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Bitte seien Sie versichert, dass unser engagiertes Team Ihnen sofort nach Ihrer Anrufs bei der angegebenen Nummer telefonisch die gewünschten Änderungen vornehmen wird.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ And what number should I call?
+<|im_end|>
+<|im_start|>assistant
+ I just sent the email.
+<|im_end|>
+<|im_start|>assistant
+ Bitte rufen Sie uns unter TELEFONNUMMER an, um zu überprüfen, ob die Änderung von Ihnen veranlasst wurde.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ I would like to change my account for the payout
+<|im_end|>
+<|im_start|>assistant
+ Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems like an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ Hello?
+<|im_end|>
+<|im_start|>assistant
+ Hallo, bitte erläutern Sie Ihre Anfrage.
+<|im_end|>
+<|im_start|>assistant
+ I would like to change my bank account details, to which the payment should be made
+<|im_end|>
+<|im_start|>assistant
+ Who can I do it for?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie bestätigt haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne heute, lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Melden Sie sich mit einem Webbrowser bei Ihrer PRS-ORGfile an und wählen Sie das Profilsymbol in der rechten oberen Ecke aus.
+<|im_end|>
+<|im_start|>assistant
+ Wählen Sie "Profildetails"
+<|im_end|>
+<|im_start|>assistant
+ Wählen Sie "Bankverbindung" und dann "Bankkonto ändern".
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie Ihre neue Sortennummer und Kontonummer ein.
+<|im_end|>
+<|im_start|>assistant
+ Klicken Sie auf "Speichern und fortfahren".
+<|im_end|>
+<|im_start|>assistant
+ Sie erhalten eine SMS mit einem 4-stelligen Code an Ihre registrierte Telefonnummer.
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie den Code in das entsprechende Feld ein, um Ihre Änderung zu bestätigen.
+<|im_end|>
+<|im_start|>assistant
+ Ok, thanks, I’ll try it.
+<|im_end|>
+<|im_start|>assistant
+ Es hat uns gefreut, Ihnen helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Abgesehen davon, kann ich Ihnen heute noch mit etwas helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you, if it doesn’t work I will contact you again
+<|im_end|>
+<|im_start|>assistant
+ Ja, wir helfen Ihnen gerne dabei.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie Fragen haben, kontaktieren Sie uns bitte erneut und besuchen Sie unser Online-Supportcenter.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass Sie da sind NAME-M, ich hoffe, es geht Ihnen gut.
+<|im_end|>
+<|im_start|>assistant
+ Es sieht so aus, als hätten Sie Probleme beim Verknüpfen von PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Was ich sehe, ist, dass Sie am 28. September ein PRS-ORG-Konto von Ihrem PRS-ORG-Konto entfernt haben: EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Der Name des PRS-ORG-Kontos war: ALPHANUMERICID
+<|im_end|>
+<|im_start|>assistant
+ Möchten Sie ein neues PRS-ORG-Konto mit demselben PRS-ORG-Konto verknüpfen: EMAIL?
+<|im_end|>
+<|im_start|>assistant
+ Hello, exactly.
+<|im_end|>
+<|im_start|>assistant
+ I just wanted to connect my PRS-ORG account with PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ As can be seen in the screenshot, this has been done in the past with another account.
+<|im_end|>
+<|im_start|>assistant
+ I was hacked a few months ago - so I assume that the account was connected to PRS-ORG at that time.
+<|im_end|>
+<|im_start|>assistant
+ After I realized the hack, I immediately activated the authenticator.
+<|im_end|>
+<|im_start|>assistant
+ My PRS-ORG account is actually “NAME-N”
+<|im_end|>
+<|im_start|>assistant
+ Möchten Sie ein neues PRS-ORG-Konto "spoonisch" mit demselben PRS-ORG-Konto verknüpfen: EMAIL?
+<|im_end|>
+<|im_start|>assistant
+ That’s exactly what I want, but not “poonisch” but “spoonisch” :)
+<|im_end|>
+<|im_start|>assistant
+ Kein Problem.
+<|im_end|>
+<|im_start|>assistant
+ Wonderful
+<|im_end|>
+<|im_start|>assistant
+ Sie können Ihr PRS-ORG-Konto jetzt mit Ihrem PRS-ORG-Konto verknüpfen.
+<|im_end|>
+<|im_start|>assistant
+ Hier finden Sie die Schritte: URL
+<|im_end|>
+<|im_start|>assistant
+ Bitte lassen Sie mich wissen, wenn Sie heute noch weitere Anliegen haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe das alte PRS-ORG-Konto aus dem Hintergrund entfernt.
+<|im_end|>
+<|im_start|>assistant
+ Jetzt sollten Sie in der Lage sein, ein neues PRS-ORG-Konto mit Ihrem PRS-ORG-Konto zu verknüpfen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Perfect, it worked.
+<|im_end|>
+<|im_start|>assistant
+ Now PRS-ORG is linked.
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much!
+<|im_end|>
+<|im_start|>assistant
+ Otherwise, I have no other concerns.
+<|im_end|>
+<|im_start|>assistant
+ I wish you a nice weekend!
+<|im_end|>
+<|im_start|>assistant
+ Es mir eine Freude.
+<|im_end|>
+<|im_start|>assistant
+ Zögern Sie nicht, uns jederzeit zu kontaktieren.
+<|im_end|>
+<|im_start|>assistant
+ Wir wünschen Ihnen viel Gesundheit.
+<|im_end|>
+<|im_start|>assistant
+ Nochmals vielen Dank, dass Sie sich an die PRS-ORG-Hilfe gewandt haben, viel Spaß!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello.
+<|im_end|>
+<|im_start|>assistant
+ I have a problem.
+<|im_end|>
+<|im_start|>assistant
+ I pre-ordered the game and bought PRS-ORG and I can’t play the game because I only have the preload.
+<|im_end|>
+<|im_start|>assistant
+ Keine Sorge, ich helfe Ihnen gerne mit den Informationen weiter.
+<|im_end|>
+<|im_start|>assistant
+ Wenn eine Person PRS-ORG hat, ist sie berechtigt, den Early Trail des Spiels zu nutzen. Allerdings haben nur wenige Spieler auf der ganzen Welt dieses Problem. Machen Sie sich keine Sorgen, wir arbeiten daran, dies bald zu beheben.
+<|im_end|>
+<|im_start|>assistant
+ Ich schlage vor, dass Sie eine Weile warten.
+<|im_end|>
+<|im_start|>assistant
+ Sind wir noch verbunden?
+<|im_end|>
+<|im_start|>assistant
+ Yes, we are.
+<|im_end|>
+<|im_start|>assistant
+ But I am so disappointed.
+<|im_end|>
+<|im_start|>assistant
+ I bought the game and also bought PRS-ORG and I can’t play the game.
+<|im_end|>
+<|im_start|>assistant
+ People who only get PRS-ORG can play the game.
+<|im_end|>
+<|im_start|>assistant
+ Is there a fee you can offer?
+<|im_end|>
+<|im_start|>assistant
+ Da dieses Problem von mehreren anderen Spielern auf der ganzen Welt auftaucht, arbeiten wir daran, es bald zu beheben.
+<|im_end|>
+<|im_start|>assistant
+ Eine Erstattung wäre für uns jedoch sehr schwierig.
+<|im_end|>
+<|im_start|>assistant
+ Es ist nur eine Frage der Zeit, bitte warten Sie, und sobald es gelöst ist, können Sie es ohne Probleme spielen.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe wirklich, dass Sie das verstehen.
+<|im_end|>
+<|im_start|>assistant
+ I am really disappointed about it.
+<|im_end|>
+<|im_start|>assistant
+ Ich kann Ihre Frustration wirklich verstehen, aber das ist nur eine Frage der Zeit, während wir versuchen, das Problem zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte warten Sie einige Zeit.
+<|im_end|>
+<|im_start|>assistant
+ Gibt es also etwas anderes, mit dem ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ Sind wir noch verbunden?
+<|im_end|>
+<|im_start|>assistant
+ Da ich keine Antwort von Ihnen erhielt, musste ich unseren Chat heute beenden.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie noch Hilfe benötigen, kontaktieren Sie uns unter URL.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Alex, I’m Riley’s virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Good day
+<|im_end|>
+<|im_start|>assistant
+ I want to verify the account but I can’t upload the documents (PDF) that doesn’t work.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, welchen Fehler Sie erleben?
+<|im_end|>
+<|im_start|>assistant
+ It says the documents can’t be uploaded.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Sie können uns eine E-Mail an EMAIL mit den Dokumenten senden.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Everything is clear, it’s done.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the prompt processing and verification of the account, so that transactions can take place without any restrictions.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich keine Sorgen, Sie werden schnell geprüft und Sie erhalten eine E-Mail-Benachrichtigung, sobald es möglich ist.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Great, thank you.
+<|im_end|>
+<|im_start|>assistant
+ That’s all for now, thank you!
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day and a good weekend.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie den PRS-ORG-Support kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen oder Anliegen haben, kontaktieren Sie uns bitte per Chat oder E-Mail und besuchen Sie unseren Online-Support-Bereich.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass du da bist. Ich hoffe, du machst es gut heute.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ My in-game language does not match the language set in the settings and I can’t change it.
+<|im_end|>
+<|im_start|>assistant
+ Before it was in German now it is in English
+<|im_end|>
+<|im_start|>assistant
+ Gut!
+<|im_end|>
+<|im_start|>assistant
+ Wie ich verstanden habe, Sie haben das Problem, dass Sie die Sprache des Spiels nicht ändern können, richtig?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ Keine Sorge!
+<|im_end|>
+<|im_start|>assistant
+ Ich werde das sicherlich prüfen und versuchen, eine möglichst gute Lösung für Ihr Problem mit der Spracheinstellung des Spiels zu finden.
+<|im_end|>
+<|im_start|>assistant
+ Darf ich fragen, wo Sie das Spiel gekauft haben?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG App
+<|im_end|>
+<|im_start|>assistant
+ Originally from PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ But at the moment it is installed there
+<|im_end|>
+<|im_start|>assistant
+ Gut!
+<|im_end|>
+<|im_start|>assistant
+ Kann ich fragen, wann Sie versuchen, die Sprache des Spiels zu ändern, und welche genauen Fehlermeldungen Sie erhalten?
+<|im_end|>
+<|im_start|>assistant
+ You can’t change the language.
+<|im_end|>
+<|im_start|>assistant
+ You can only change the audio language.
+<|im_end|>
+<|im_start|>assistant
+ However, I would like to change the text language.
+<|im_end|>
+<|im_start|>assistant
+ Gut!
+<|im_end|>
+<|im_start|>assistant
+ Bitte führen Sie die folgenden Schritte aus, um die Sprache zu ändern:
+<|im_end|>
+<|im_start|>assistant
+ Um die Sprache zu ändern, gehen Sie zu PRS-ORG-Client> rechts auf das Spielsymbol klicken und dann "Spieleeigenschaften" > "Erweiterte Startoptionen" > "Spielsprache."
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M
+<|im_end|>
+<|im_start|>assistant
+ I couldn’t write anything so far.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ Who can I specify as the account holder for my account?
+<|im_end|>
+<|im_start|>assistant
+ Ich werde mein Bestes tun, um Ihnen zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie, dass Sie uns über ein Mitarbeiterprofil kontaktieren.
+<|im_end|>
+<|im_start|>assistant
+ Not here?
+<|im_end|>
+<|im_start|>assistant
+ Can you delete my account.
+<|im_end|>
+<|im_start|>assistant
+ Hello???
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Bestätigung.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bestätigen, ob Sie Ihr Mitarbeiterprofil oder das Hauptprofil, mit dem es verknüpft ist, löschen möchten?
+<|im_end|>
+<|im_start|>assistant
+ Abgesehen davon entschuldige ich mich für die Verzögerung bei der Antwort.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Please delete the main profile and delete the employee profile.
+<|im_end|>
+<|im_start|>assistant
+ Then I will create a new account.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe Ihre Sorge.
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie in diesem Fall eine Anfrage über das Hauptprofil per Chat oder E-Mail, und wir werden Ihre Anfrage mit hoher Priorität an unsere zuständige Abteilung weiterleiten, die das Profil für Sie löschen wird.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid zu hören, dass Sie dieses Profil nicht mehr verwenden möchten.
+<|im_end|>
+<|im_start|>assistant
+ Bitte beachten Sie jedoch, dass die Schließung Ihres Profils bedeutet, dass Sie es wieder öffnen können.
+<|im_end|>
+<|im_start|>assistant
+ Die Löschung des Profils bedeutet, dass alle mit ihm verknüpften Daten aus unserer Datenbank gelöscht werden.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Es hat uns gefreut, Ihnen helfen zu können.
+<|im_end|>
+<|im_start|>assistant
+ Abgesehen davon, kann ich Ihnen heute noch mit etwas helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, du machst es gut heute.
+<|im_end|>
+<|im_start|>assistant
+ Bitte lassen Sie mich wissen, wie ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ I pre-ordered the Ultimate Edition via PRS-ORG and now I have subscribed to the PRS-ORG for 15 Euro.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, I am not able to play that game.
+<|im_end|>
+<|im_start|>assistant
+ What is the problem?
+<|im_end|>
+<|im_start|>assistant
+ It should be playable today.
+<|im_end|>
+<|im_start|>assistant
+ Do I get my 15 euros back now?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mir Ihr Anliegen mitteilen.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen auf jeden Fall, da Sie nicht auf das Spiel zugreifen können, auch wenn Sie PRS-ORG haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte Sie darüber informieren, dass es gerade ein bekanntes Problem gibt.
+<|im_end|>
+<|im_start|>assistant
+ Ich schlage vor, dass Sie bitte eine Weile warten und sich auf dem Laufenden halten.
+<|im_end|>
+<|im_start|>assistant
+ Das Team untersucht dieses Problem bereits, da wir auch andere Berichte wie diesen erhalten.
+<|im_end|>
+<|im_start|>assistant
+ You made this mistake last year and you had a year to prepare for it.
+<|im_end|>
+<|im_start|>assistant
+ I don’t understand that!
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe die Sorge hier voll und ganz und schätze die Begeisterung für das Spiel.
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich keine Sorgen, Sie werden sicherlich das Spiel spielen können.
+<|im_end|>
+<|im_start|>assistant
+ Das Problem wurde bereits gemeldet.
+<|im_end|>
+<|im_start|>assistant
+ Und das Team versucht, das Problem zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Is it possible to estimate how long it will take?
+<|im_end|>
+<|im_start|>assistant
+ Where could one claim the money back?
+<|im_end|>
+<|im_start|>assistant
+ The 27.09.2021 is already Monday...
+<|im_end|>
+<|im_start|>assistant
+ Zuerst möchte ich mich für die Unannehmlichkeiten entschuldigen. Ich möchte Sie darüber informieren, dass dies ein bekanntes Problem ist und dass es bereits von vielen Spielern gemeldet wurde. Derzeit versuchen die Techniker, das Problem zu beheben.
+<|im_end|>
+<|im_start|>assistant
+ Um ehrlich zu sein, wurde uns nicht die genaue Zeit mitgeteilt, aber es sollte nicht lange dauern, da es derzeit Priorität hat, behoben zu werden.
+<|im_end|>
+<|im_start|>assistant
+ Bitte geben Sie uns etwas Zeit, um das Problem zu beheben.
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ But that’s not a good job PRS-ORG, really not.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the information.
+<|im_end|>
+<|im_start|>assistant
+ Good evening.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie hier kooperativ und verständnisvoll sind.
+<|im_end|>
+<|im_start|>assistant
+ Auch Ihnen noch einen schönen Abend liebe!
+<|im_end|>
+<|im_start|>assistant
+ Payments were declined at the terminal
+<|im_end|>
+<|im_start|>assistant
+ Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ Another problem
+<|im_end|>
+<|im_start|>assistant
+ I’m sorry to hear that, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ What kind of problem are you having with accepting a payment?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, I am NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, "How can I change my email address?
+<|im_end|>
+<|im_start|>assistant
+ “.
+<|im_end|>
+<|im_start|>assistant
+ In this case, one of our support staff can better help you solve the problem.
+<|im_end|>
+<|im_start|>assistant
+ {Alex:Charged card twice by mistake,Charged card despite failed payment,I can’t see the transaction,PRS-ORG Pay/PRS-ORG,Other problem}
+<|im_end|>
+<|im_start|>assistant
+ One moment, I’ll transfer you.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie sich darüber Sorgen machen.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich das gleich prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihr Konto geprüft und konnte sehen, dass es leider nicht vollständig verifiziert ist und Sie die Pre-Verifizierungshöchstgrenze von 5000 erreicht haben.
+<|im_end|>
+<|im_start|>assistant
+ Die Verifizierung ist erforderlich, um die Sicherheit Ihres Kontos aufrechtzuerhalten.
+<|im_end|>
+<|im_start|>assistant
+ Sobald dies erledigt ist, helfen wir Ihnen gerne bei den Vorteilen von unbegrenzten Transaktionen.
+<|im_end|>
+<|im_start|>assistant
+ Leider können wir Transaktionen erst durchführen, nachdem die Überprüfung abgeschlossen ist.
+<|im_end|>
+<|im_start|>assistant
+ Ich schlage vor, dass Sie Ihre E-Mails oder den SPAM-Ordner überprüfen, da Sie möglicherweise E-Mails von uns erhalten haben.
+<|im_end|>
+<|im_start|>assistant
+ What is still missing for verification?
+<|im_end|>
+<|im_start|>assistant
+ I have currently uploaded my ID
+<|im_end|>
+<|im_start|>assistant
+ I am at the fair right now and need the device
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Ihnen am 10. Oktober 2022 eine E-Mail gesendet wurde, in der unser Team Sie nach einigen Informationen gefragt hat.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde Ihnen diese E-Mail weiterleiten; bitte prüfen Sie sie und antworten Sie darauf.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe Ihr Bedürfnis nach Transaktionen, aber dies ist aus Sicherheitsgründen erforderlich und kann nicht vermieden werden.
+<|im_end|>
+<|im_start|>assistant
+ Bitte prüfen und antworten Sie auf die E-Mail, die ich Ihnen mit den angeforderten Informationen weitergeleitet habe.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ I am answering right now, I have already uploaded the ID in the app
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie bestätigt haben.
+<|im_end|>
+<|im_start|>assistant
+ Sobald unser Team das Profil überprüft hat, senden wir Ihnen eine E-Mail mit der Bestätigung, und Sie können sofort mit Transaktionen beginnen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen heute noch sonst bei etwas helfen?
+<|im_end|>
+<|im_start|>assistant
+ That’s it, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte per Chat oder E-Mail und besuchen Sie unseren Online-Support-Bereich.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben, und haben Sie noch einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-F, yesterday our new 3G terminal arrived.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately it is not working.
+<|im_end|>
+<|im_start|>assistant
+ After setting up, a test amount of 1.00 € was entered and “internal error” appeared.
+<|im_end|>
+<|im_start|>assistant
+ What can I do?
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir sehr leid, lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte die Seriennummer Ihres Geräts nennen?
+<|im_end|>
+<|im_start|>assistant
+ Sie finden es auf der Rückseite des Lesegeräts.
+<|im_end|>
+<|im_start|>assistant
+ PHONE NUMBER
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mir die Seriennummer zur Verfügung gestellt haben.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte zwei Minuten Zeit geben, um die Details in unserem System zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ OK
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihre Geduld.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte den Kartenleser neu starten und es erneut versuchen?
+<|im_end|>
+<|im_start|>assistant
+ Schalten Sie Ihr Gerät aus, indem Sie die Power-Taste für 4 Sekunden gedrückt halten oder bis die 4 grünen LEDs ausgeschaltet werden.
+<|im_end|>
+<|im_start|>assistant
+ Warten Sie noch ein paar Sekunden und schalten Sie das Gerät dann erneut ein.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I am still here.
+<|im_end|>
+<|im_start|>assistant
+ But I have to do what they write first
+<|im_end|>
+<|im_start|>assistant
+ Na bitte, nehmen Sie sich die Zeit.
+<|im_end|>
+<|im_start|>assistant
+ Everything is done.
+<|im_end|>
+<|im_start|>assistant
+ The device seems to be working again.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your effort
+<|im_end|>
+<|im_start|>assistant
+ Have a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie klären, dass das Problem behoben wurde.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hi, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass Sie da sind NAME-M, ich hoffe, es geht Ihnen gut.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, I can’t log in to the web app.
+<|im_end|>
+<|im_start|>assistant
+ I had added the image.
+<|im_end|>
+<|im_start|>assistant
+ I connected my PRS-ORG account with a new PRS-ORG account yesterday.
+<|im_end|>
+<|im_start|>assistant
+ I pre-ordered PRS-ORG through the PRS-ORG account but I can’t log in to the web app
+<|im_end|>
+<|im_start|>assistant
+ I don’t understand why
+<|im_end|>
+<|im_start|>assistant
+ Ich werde Sie sicherlich über die Informationen bezüglich der Berechtigung zum frühen Zugriff auf die PRS-ORG-Web-App informieren.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich bitte Ihre E-Mail-Adresse wissen?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ The old email from the old PRS-ORG account was EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank.
+<|im_end|>
+<|im_start|>assistant
+ Sie haben jetzt eine Testversion, oder?
+<|im_end|>
+<|im_start|>assistant
+ But there I no longer had access to the email as it was deleted by t-online due to its age
+<|im_end|>
+<|im_start|>assistant
+ Yes, but I pre-ordered PRS-ORG
+<|im_end|>
+<|im_start|>assistant
+ I’d be happy to show them to you.
+<|im_end|>
+<|im_start|>assistant
+ Aber Sie haben keinen Zugriff auf die vollständige Version des Spiels, das Sie bestellt haben.
+<|im_end|>
+<|im_start|>assistant
+ Sie bekommen das am 27. September
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte Sie darüber informieren, dass die PRS-ORG-Testversion keinen Zugriff auf Webanwendungen unterstützt.
+<|im_end|>
+<|im_start|>assistant
+ Das Spiel prüft Ihre Berechtigung und gewährt Ihnen automatisch vorzeitigen Zugriff auf die Web-App.
+<|im_end|>
+<|im_start|>assistant
+ Es kann nicht manuell entsperrt werden.
+<|im_end|>
+<|im_start|>assistant
+ Why don’t I have access?
+<|im_end|>
+<|im_start|>assistant
+ Did you pre-order it?
+<|im_end|>
+<|im_start|>assistant
+ Sie können die Webanwendung nicht frühzeitig zugreifen, da Ihr Konto nicht berechtigt ist.
+<|im_end|>
+<|im_start|>assistant
+ Warten Sie also, bis Sie Zugriff auf die vollständige Version von PRS-ORG erhalten, die Sie bestellt haben.
+<|im_end|>
+<|im_start|>assistant
+ Dann erhalten Sie automatisch Zugriff auf die Web-App.
+<|im_end|>
+<|im_start|>assistant
+ Hier können Sie alles über den Zugriff auf die Web-App lesen: URL
+<|im_end|>
+<|im_start|>assistant
+ I already know why, but why is my account not authorized?
+<|im_end|>
+<|im_start|>assistant
+ Bitte lesen Sie den oben geteilten Artikel, um die Zulassungsbedingungen zu kennen.
+<|im_end|>
+<|im_start|>assistant
+ Detaillierte Informationen finden Sie in diesem Artikel.
+<|im_end|>
+<|im_start|>assistant
+ Ein Grund dafür ist: Sie müssen vor dem 1. August 2021 eine PRS-ORG-Gruppe in PRS-ORG erstellt und sich bei PRS-ORG auf Ihrer Plattform angemeldet haben, um für den frühen Zugang zu PRS-ORG Web und Companion Apps berechtigt zu sein.
+<|im_end|>
+<|im_start|>assistant
+ Dies wird auch in dem oben geteilten Artikel erwähnt.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ I made a change to my account and have questions about it
+<|im_end|>
+<|im_start|>assistant
+ Ja, bitte fahren Sie mit Ihren Fragen fort.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ When I opened the account, I had entered my personal details as a board member of the association.
+<|im_end|>
+<|im_start|>assistant
+ Now, however, I want to prevent people from thinking that the account belongs to me.
+<|im_end|>
+<|im_start|>assistant
+ Therefore, I have sent them a current account statement and would like the account to be in the name of PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Registered
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie sich darüber Sorgen machen.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich das gleich prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass der Firmenname bereits als "PRS-ORG" registriert ist.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte angeben, welche Details in diesem Profil geändert werden sollen?
+<|im_end|>
+<|im_start|>assistant
+ Account holder is NAME-M, here I would like to please the Islamic Association Al Farouq e. V.
+<|im_end|>
+<|im_start|>assistant
+ As account holder, you can
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie dies angegeben haben.
+<|im_end|>
+<|im_start|>assistant
+ Um die Unterschriftenberechtigten für die PRS-ORG-Datei eines Unternehmens zu ändern, senden Sie uns bitte die ID eines Geschäftsführers des Unternehmens, wie sie im Handelsregister angegeben ist, und eine Vollmacht im Namen des neuen Unterzeichners, die von dem oben genannten Geschäftsführer unterzeichnet wurde, per E-Mail.
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie uns eine E-Mail an EMAIL und unser Team wird die Änderungen für Sie vornehmen.
+<|im_end|>
+<|im_start|>assistant
+ Sobald diese geändert wurde, erhalten Sie eine E-Mail-Bestätigung.
+<|im_end|>
+<|im_start|>assistant
+ There are no managers and no business registration!
+<|im_end|>
+<|im_start|>assistant
+ Who is a non-profit organization
+<|im_end|>
+<|im_start|>assistant
+ Bitte bestätigen Sie, ob Sie über gültige Dokumente für "PRS-ORG" verfügen.
+<|im_end|>
+<|im_start|>assistant
+ „.
+<|im_end|>
+<|im_start|>assistant
+ What do you mean by “valid documents”?
+<|im_end|>
+<|im_start|>assistant
+ Please specify
+<|im_end|>
+<|im_start|>assistant
+ Um den Namen des Kontoinhabers in "PRS-ORG" zu ändern, benötigen wir einige gültige Dokumente mit diesem Namen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie Beweise dafür haben, dass es den Namen "PRS-ORG" darstellt, senden Sie uns bitte diese Beweise zu.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hallo NAME-M, es freut mich wirklich, Sie kennenzulernen.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen einen tollen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ My PRS-ORG has been hacked and I can no longer log in.
+<|im_end|>
+<|im_start|>assistant
+ I received a Polish PRS-ORG Customer service Email.
+<|im_end|>
+<|im_start|>assistant
+ Then I clicked on the link and then the email address of my account changed.
+<|im_end|>
+<|im_start|>assistant
+ Wie ich überprüft habe, haben Sie einen Fall bezüglich eines Hackings Ihres Kontos erstellt.
+<|im_end|>
+<|im_start|>assistant
+ Habe ich recht?
+<|im_end|>
+<|im_start|>assistant
+ When?
+<|im_end|>
+<|im_start|>assistant
+ Already before?
+<|im_end|>
+<|im_start|>assistant
+ My account was hacked today.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir leid zu hören, dass Sie Probleme mit Ihrem Konto haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich weiß, dass das frustrierend sein kann, aber ich bin hier, um zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Das ist, was wir heute tun werden: Wir werden Ihr Konto wieder sichern und Ihnen helfen, Ihre Informationen zu aktualisieren.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich die E-Mail-Adresse des Kontos wissen?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ But it now says that there is no acc
+<|im_end|>
+<|im_start|>assistant
+ That was the email
+<|im_end|>
+<|im_start|>assistant
+ Alex didn’t change them.
+<|im_end|>
+<|im_start|>assistant
+ My account has disappeared:(
+<|im_end|>
+<|im_start|>assistant
+ Ich habe eine Bestätigungs-E-Mail gesendet, bitte prüfen.
+<|im_end|>
+<|im_start|>assistant
+ Die E-Mail hat den Betreff "Besitzbestätigung für Ihr PRS-ORG-Konto" und Sie haben sie wahrscheinlich in Ihrem Posteingang oder Spam-Posteingang erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Bitte prüfen Sie es bei allen Ihren aktiven E-Mails, den E-Mails, die Sie verwenden und aufrufen können.
+<|im_end|>
+<|im_start|>assistant
+ Bitte teilen Sie den Code mit, wenn Sie ihn erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M would be my first name.
+<|im_end|>
+<|im_start|>assistant
+ I pre-ordered PRS-ORG on PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ However, I have now downloaded the Open Beta from PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My question now would be, can I still play the beta today (Early Access) even though I start it from PRS-ORG?
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass Sie da sind, NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Also wenn ich Sie richtig verstanden habe, würden Sie gerne wissen, ob Sie auf Beta von PRS-ORG zugreifen können.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde mein Bestes tun, um dir zu helfen, keine Sorge.
+<|im_end|>
+<|im_start|>assistant
+ Wie Sie fragen, möchte ich Sie darüber informieren, dass Sie ja auch die Beta von PRS-ORG spielen können.
+<|im_end|>
+<|im_start|>assistant
+ But I bought the game on PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Today only all pre-order customers can play
+<|im_end|>
+<|im_start|>assistant
+ Are they linked?
+<|im_end|>
+<|im_start|>assistant
+ Can you still do that?
+<|im_end|>
+<|im_start|>assistant
+ Ja, das ist völlig in Ordnung.
+<|im_end|>
+<|im_start|>assistant
+ Sie können Ihr Spiel trotzdem genießen.
+<|im_end|>
+<|im_start|>assistant
+ Macht es möglich!!!
+<|im_end|>
+<|im_start|>assistant
+ Abgesehen davon, gibt es noch etwas, mit dem ich Ihnen heute helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ That would be all.
+<|im_end|>
+<|im_start|>assistant
+ I wish you a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Es ist mir eine Freude, Sie heute zu unterstützen.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, Sie haben Ihre Erfahrung bei uns genossen.
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Bleiben Sie sicher und gesund!!!
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG Hilfe kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Hilfe benötigen, können Sie uns jederzeit kontaktieren.
+<|im_end|>
+<|im_start|>assistant
+ Sie können auch unsere Wissensdatenbank unter URL & URL für In-Game-Abfragen überprüfen.
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass Sie da sind.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ Who can I get in touch with to get to the RheinEnergie Stadium?
+<|im_end|>
+<|im_start|>assistant
+ Or the Dynamo Dresden crest?
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie wissen möchten, wie Sie diese Inhalte im Spiel erhalten können.
+<|im_end|>
+<|im_start|>assistant
+ Ich teile die Informationen mit Ihnen.
+<|im_end|>
+<|im_start|>assistant
+ It is not to be found on the transfer market like other stadiums!
+<|im_end|>
+<|im_start|>assistant
+ There is still a long way to go!
+<|im_end|>
+<|im_start|>assistant
+ Es gibt drei Möglichkeiten, um solche Inhalte in Ihrem PRS-ORG zu erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie Glück haben, können Sie sie in einem Paket erhalten, Sie können sie über den Transfermarkt kaufen, wenn jemand sie dort platziert hat oder wenn wir eine solche Sonderaktion im Spiel durchführen.
+<|im_end|>
+<|im_start|>assistant
+ Ich kann das verstehen.
+<|im_end|>
+<|im_start|>assistant
+ Sie finden es nur auf dem Transfermarkt, wenn ein anderer Spieler es dort zum Verkauf ablegt.
+<|im_end|>
+<|im_start|>assistant
+ There are gold, silver and bronze stages!
+<|im_end|>
+<|im_start|>assistant
+ On the transfer market, there is only gold!
+<|im_end|>
+<|im_start|>assistant
+ There are only 15 different stages on it!
+<|im_end|>
+<|im_start|>assistant
+ The rest is missing!
+<|im_end|>
+<|im_start|>assistant
+ Silver and bronze complete!
+<|im_end|>
+<|im_start|>assistant
+ If you make it so big in the game, it should be available!
+<|im_end|>
+<|im_start|>assistant
+ There are almost 100 stages and you only have 15 to choose from?
+<|im_end|>
+<|im_start|>assistant
+ Ich weiß, was du hier sagen willst, aber der Transfermarkt wird von Spielern kontrolliert.
+<|im_end|>
+<|im_start|>assistant
+ Wir füllen den Inhalt nicht dort ein.
+<|im_end|>
+<|im_start|>assistant
+ If nobody can pull the packs, nobody can offer them!
+<|im_end|>
+<|im_start|>assistant
+ Maybe you should let them go free!
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihr Feedback.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde es mit meinem Team teilen.
+<|im_end|>
+<|im_start|>assistant
+ Gibt es sonst noch etwas, mit dem ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ No, thank you!
+<|im_end|>
+<|im_start|>assistant
+ Have a good evening
+<|im_end|>
+<|im_start|>assistant
+ Ich wünsche Ihnen eine erstaunliche Zeit.
+<|im_end|>
+<|im_start|>assistant
+ Auf Wiedersehen und bleib gesund!
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M
+<|im_end|>
+<|im_start|>assistant
+ Hallo, ich hoffe, Sie sind in Ordnung, wie kann ich Ihnen helfen?
+<|im_end|>
+<|im_start|>assistant
+ I am new here and I can’t start ALPHANUMERICID.
+<|im_end|>
+<|im_start|>assistant
+ A colleague recommended to me today that I empty the cache.
+<|im_end|>
+<|im_start|>assistant
+ I did that and then restarted.
+<|im_end|>
+<|im_start|>assistant
+ Then the game still wouldn’t run.
+<|im_end|>
+<|im_start|>assistant
+ Then I pressed the repair button (her colleague had also recommended that, but that wasn’t possible this morning).
+<|im_end|>
+<|im_start|>assistant
+ After the repair, restart again.
+<|im_end|>
+<|im_start|>assistant
+ Game still won’t start (problem is same as this morning)
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, lassen Sie mich prüfen, ob wir das Problem beheben können, mit dem Sie beim Starten von PRS-ORG zu kämpfen haben.
+<|im_end|>
+<|im_start|>assistant
+ Erkennen Sie einen Fehler?
+<|im_end|>
+<|im_start|>assistant
+ No, there is no error message.
+<|im_end|>
+<|im_start|>assistant
+ I can click on game settings and then a window opens.
+<|im_end|>
+<|im_start|>assistant
+ But when I click on “Play” nothing happens
+<|im_end|>
+<|im_start|>assistant
+ Haben Sie versucht, das Spiel als Administrator auszuführen?
+<|im_end|>
+<|im_start|>assistant
+ Schließen Sie PRS-ORG und stellen Sie sicher, dass es geschlossen ist.
+<|im_end|>
+<|im_start|>assistant
+ Klicken Sie mit der rechten Maustaste auf PRS-ORG und wählen Sie "Als Administrator ausführen," und bestätigen Sie dann.
+<|im_end|>
+<|im_start|>assistant
+ Ok, I did that.
+<|im_end|>
+<|im_start|>assistant
+ Führen Sie das Spiel jetzt über PRS-ORG aus.
+<|im_end|>
+<|im_start|>assistant
+ No change.
+<|im_end|>
+<|im_start|>assistant
+ It’s not working
+<|im_end|>
+<|im_start|>assistant
+ Okay, kein Problem.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde Ihnen einige Hilfeartikel mitteilen.
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ URL
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie uns über Ihr Absturz-/Frozen-Problem kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ [URL]
+<|im_end|>
+<|im_start|>assistant
+ Versuchen Sie es mit diesen Schritten.
+<|im_end|>
+<|im_start|>assistant
+ Bitte versuchen Sie alle Hilfeartikel heute selbst und wenn das Spiel nicht gestartet wird, kontaktieren Sie uns bitte erneut und informieren Sie die Person, mit der Sie Kontakt aufnehmen, dass Sie alle Fehlerbehebungsschritte versucht haben und eine Rückerstattung wünschen.
+<|im_end|>
+<|im_start|>assistant
+ Sind wir noch verbunden?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ I’ll watch it.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your support
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie zukünftige Fragen haben, wenden Sie sich bitte an die PRS-ORG-Hilfe.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihr Verständnis und Ihre Geduld während der gesamten Sitzung, das schätze ich wirklich, habt noch einen schönen Abend, lasst kleine Enttäuschungen nicht zu, dass sie ihn ruinieren, viel Glück und lächeln Sie weiter, immer!
+<|im_end|>
+<|im_start|>assistant
+ Bitte kontaktieren Sie uns für alle Fragen im Spiel und besuchen Sie die URL für Tipps und Tricks.
+<|im_end|>
+<|im_start|>assistant
+ Passen Sie auf sich auf, bleiben Sie sicher.
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ Hello, I would like to take advantage of the 30-day money-back guarantee in PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne heute, lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ My order number is PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte die Seriennummer Ihres Geräts nennen?
+<|im_end|>
+<|im_start|>assistant
+ Sie finden es auf der Rückseite des Lesegeräts.
+<|im_end|>
+<|im_start|>assistant
+ The device was supposed to be delivered yesterday, but I couldn’t pick it up in person.
+<|im_end|>
+<|im_start|>assistant
+ That’s why PRS-ORG sent it back to you.
+<|im_end|>
+<|im_start|>assistant
+ That is the invoice number PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ Können Sie bitte bestätigen, ob das Gerät bei Ihnen eingegangen ist oder nicht?
+<|im_end|>
+<|im_start|>assistant
+ Who can I confirm this with?
+<|im_end|>
+<|im_start|>assistant
+ I can give you the tracking number PHONE NUMBER
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ In diesem Fall werde ich das Problem an unsere spezialisierte Mannschaft weiterleiten und Ihre Situation erwähnen, und sie werden sich so schnell wie möglich per E-Mail bei Ihnen melden.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your help.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mein Verständnis und meine Kooperation schätzen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thanks if the colleagues contact me and everything fits.
+<|im_end|>
+<|im_start|>assistant
+ Ja.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie den PRS-ORG-Support kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte per Chat oder E-Mail und besuchen Sie unseren Online-Support-Bereich.
+<|im_end|>
+<|im_start|>assistant
+ Passen Sie gut auf und haben Sie einen schönen Sonntag!
+<|im_end|>
+<|im_start|>assistant
+ Money January has not been paid out
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems like an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-F.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Payments changed from Tuesday to daily January Payments are delayed
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie Ihre Auszahlungseinstellungen vor kurzem auf täglich geändert haben. Seien Sie unbesorgt, die Transaktionen sind noch im Bearbeitungsprozess und Sie erhalten sie in 2-3 Werktagen.
+<|im_end|>
+<|im_start|>assistant
+ Ok then, I’ll wait for the payout, thanks first time
+<|im_end|>
+<|im_start|>assistant
+ Bitte warten Sie einige Tage, wenn Sie es immer noch nicht erhalten, kontaktieren Sie uns erneut, und unsere entsprechende Abteilung unterstützt Sie weiter.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind herzlich willkommen!
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ No, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind herzlich willkommen!
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte erneut und besuchen Sie unser Online-Supportcenter.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für das Chatten und einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ The website-based method of changing your profile is not working.
+<|im_end|>
+<|im_start|>assistant
+ It loads and loads and loads and nothing happens
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir Leid, dass Sie dieses Problem haben.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich schnell prüfen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Bitte versuchen Sie es mit einem anderen Browser, es scheint sich um einen technischen Fehler zu handeln.
+<|im_end|>
+<|im_start|>assistant
+ But we have it is the same
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Können Sie mir bitte sagen, welche Fehlermeldung angezeigt wird?
+<|im_end|>
+<|im_start|>assistant
+ I have tried with PRS-ORG, PRS-ORG and with PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ Unfortunately, always the same.
+<|im_end|>
+<|im_start|>assistant
+ It just keeps charging, a circle that rotates and I left it charging for 4 hours and it is still rotating.
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir sehr leid, dass Sie dieses Problem haben. Ich habe versucht, die Details zu überprüfen, aber da das Profil noch nicht vollständig ist, gibt es keine Details, auf die ich zugreifen kann.
+<|im_end|>
+<|im_start|>assistant
+ Bitte versuchen Sie, eine neue PRS-ORG-Datei zu erstellen, da es einen technischen Fehler mit diesem Profil gibt.
+<|im_end|>
+<|im_start|>assistant
+ Bitte versuchen Sie, eine neue PRS-ORG-Datei zu erstellen. Es liegt ein technisches Problem mit diesem Profil vor.
+<|im_end|>
+<|im_start|>assistant
+ That too, if I want to complete my account it doesn’t work.
+<|im_end|>
+<|im_start|>assistant
+ Okay, I’ll try it.
+<|im_end|>
+<|im_start|>assistant
+ Who can I create a new account?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihr Verständnis.
+<|im_end|>
+<|im_start|>assistant
+ Sie können es aus unserer Website-URL erstellen.
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG von diesem Profil aus und fahren Sie mit der Neuanmeldung des Profils fort.
+<|im_end|>
+<|im_start|>assistant
+ Okay I will try it and let you know if anything goes wrong.
+<|im_end|>
+<|im_start|>assistant
+ Natürlich helfen wir Ihnen gerne weiter.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your time and effort.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind herzlich willkommen!
+<|im_end|>
+<|im_start|>assistant
+ Natürlich können Sie uns bei weiteren Fragen jederzeit kontaktieren und unseren Online-Support-Bereich besuchen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für das Chatten und einen schönen Tag!
+<|im_end|>
+<|im_start|>assistant
+ No, so far that’s all.
+<|im_end|>
+<|im_start|>assistant
+ Thank you.
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems that an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hello, we ordered the PRS-ORG PRS-ORG plus printer and we are not sure if the screen part can be taken out separately?
+<|im_end|>
+<|im_start|>assistant
+ The description looks like this and there is a protective film on the display that says “Slide out”.
+<|im_end|>
+<|im_start|>assistant
+ Ich würde mich freuen, Ihnen dabei zu helfen.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte die Seriennummer Ihres Geräts nennen?
+<|im_end|>
+<|im_start|>assistant
+ Sie finden es auf der Rückseite des Lesegeräts.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes.
+<|im_end|>
+<|im_start|>assistant
+ There is no number
+<|im_end|>
+<|im_start|>assistant
+ Bitte entfernen Sie den Kartenleser aus dem Ladehalter.
+<|im_end|>
+<|im_start|>assistant
+ The packaging says: PHONE NUMBER
+<|im_end|>
+<|im_start|>assistant
+ We don’t have a charging station, it is charged via the cable
+<|im_end|>
+<|im_start|>assistant
+ It is the PRS-ORG + Printer
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die Information.
+<|im_end|>
+<|im_start|>assistant
+ Can the display be removed?
+<|im_end|>
+<|im_start|>assistant
+ Sie können den Kartenleser von der Druckeinrichtung entfernen.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte erneut und besuchen Sie unser Online-Supportcenter.
+<|im_end|>
+<|im_start|>assistant
+ Einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ As per your question, here’s how you can end your account:
+<|im_end|>
+<|im_start|>assistant
+ Can you call me please my phone number is PHONENUMBER
+<|im_end|>
+<|im_start|>assistant
+ Hello NAME-M, I am NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, "How can I change my email address?
+<|im_end|>
+<|im_start|>assistant
+ “.
+<|im_end|>
+<|im_start|>assistant
+ Okay.
+<|im_end|>
+<|im_start|>assistant
+ Our support staff can change your phone number for you.
+<|im_end|>
+<|im_start|>assistant
+ One moment, I’ll transfer you.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I am now looking at your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne heute.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte detaillierter erläutern, damit ich Sie bestmöglich unterstützen kann?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I changed my account.
+<|im_end|>
+<|im_start|>assistant
+ Who can I set up?
+<|im_end|>
+<|im_start|>assistant
+ Kann ich wissen, was Sie einrichten möchten?
+<|im_end|>
+<|im_start|>assistant
+ Kann ich wissen, was Sie einrichten möchten?
+<|im_end|>
+<|im_start|>assistant
+ My new bank account
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie bestätigt haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde Sie durch die Schritte zum Ändern Ihrer Bankdaten führen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte melden Sie sich bei URL an
+<|im_end|>
+<|im_start|>assistant
+ Bitte wählen Sie das Profilsymbol in der rechten oberen Ecke.
+<|im_end|>
+<|im_start|>assistant
+ Wählen Sie dann "Ihr Profil"
+<|im_end|>
+<|im_start|>assistant
+ Wählen Sie "Bankverbindung" und dann "Bankkonto ändern".
+<|im_end|>
+<|im_start|>assistant
+ Yes, I thought about it.
+<|im_end|>
+<|im_start|>assistant
+ After that, you can continue
+<|im_end|>
+<|im_start|>assistant
+ Das
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie Ihre neue Sortennummer und Ihre Kontonummer ein.
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie dann Ihre neue Sortennummer und Kontonummer ein.
+<|im_end|>
+<|im_start|>assistant
+ Klicken Sie auf "Speichern und fortfahren".
+<|im_end|>
+<|im_start|>assistant
+ Schließlich erhalten Sie eine SMS mit einem 4-stelligen Code an Ihre registrierte Telefonnummer.
+<|im_end|>
+<|im_start|>assistant
+ Geben Sie den Code in das entsprechende Feld ein, um Ihre Änderung zu bestätigen.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I am here.
+<|im_end|>
+<|im_start|>assistant
+ Weitere Informationen finden Sie auch unter folgendem Link: URL
+<|im_end|>
+<|im_start|>assistant
+ Bitte bestätigen Sie, nachdem Sie die Details geändert haben.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ I am not at home right now and can’t get to the console.
+<|im_end|>
+<|im_start|>assistant
+ But I can’t get into the Companion App / WebApp.. it looks like the club has been reset
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass Sie da sind, NAME-M, ich hoffe, Sie machen es gut?
+<|im_end|>
+<|im_start|>assistant
+ Bitte sagen Sie mir, wie ich Ihnen helfen kann.
+<|im_end|>
+<|im_start|>assistant
+ I am not at home right now and can’t get to the console.
+<|im_end|>
+<|im_start|>assistant
+ But I can’t get into the Companion App / WebApp.. it looks like the club has been reset
+<|im_end|>
+<|im_start|>assistant
+ Can you see if anything has been changed to my account in the last 24 hours?
+<|im_end|>
+<|im_start|>assistant
+ Wie ich deine Sorge verstehe, dass du Probleme beim Einloggen in deine Konsole hast und dass dein Club wie zurückgesetzt aussieht.
+<|im_end|>
+<|im_start|>assistant
+ Habe ich recht?
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich keine Sorgen, ich helfe Ihnen gerne dabei, dieses Problem für Sie zu beheben.
+<|im_end|>
+<|im_start|>assistant
+ No, I am not at home and can’t test the console right now.
+<|im_end|>
+<|im_start|>assistant
+ But the WebApp does not work and the club name looks different there, I think.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me if anything has changed at the club in the last 24 hours?
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte die E-Mail-Adresse mit der PRS-ORG-Konto verbinden, um alle Details zu erhalten, um Ihr Problem zu lösen?
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie mir die E-Mail-Adresse zur Verfügung gestellt haben.
+<|im_end|>
+<|im_start|>assistant
+ Bitte bleiben Sie in Verbindung.
+<|im_end|>
+<|im_start|>assistant
+ Wie ich überprüfen kann, gibt es keine solchen Änderungen im Konto.
+<|im_end|>
+<|im_start|>assistant
+ Ich bitte Sie, Ihr Kennwort zurückzusetzen.
+<|im_end|>
+<|im_start|>assistant
+ Okay.. I already changed the PRS-ORG account earlier.
+<|im_end|>
+<|im_start|>assistant
+ Do you think it’s because of the maintenance work?
+<|im_end|>
+<|im_start|>assistant
+ And the PRS-ORG association was not reset or so?
+<|im_end|>
+<|im_start|>assistant
+ Wie ich bin, gibt es keine solchen Änderungen im Konto.
+<|im_end|>
+<|im_start|>assistant
+ Okay, thank you.
+<|im_end|>
+<|im_start|>assistant
+ Then I will report back when I am at the console on Friday and see something different
+<|im_end|>
+<|im_start|>assistant
+ Ich freue mich, dass ich Ihnen bei Ihrem Problem helfen konnte.
+<|im_end|>
+<|im_start|>assistant
+ Das wäre ohne Ihre Mitarbeit nicht möglich gewesen.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Bevor ich diese Chat-Sitzung beenden werde, möchte ich Sie bitten, sich gut um sich selbst zu kümmern.
+<|im_end|>
+<|im_start|>assistant
+ Für weitere Hilfe kontaktieren Sie uns bitte unter URL.
+<|im_end|>
+<|im_start|>assistant
+ Ich hoffe, Sie hatten eine gute Erfahrung mit mir und PRS-ORG. Es hat uns sehr gefreut, Ihnen helfen zu können. Vielen Dank, dass Sie so verständnisvoll waren.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG kontaktiert haben. Wir wünschen Ihnen noch einen schönen Tag.
+<|im_end|>
+<|im_start|>assistant
+ I would like to speak with an employee.
+<|im_end|>
+<|im_start|>assistant
+ I would like to speak with an employee in person.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hello NAME-M, nice to see you again 🤖 How can I help you?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:I’m sorry, I didn’t understand that.
+<|im_end|>
+<|im_start|>assistant
+ Could you rephrase your question, NAME-M?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte Ihre Anfrage detaillierter erläutern, damit ich Sie besser unterstützen kann?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I have been waiting for a week for the verification of my account.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde dir auf jeden Fall dabei helfen.
+<|im_end|>
+<|im_start|>assistant
+ We can’t use the device and I wanted to ask when we can work with it again.
+<|im_end|>
+<|im_start|>assistant
+ We need it urgently.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir sehr leid.
+<|im_end|>
+<|im_start|>assistant
+ Ich habe geprüft, und unser engagiertes Team arbeitet an der gleichen Sache.
+<|im_end|>
+<|im_start|>assistant
+ Sobald es erledigt ist, werden sie per E-Mail mit Ihnen Kontakt aufnehmen.
+<|im_end|>
+<|im_start|>assistant
+ But why does it take so long.
+<|im_end|>
+<|im_start|>assistant
+ They have all received the necessary documents.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe Ihre Sorge.
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie am 3. Mai 2023 um 11:24 Uhr eine E-Mail erhalten haben.
+<|im_end|>
+<|im_start|>assistant
+ Bitte antworten Sie auf diese E-Mail.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie gerne eine konkrete Zeitachse kennen möchten, aber leider habe ich keine solchen Informationen.
+<|im_end|>
+<|im_start|>assistant
+ Diese Angelegenheit wird von unserem dedizierten Team bearbeitet, daher werden wir uns nach Abschluss der Arbeit an Sie wenden.
+<|im_end|>
+<|im_start|>assistant
+ Weitere Unterlagen können später im Onboarding-Prozess angefordert werden.
+<|im_end|>
+<|im_start|>assistant
+ Dies kann auch Belege für Geschäftstätigkeiten wie Rechnungen, Visitenkarten, Firmenwebseite usw. umfassen.
+<|im_end|>
+<|im_start|>assistant
+ We have already answered this email.
+<|im_end|>
+<|im_start|>assistant
+ I don’t understand that now.
+<|im_end|>
+<|im_start|>assistant
+ We submitted everything, didn’t we?
+<|im_end|>
+<|im_start|>assistant
+ Have they received the documents
+<|im_end|>
+<|im_start|>assistant
+ In diesem E-Mail wurde Ihnen mitgeteilt, dass Sie Ihre Dokumente aus dem Dashboard hochladen müssen.
+<|im_end|>
+<|im_start|>assistant
+ In diesem E-Mail-Nachricht wird auf einen Link für Dokumentaktualisierungen verwiesen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte prüfen Sie es einmal und antworten Sie auf diese E-Mail, da Sie die Dokumente aktualisiert haben, damit Sie eine Antwort erhalten.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ OK, I’ll try it.
+<|im_end|>
+<|im_start|>assistant
+ I have already turned to them so many times.
+<|im_end|>
+<|im_start|>assistant
+ I have not received this information so far.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Bitte prüfen Sie, ob ich diese E-Mail weitergeleitet habe.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Yes, it has arrived.
+<|im_end|>
+<|im_start|>assistant
+ Thank you, no otherwise they can not help me
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie das bestätigen.
+<|im_end|>
+<|im_start|>assistant
+ Ich entschuldige mich für die Unannehmlichkeiten.
+<|im_end|>
+<|im_start|>assistant
+ Bitte antworten Sie auf diese E-Mail und aktualisieren Sie die Dokumente über diesen Link, damit unsere Mannschaft mit Ihnen in Kontakt treten kann.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte per Chat oder E-Mail und besuchen Sie unseren Online-Support-Bereich.
+<|im_end|>
+<|im_start|>assistant
+ We have not had access to the PRS-ORG cash register system for two weeks.
+<|im_end|>
+<|im_start|>assistant
+ Why are we not getting any response to our emails?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hi NAME-F, I’m NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems that an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Das tut mir leid.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne heute.
+<|im_end|>
+<|im_start|>assistant
+ Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte zwei Minuten Zeit geben, um die Details in unserem System zu prüfen?
+<|im_end|>
+<|im_start|>assistant
+ We have not received a response in two weeks and cannot use the system
+<|im_end|>
+<|im_start|>assistant
+ Ich schätze Ihre Geduld!
+<|im_end|>
+<|im_start|>assistant
+ Ich habe die Details für Sie geprüft und sehe, dass unser engagiertes Team sich damit befasst.
+<|im_end|>
+<|im_start|>assistant
+ Ich entschuldige mich aufrichtig für die Unannehmlichkeiten, die durch die verspätete Antwort entstanden sind.
+<|im_end|>
+<|im_start|>assistant
+ Ich kann Ihre Sorge bezüglich dieses Themas durchaus nachvollziehen.
+<|im_end|>
+<|im_start|>assistant
+ En: Bitte machen Sie sich keine Sorgen, ich habe unser engagiertes Team gebeten, Sie mit Priorität zu kontaktieren und das Problem so schnell wie möglich zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I am still here.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ I am so unhappy with PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ We don’t get any support.
+<|im_end|>
+<|im_start|>assistant
+ The card payment machine has also not been replaced to this day
+<|im_end|>
+<|im_start|>assistant
+ When will we get it?
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie mit der Situation frustriert sind, und das ist gerechtfertigt.
+<|im_end|>
+<|im_start|>assistant
+ Ich würde mich genauso fühlen, wenn es mir passieren würde.
+<|im_end|>
+<|im_start|>assistant
+ Diese Angelegenheit wurde jedoch bereits auf die nächste Stufe hochgestuft und meine Kollegen werden eine E-Mail-Antwort senden, sobald sie weitere Informationen für Sie haben.
+<|im_end|>
+<|im_start|>assistant
+ Ich werde Ihrem Anliegen auch eine hohe Priorität einräumen.
+<|im_end|>
+<|im_start|>assistant
+ Thank you
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für Ihr Verständnis und Ihre Geduld!
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte erneut und besuchen Sie unser Online-Supportcenter.
+<|im_end|>
+<|im_start|>assistant
+ Hello please change my email address to EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Sorry, it seems that an error has occurred.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Also, please only ask one question at a time so I don’t get confused.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Hi NAME-F, I’m NAME-M, your virtual assistant 🤖
+<|im_end|>
+<|im_start|>assistant
+ I can help you best if you formulate your questions briefly and clearly, for example, “How can I change my email address?”.
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:Who can I help you with today?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M_TEXT:One moment, I will transfer you to one of our support staff who will take care of your concern.
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ One moment please, I’ll look up the information.
+<|im_end|>
+<|im_start|>assistant
+ I am now listening to your conversation with NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe Ihnen gerne dabei, das Problem zu lösen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie Ihre E-Mail-Adresse ändern möchten, senden Sie uns bitte eine E-Mail von Ihrer registrierten E-Mail-Adresse, in der Sie eine Änderung der E-Mail-Adresse anfordern.
+<|im_end|>
+<|im_start|>assistant
+ Bitte geben Sie sowohl die alte als auch die neue E-Mail-Adresse in Ihrem Text an.
+<|im_end|>
+<|im_start|>assistant
+ Nachdem die E-Mail gesendet wurde, rufen Sie uns bitte unter TELEFONNUMMER an, um zu überprüfen, ob die Änderung von Ihnen angefordert wurde.
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie uns eine E-Mail an EMAIL.
+<|im_end|>
+<|im_start|>assistant
+ I don’t have access anymore because I sold the company.
+<|im_end|>
+<|im_start|>assistant
+ The old email address is EMAIL
+<|im_end|>
+<|im_start|>assistant
+ I would like to change my business details
+<|im_end|>
+<|im_start|>assistant
+ Okay, bitte senden Sie uns eine E-Mail von Ihrem neuen E-Mail-Konto.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie bitte bestätigen, welche Daten Sie ändern möchten?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ I did that.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ This is my new email address.
+<|im_end|>
+<|im_start|>assistant
+ Okay, gibt es sonst noch etwas, mit dem ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ I just sent an email
+<|im_end|>
+<|im_start|>assistant
+ Okay, gibt es sonst noch etwas, mit dem ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ I’d better call her.
+<|im_end|>
+<|im_start|>assistant
+ Ja, rufen Sie uns bitte an, dann werden die Daten über das Telefonat geändert.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch bei mir?
+<|im_end|>
+<|im_start|>assistant
+ Da ich seit einiger Zeit keine Antwort von Ihnen erhalten habe, muss ich diesen Chat schließen.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen haben, kontaktieren Sie uns bitte erneut und besuchen Sie unser Online-Supportcenter.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-N.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hey NAME-M!
+<|im_end|>
+<|im_start|>assistant
+ Schön, dass Sie da sind!
+<|im_end|>
+<|im_start|>assistant
+ Wie kann ich Ihnen heute helfen?
+<|im_end|>
+<|im_start|>assistant
+ I have a problem, just now I wanted to buy an extension for my PRS-ORG4 and there was a brief interruption.
+<|im_end|>
+<|im_start|>assistant
+ Now Paypal has charged me twice for the same extension.
+<|im_end|>
+<|im_start|>assistant
+ Also, I think I bought this expansion twice.
+<|im_end|>
+<|im_start|>assistant
+ Can I cancel a purchase?
+<|im_end|>
+<|im_start|>assistant
+ Ich sehe, dass Sie die Erweiterungspakete für PRS-ORG versehentlich 2 Mal gekauft haben!
+<|im_end|>
+<|im_start|>assistant
+ Ich helfe dir auf jeden Fall dabei!
+<|im_end|>
+<|im_start|>assistant
+ Thank you very much
+<|im_end|>
+<|im_start|>assistant
+ Bitte teilen Sie Ihre E-Mail-Adresse mit, die mit einem PRS-ORG-Konto verknüpft ist.
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Sorry, the first one was the wrong one.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank für die E-Mail!
+<|im_end|>
+<|im_start|>assistant
+ Ich möchte Sie darüber informieren, dass Sie Cottage living zweimal in diesem Konto gekauft haben E-MAIL.
+<|im_end|>
+<|im_start|>assistant
+ Aber ich kann nur eine Zahlung erfolgreich sehen und eine ist in Bearbeitung!
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie feststellen, dass Sie zweimal bezahlt wurden, wenden Sie sich bitte an die PRS-ORG!
+<|im_end|>
+<|im_start|>assistant
+ Sie werden Ihnen dabei helfen!
+<|im_end|>
+<|im_start|>assistant
+ Oh, then it was the other email, please excuse the confusion.
+<|im_end|>
+<|im_start|>assistant
+ Yes, I also noticed that, but Paypal sent me two invoices with the same value.
+<|im_end|>
+<|im_start|>assistant
+ OK
+<|im_end|>
+<|im_start|>assistant
+ Ja, dann wenden Sie sich bitte an PRS-ORG!
+<|im_end|>
+<|im_start|>assistant
+ Sie werden Ihnen dabei helfen!!
+<|im_end|>
+<|im_start|>assistant
+ Weil wir
+<|im_end|>
+<|im_start|>assistant
+ Thank you for your contact with PRS-ORG Help.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Can you tell me your first name?
+<|im_end|>
+<|im_start|>assistant
+ Hello, my name is NAME-M.
+<|im_end|>
+<|im_start|>assistant
+ Hallo
+<|im_end|>
+<|im_start|>assistant
+, ich hoffe, es geht dir gut.
+<|im_end|>
+<|im_start|>assistant
+ Bitte sagen Sie mir, wie ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ I have a problem with the password recovery of my old account.
+<|im_end|>
+<|im_start|>assistant
+ I used the password forget function but the email is not coming.
+<|im_end|>
+<|im_start|>assistant
+ The email for the account would be EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Ich habe Ihnen einen Link zum Zurücksetzen Ihres Kennworts an Ihre E-Mail-Adresse gesendet.
+<|im_end|>
+<|im_start|>assistant
+ Bitte prüfen Sie Ihre E-Mails und setzen Sie das Passwort zurück. Bitte lassen Sie es mich wissen.
+<|im_end|>
+<|im_start|>assistant
+ Ich warte hier.
+<|im_end|>
+<|im_start|>assistant
+ Wonderful, it worked.
+<|im_end|>
+<|im_start|>assistant
+ Thank you for the quick help.
+<|im_end|>
+<|im_start|>assistant
+ Perfekt. Gibt es sonst noch etwas, mit dem ich Ihnen helfen kann?
+<|im_end|>
+<|im_start|>assistant
+ No, that was everything, thank you.
+<|im_end|>
+<|im_start|>assistant
+ I wish you a nice day.
+<|im_end|>
+<|im_start|>assistant
+ Es hat mir sehr viel Spaß gemacht, mit Ihnen zu sprechen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie PRS-ORG Hilfe kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Passen Sie auf sich auf und haben Sie einen tollen Tag.
+<|im_end|>
+<|im_start|>assistant
+ Hello, welcome to PRS-ORG.
+<|im_end|>
+<|im_start|>assistant
+ My name is NAME-M, how can I help you?
+<|im_end|>
+<|im_start|>assistant
+ NAME-M - we accidentally closed the cash register for today.
+<|im_end|>
+<|im_start|>assistant
+ Now it appears that I can only open one cash register per day.
+<|im_end|>
+<|im_start|>assistant
+ Who can I overwrite it to - we have a meeting tonight
+<|im_end|>
+<|im_start|>assistant
+ Es tut mir Leid, dass es so gekommen ist. Lassen Sie mich sehen, was ich für Sie tun kann.
+<|im_end|>
+<|im_start|>assistant
+ Könnten Sie mir bitte sagen, welches POS-Gerät Sie haben?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG with the app
+<|im_end|>
+<|im_start|>assistant
+ Um zu bestätigen, haben Sie POS Lite oder POS Pro?
+<|im_end|>
+<|im_start|>assistant
+ PRS-ORG lite
+<|im_end|>
+<|im_start|>assistant
+ The PRS must be ORG - how can I find out what it is?
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie das bestätigen.
+<|im_end|>
+<|im_start|>assistant
+ Bitte senden Sie in diesem Fall eine E-Mail an EMAIL
+<|im_end|>
+<|im_start|>assistant
+ Wir haben ein Team, das sich damit befasst.
+<|im_end|>
+<|im_start|>assistant
+ Ok, can they still process it today?
+<|im_end|>
+<|im_start|>assistant
+ Sobald Sie ihnen eine E-Mail senden, werden Sie so schnell wie möglich von ihnen hören.
+<|im_end|>
+<|im_start|>assistant
+ Ich verstehe, dass Sie gerne eine konkrete Zeitachse kennen möchten; leider habe ich keine solchen Informationen.
+<|im_end|>
+<|im_start|>assistant
+ Sind Sie noch da?
+<|im_end|>
+<|im_start|>assistant
+ Yes, I just wrote the email.
+<|im_end|>
+<|im_start|>assistant
+ Sei versichert, dass unser Team sich so schnell wie möglich bei dir melden wird.
+<|im_end|>
+<|im_start|>assistant
+ Kann ich Ihnen sonst noch helfen?
+<|im_end|>
+<|im_start|>assistant
+ If we can reopen the cash register, that would be everything for now.
+<|im_end|>
+<|im_start|>assistant
+ Thank you
+<|im_end|>
+<|im_start|>assistant
+ Bitte machen Sie sich keine Sorgen, unser Team wird sich mit Ihnen in Verbindung setzen.
+<|im_end|>
+<|im_start|>assistant
+ Sie sind willkommen.
+<|im_end|>
+<|im_start|>assistant
+ Vielen Dank, dass Sie den PRS-ORG-Support kontaktiert haben.
+<|im_end|>
+<|im_start|>assistant
+ Wenn Sie weitere Fragen oder Anliegen haben, kontaktieren Sie uns bitte über den Chat oder per E-Mail und besuchen Sie unseren Online-Support-Bereich.

@@ -43,13 +43,13 @@ def write_to_file(output_path, formatted_dialogues):
 
 # Define languages and datasets
 languages = ['en-de', 'en-fr', 'en-nl', 'en-pt']
-datasets = ['train', 'valid', 'test']
+datasets = ['train', 'valid'] # TODO add test
 
 # Process each file and write the output
 for lang in languages:
     for dataset in datasets:
-        file_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/graphs/{dataset}/{lang}_merged.json'
-        output_path = f'/home/lkrause/data/llm-storage/selea/chat-task-2024-data/clteam/graphs/{dataset}/{lang}.txt'
+        file_path = f'../graphs/{dataset}/{lang}.json'
+        output_path = f'../graphs/{dataset}/{lang}.txt'
         
         if os.path.exists(file_path):
             print(f"Processing file: {file_path}")
