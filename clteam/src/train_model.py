@@ -80,7 +80,7 @@ def T5Trainer(args):
                                              logging_strategy="steps",
                                              logging_steps=10,
                                              save_strategy="steps",
-                                             eval_steps=100,
+                                             eval_steps=10000,
                                              save_steps=500,
                                              save_total_limit=2,
                                              learning_rate=args.lr,
@@ -174,7 +174,7 @@ def parse_args():
 
     parser.add_argument('--language', default='en-de', help='language pair for data loader')
     parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
-    parser.add_argument('--epoch', type=int, default=50)
+    parser.add_argument('--epoch', type=int, default=25)
     parser.add_argument('--bs', type=int, default=4)
     parser.add_argument('--eval_bs', type=int, default=8)
     parser.add_argument('--eval_dir', type=str, default="", help='the directory of model for evaluation')
