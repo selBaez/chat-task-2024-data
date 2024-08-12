@@ -52,6 +52,7 @@ def load_raw_data(args, split, dry_run=False):
 
     return problems
 
+
 def load_triple_data(args, split, dry_run=False):
     print(f"[Data]: Reading data after prompting...")
 
@@ -66,4 +67,3 @@ def load_triple_data(args, split, dry_run=False):
     print(f"number of {split} problems after prompting: {len(problems)}\n")
 
     return problems
-

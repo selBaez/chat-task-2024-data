@@ -10,7 +10,7 @@ from transformers import AutoTokenizer, DataCollatorForSeq2Seq, Seq2SeqTrainingA
 
 from utils.dataset import ChatDatasetWithGraph
 from utils.model import T5GenerationWithGraph
-from utils.utils_data import mk_dir, make_save_directory
+from utils.utils_data import make_save_directory
 from utils.utils_prompt import postprocess_text
 
 os.environ["WANDB_PROJECT"] = "WMT_24"
@@ -22,21 +22,19 @@ def T5Trainer(args):
     # make directories for output
     print('====Make directories====')
     save_dir = make_save_directory(args)
-    mk_dir(args.output_dir)
 
     # Create tokenizer
     print(f'====Create tokenizer====')
     tokenizer = AutoTokenizer.from_pretrained(args.model)
     tokenizer.add_special_tokens({'additional_special_tokens': ['<s>']})
-    vocab = tokenizer.get_vocab()
-    s_token_id = vocab["<s>"]
+    s_token_id = tokenizer.get_vocab()["<s>"]
     datacollator = DataCollatorForSeq2Seq(tokenizer)
 
     # Load data as dataset
     print('====Load dataset====')
     if args.eval_dir == "":
-        eval_set = ChatDatasetWithGraph("train", tokenizer, args)
-        train_set = ChatDatasetWithGraph("valid", tokenizer, args)
+        train_set = ChatDatasetWithGraph("train", tokenizer, args)
+        eval_set = ChatDatasetWithGraph("valid", tokenizer, args)
 
         # TODO uncomment for testing script
         # train_set = ChatDatasetWithGraph("mini-valid", tokenizer, args, dry_run=True)
@@ -92,7 +90,7 @@ def T5Trainer(args):
                                              metric_for_best_model="score",
                                              predict_with_generate=True,
                                              generation_max_length=args.output_len,
-                                             load_best_model_at_end=True,
+                                             load_best_model_at_end=False,
                                              report_to="wandb",
                                              bf16=args.bf16
                                              )
@@ -113,13 +111,6 @@ def T5Trainer(args):
         print('====Train====')
         trainer.train(resume_from_checkpoint=args.resume_from_checkpoint)
         trainer.save_model(save_dir)
-
-    # # Evaluate TODO: This makes it slower, not sure why but we might not need it now
-    # print('====Evaluate with HF====')
-    # metrics = trainer.evaluate(eval_dataset=eval_set, max_length=args.output_len)
-    # print("Evaluation metrics:", metrics)
-    # trainer.log_metrics("eval", metrics)
-    # trainer.save_metrics("eval", metrics)
 
     def generate_predictions(dataset):
         predict_results = trainer.predict(test_dataset=dataset, max_length=args.output_len)
@@ -157,11 +148,16 @@ def set_random_seeds(args):
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--raw_data_root', type=str, default='./../..')
-    parser.add_argument('--triple_data_root', type=str, default='./../graphs')
-    parser.add_argument('--data_root', type=str, default='./../preprocessed/without_dialogue_history_exploded')
-    parser.add_argument('--output_dir', type=str, default='./../experiments/without_dialogue_history/test')
-    parser.add_argument('--exclude_context', action='store_true', help='remove dialogue history from the prompt')
+    parser.add_argument('--raw_data_root', type=str, default='./../..',
+                        help='the directory of the original csvs')
+    parser.add_argument('--triple_data_root', type=str, default='./../graphs',
+                        help='the directory of the graphs extracted by GPT4')
+    parser.add_argument('--data_root', type=str, default='./../preprocessed/with_dialogue_history_exploded',
+                        help='the directory of the matrix representations')
+    parser.add_argument('--output_dir', type=str, default='./../experiments/with_dialogue_history_exploded',
+                        help='the directory where to save the model and its checkpoints')
+    parser.add_argument('--exclude_context', action='store_true',
+                        help='remove dialogue history from the prompt')
     parser.add_argument('--lr', type=float, default=5e-5)
     parser.add_argument('--eval_acc', type=int, default=None, help='evaluate accumulation step')
     parser.add_argument('--input_len', type=int, default=512)
@@ -171,16 +167,15 @@ def parse_args():
     parser.add_argument('--eval_strategy', type=str, default="steps", help='evaluation strategy')
     parser.add_argument('--weight_decay', type=float, default=0.05, help='weight decay')
     parser.add_argument('--bf16', action='store_true', help='use bf16 dtype')
+    parser.add_argument('--eval_dir', type=str, default="", help='the directory of model for evaluation')
 
     parser.add_argument('--language', default='en-de', help='language pair for data loader')
     parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
     parser.add_argument('--epoch', type=int, default=25)
     parser.add_argument('--bs', type=int, default=4)
     parser.add_argument('--eval_bs', type=int, default=8)
-    parser.add_argument('--eval_dir', type=str, default="", help='the directory of model for evaluation')
 
-
-    # TODO uncomment for testing script
+    # # TODO uncomment for testing script
     # parser.add_argument('--language', default='en-de_short', help='language pair for data loader')
     # parser.add_argument('--model', type=str, default='declare-lab/flan-alpaca-base')
     # parser.add_argument('--epoch', type=int, default=2)

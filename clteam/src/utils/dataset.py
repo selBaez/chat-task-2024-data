@@ -5,7 +5,7 @@ import torch
 from torch.utils.data import Dataset
 
 from utils.utils_data import load_raw_data, load_triple_data
-from utils.utils_prompt import build_train_pair, get_en_history, match_utterances
+from utils.utils_prompt import build_train_pair, match_utterances
 
 
 class ChatDatasetWithGraph(Dataset):
@@ -35,13 +35,10 @@ class ChatDatasetWithGraph(Dataset):
         self.data = match_utterances(self.raw_data, self.triple_data,
                                      self.got_input_text_list, self.got_adj_matrix_list)
 
-        if split == "test":
-            self.raw_data = get_en_history(self.raw_data, self.triple_data)
-
-        for og, post_prompt in zip(self.data, self.triple_data):
-            prompt, target, separator, matrix = build_train_pair(og, post_prompt, args.exclude_context)
+        for og in self.data:
+            source, target, separator, matrix = build_train_pair(og, args.exclude_context)
             self.target_text.extend(target)
-            self.source_text.extend(prompt)
+            self.source_text.extend(source)
             self.input_sep.extend(separator)
             self.input_mat.extend(matrix)
 
