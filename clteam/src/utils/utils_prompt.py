@@ -39,6 +39,10 @@ def match_utterances(raw_dialogues, tripled_dialogues, input_txt, input_matrix):
     super_idx = 0
     fixed_og = []
     for og, post_prompt in zip(raw_dialogues, tripled_dialogues):
+        # Initialize 'matched' key for all utterances
+        for og_utt in og:
+            og_utt["matched"] = False  # Default to False
+
         # This dialogue is the right length, leave it alone
         if len(og) == len(post_prompt["dialogue"]):
             for i, og_utt in enumerate(og):
@@ -72,7 +76,7 @@ def match_utterances(raw_dialogues, tripled_dialogues, input_txt, input_matrix):
                                                                   post_prompt["dialogue"][
                                                                       i + 1 - count_doubles - skipped])
 
-                            # Compare
+                        # Compare
                         this_match, double_match = texts_approximately_equal(text_to_compare,
                                                                              current_prompted_utt["text"],
                                                                              look_ahead=next_text)
@@ -93,7 +97,10 @@ def match_utterances(raw_dialogues, tripled_dialogues, input_txt, input_matrix):
                             og_utt["post_prompt"] = post_prompt["dialogue"][i - count_doubles - skipped]["text"]
                             skipped += 1
 
-                except:
+                except KeyError as e:
+                    print(f"KeyError: {e}")
+                except Exception as e:
+                    print(f"Unhandled exception: {e}")
                     continue
         temp = pd.DataFrame.from_dict(og)
         fixed_og.append(og)
@@ -105,7 +112,7 @@ def build_train_pair(og, exclude_context=False):
     all_inputs, all_targets, all_separator, all_matrix = [], [], [], []
     for i in range(len(og)):
         current_dialogue = og[:i + 1]
-        if current_dialogue[-1]["matched"]:
+        if current_dialogue[-1].get("matched", False):  # Check if 'matched' key exists and is True
             # Format text to translate
             to_translate = current_dialogue[-1]["source"]
             if "reference" in current_dialogue[-1].keys():
@@ -113,7 +120,7 @@ def build_train_pair(og, exclude_context=False):
             else:
                 target_translation = ""
 
-            # create the prompt input
+            # Create the prompt input
             if exclude_context:
                 prompt_input = f"Source segment:\n{to_translate}\n\n" \
                                f"Translation:\n"
@@ -137,6 +144,8 @@ def build_train_pair(og, exclude_context=False):
             all_targets.append(target_translation)
             all_separator.append(current_dialogue[-1]["input_txt"])
             all_matrix.append(current_dialogue[-1]["input_matrix"])
+        else:
+            print(f"No match found for dialogue at index {i}.")  # Log unmatched dialogues for debugging
 
     return all_inputs, all_targets, all_separator, all_matrix
 
