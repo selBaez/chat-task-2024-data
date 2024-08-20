@@ -47,14 +47,14 @@ def main():
     parser = argparse.ArgumentParser(description="Process and format files for submission.")
     parser.add_argument('--type', choices=['flan-t5', 'towerblocks'], required=True, help='The type of the input file: flan-t5 or towerblocks')
     parser.add_argument('--notebook_eval', action='store_true', help='Flag to update CSV file with predictions for notebook evaluation')
-    parser.add_argument('--base_csv_path', default='/home/lkrause/data/baran_storage_hpc/chat-task-2024-results/all_submissions', help='Base path to the CSV files')
+    parser.add_argument('--base_csv_path', default='/home/lkrause/data/baran_storage_hpc/chat-task-2024-data/clteam/submission_clteam/', help='Base path to the CSV files')
 
     args = parser.parse_args()
 
     languages = ['en-de', 'en-fr', 'en-nl', 'en-pt'] 
 
     for lang in languages:
-        csv_path = os.path.join(args.base_csv_path, f'{lang}.csv')
+        csv_path = os.path.join(args.base_csv_path, lang, f'{lang}.csv')
 
         if args.notebook_eval:
             if args.type == 'flan-t5':
